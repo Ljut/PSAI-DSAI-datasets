@@ -1,0 +1,761 @@
+Student ID,Age,Gender,Academic Performance (GPA),Study Hours Per Week,Social Media Usage (Hours per day),Sleep Duration (Hours per night),Physical Exercise (Hours per week),Family Support  ,Financial Stress,Peer Pressure,Relationship Stress,Mental Stress Level,Counseling Attendance,Diet Quality,Stress Coping Mechanisms,Cognitive Distortions,Family Mental Health History,Medical Condition,Substance Use
+802-17-3671,22,Female,2,9,2,12,2,1,1,3,5,9,No,1,Walking or Nature Walks,4,No,Yes,1
+871-12-8572,25,Female,0,28,0,6,0,1,1,1,2,9,Yes,3,Meditation,2,Yes,No,1
+495-13-2672,24,Female,0,45,3,12,10,3,3,1,4,9,Yes,5,Reading,1,Yes,Yes,3
+365-77-2496,20,Male,2,8,7,7,4,1,3,2,5,1,No,1,Social Media Engagement,2,Yes,No,4
+664-76-5622,28,Male,0,14,6,8,1,2,4,4,2,7,Yes,1,Exercise,1,Yes,No,3
+386-91-7629,24,Female,2,27,7,4,3,2,1,1,5,2,No,4,Talking to Friends,3,Yes,No,1
+740-27-0902,23,Female,1,30,5,9,3,5,4,3,5,10,No,5,Yoga,1,Yes,No,1
+193-03-0467,25,Male,3,12,0,4,5,5,5,1,3,4,No,1,Meditation,5,No,Yes,3
+195-29-3231,19,Female,3,19,1,6,10,5,5,3,3,8,No,3,Talking to Friends,4,No,No,3
+504-53-5581,21,Male,3,4,1,4,8,2,4,1,5,1,Yes,4,Talking to Friends,5,Yes,Yes,3
+282-69-0356,24,Male,3,38,6,11,4,2,5,4,5,10,Yes,1,Exercise,5,No,Yes,5
+803-83-7625,25,Male,2,2,8,12,3,3,4,5,2,3,Yes,1,Reading,4,Yes,Yes,4
+249-06-6401,25,Female,0,30,3,10,3,2,3,5,5,9,No,1,Reading,2,Yes,No,4
+713-55-3396,21,Female,0,39,2,4,0,1,5,5,5,4,Yes,5,Exercise,4,No,No,1
+879-05-6220,22,Male,0,44,5,10,2,4,3,1,2,10,Yes,3,Reading,4,Yes,No,2
+355-95-4355,24,Female,2,49,3,4,4,4,3,4,1,3,No,4,Social Media Engagement,4,Yes,No,5
+658-67-3956,23,Female,0,19,4,5,10,2,5,3,4,1,No,1,Watching Sports,5,No,Yes,1
+161-68-2043,18,Female,0,26,5,8,3,3,2,1,1,9,No,2,Exercise,3,No,No,5
+438-56-6737,27,Male,3,54,6,5,8,3,2,2,5,4,No,2,Yoga,5,No,No,1
+489-39-4380,24,Female,0,35,4,12,0,5,2,2,3,3,Yes,3,Spending Time Alone,1,Yes,No,3
+375-79-2097,18,Female,2,49,5,7,2,1,3,1,1,1,No,1,Spending Time Alone,5,Yes,No,2
+861-60-5151,30,Agender,0,37,4,12,10,4,3,5,4,4,No,2,Watching Sports,5,Yes,No,1
+629-99-0767,24,Male,1,8,1,6,7,4,2,4,4,1,Yes,1,Social Media Engagement,4,No,Yes,3
+115-75-7195,28,Agender,4,21,8,12,8,4,2,3,5,1,Yes,1,Travelling,3,Yes,Yes,4
+589-36-1147,28,Male,4,58,8,11,4,3,5,3,1,3,Yes,5,Walking or Nature Walks,1,Yes,Yes,4
+517-61-7254,23,Female,2,32,1,7,8,5,4,5,1,6,Yes,3,Talking to Friends,1,No,Yes,5
+373-92-3214,29,Female,3,13,8,7,7,2,2,2,4,8,Yes,4,Spending Time Alone,3,No,No,5
+148-22-9008,25,Female,4,46,2,12,2,5,4,1,1,7,Yes,3,Talking to Friends,3,Yes,No,3
+270-48-3167,28,Male,3,19,3,11,4,4,4,3,5,10,No,4,Talking to Friends,1,No,Yes,2
+594-28-4204,26,Bigender,3,46,6,5,8,4,5,5,2,8,No,2,Watching Sports,4,Yes,No,2
+631-14-1769,28,Male,1,43,1,10,0,3,2,2,4,1,Yes,2,Exercise,3,Yes,Yes,1
+832-04-3592,18,Male,3,7,4,4,2,1,3,1,5,10,No,4,Watching Sports,2,No,No,1
+810-52-2018,20,Female,2,11,3,6,7,2,1,4,2,1,Yes,5,Travelling,2,Yes,No,2
+230-07-5794,26,Female,2,34,3,10,2,1,5,1,3,9,No,2,Exercise,3,Yes,Yes,2
+777-52-9937,18,Female,0,36,7,5,2,1,1,1,4,4,Yes,3,Meditation,2,Yes,Yes,1
+505-69-0221,22,Female,1,49,2,9,1,5,2,2,2,2,No,2,Travelling,5,Yes,No,2
+204-29-1694,21,Male,3,40,3,10,5,2,1,2,5,4,No,2,Social Media Engagement,4,Yes,Yes,3
+535-17-9130,27,Male,0,15,7,4,1,1,4,1,1,1,No,5,Reading,3,No,Yes,4
+403-92-9632,25,Male,0,6,8,9,3,4,5,2,1,8,No,4,Meditation,5,Yes,No,4
+295-62-4300,23,Male,4,25,5,8,6,2,1,4,4,8,No,5,Social Media Engagement,4,Yes,No,2
+408-46-2153,24,Male,4,59,0,11,6,1,3,2,4,6,Yes,5,Meditation,2,No,No,3
+292-85-0963,21,Male,1,17,2,8,8,3,2,5,4,5,No,2,Talking to Friends,3,Yes,Yes,5
+831-71-1472,21,Male,1,21,8,6,9,3,5,3,3,8,Yes,3,Reading,1,Yes,No,2
+742-17-8756,29,Male,3,4,1,10,7,2,1,3,3,9,No,1,Exercise,5,No,No,3
+209-21-5372,24,Male,1,10,3,8,1,5,2,3,3,2,Yes,3,Exercise,2,No,Yes,1
+288-28-5340,28,Male,3,5,7,7,10,4,5,4,4,6,Yes,3,Watching Sports,5,No,No,1
+532-53-7106,30,Male,4,28,7,11,6,2,3,3,3,1,Yes,2,Watching Sports,5,Yes,No,3
+407-39-5818,24,Genderfluid,4,48,7,11,1,3,2,3,5,4,Yes,2,Meditation,1,No,Yes,3
+740-68-1900,19,Female,0,60,8,5,8,2,1,3,5,10,No,5,Social Media Engagement,3,No,No,2
+100-42-4509,28,Male,2,20,7,10,2,3,5,3,3,1,Yes,2,Talking to Friends,1,Yes,No,3
+777-29-7370,21,Female,3,0,4,12,10,2,2,3,2,5,No,3,Reading,1,Yes,No,3
+117-12-6960,18,Agender,1,21,2,11,7,5,1,2,3,8,Yes,4,Yoga,4,Yes,Yes,1
+866-68-4346,27,Female,4,44,6,10,2,4,1,5,5,2,No,3,Exercise,5,Yes,No,4
+687-83-4719,24,Male,3,24,2,6,7,1,3,3,1,2,Yes,1,Spending Time Alone,3,Yes,No,4
+736-72-0270,18,Female,3,2,4,11,1,1,1,2,3,4,Yes,5,Walking or Nature Walks,1,No,No,1
+185-53-6544,18,Male,2,19,8,5,10,2,4,1,4,9,No,5,Walking or Nature Walks,2,Yes,Yes,5
+483-60-4480,27,Female,3,17,2,7,1,2,2,5,1,5,Yes,5,Exercise,5,No,No,1
+292-04-4209,18,Female,2,18,3,11,7,4,4,1,4,1,No,5,Reading,4,No,Yes,3
+383-42-5117,29,Male,1,9,6,6,7,3,5,3,3,1,No,4,Talking to Friends,3,No,Yes,4
+588-56-7179,25,Female,2,28,8,9,6,1,3,5,2,9,Yes,5,Reading,2,Yes,Yes,5
+339-20-6030,26,Female,2,12,2,4,2,3,4,2,2,1,No,5,Meditation,4,No,No,2
+691-94-2434,25,Male,3,1,5,11,1,2,2,5,3,8,Yes,1,Exercise,5,No,No,2
+683-65-1968,30,Male,3,0,1,6,9,5,3,4,1,9,No,5,Meditation,3,No,Yes,4
+387-67-7202,28,Female,4,59,8,10,9,2,5,4,2,9,Yes,1,Exercise,2,No,Yes,4
+209-32-8628,30,Male,0,31,2,11,0,4,4,5,2,8,No,3,Spending Time Alone,3,No,Yes,1
+850-13-5324,22,Male,1,13,5,11,8,2,5,3,1,3,No,1,Exercise,1,No,Yes,2
+178-03-0028,24,Female,4,54,7,12,4,2,1,5,1,4,No,3,Social Media Engagement,5,Yes,No,1
+800-36-7705,30,Female,0,14,3,10,3,1,4,5,1,5,No,3,Exercise,4,Yes,No,2
+367-56-4708,18,Female,0,57,2,5,1,3,1,5,5,3,No,2,Travelling,4,No,No,4
+297-69-4479,24,Male,3,53,4,4,10,4,3,3,2,4,Yes,5,Social Media Engagement,4,No,Yes,3
+592-23-4557,20,Bigender,2,14,8,8,6,2,1,3,2,8,No,5,Watching Sports,2,Yes,Yes,3
+252-89-3971,18,Male,1,41,2,4,8,4,5,3,2,4,No,5,Yoga,3,Yes,Yes,1
+811-27-2129,24,Male,0,53,5,6,10,3,1,4,2,2,Yes,3,Watching Sports,5,Yes,No,5
+747-47-2831,19,Agender,0,50,6,5,4,2,4,4,2,5,No,2,Meditation,2,Yes,Yes,1
+526-78-3751,18,Male,3,37,1,7,5,3,5,4,3,5,Yes,5,Talking to Friends,1,No,No,4
+481-45-3887,23,Female,3,36,2,6,9,3,5,4,2,6,No,2,Exercise,4,No,No,1
+751-18-9499,30,Female,0,36,2,12,9,4,4,2,3,3,Yes,3,Social Media Engagement,4,No,Yes,2
+124-71-1553,25,Male,1,16,4,5,6,3,1,4,1,7,Yes,2,Social Media Engagement,1,No,No,2
+214-58-4982,18,Agender,0,42,5,11,0,2,5,3,2,8,Yes,5,Exercise,2,No,No,3
+474-66-6263,28,Male,2,15,4,6,4,3,5,5,4,5,Yes,2,Talking to Friends,5,Yes,Yes,5
+204-16-7799,26,Female,1,36,1,7,0,4,3,2,4,7,Yes,2,Exercise,1,No,Yes,5
+366-05-7001,21,Female,0,38,1,9,7,1,4,3,5,8,Yes,2,Exercise,5,No,No,5
+293-94-5530,21,Polygender,3,53,3,10,5,1,1,5,3,10,Yes,3,Travelling,3,No,Yes,4
+667-21-2334,21,Female,0,59,7,7,10,2,4,2,2,2,No,1,Reading,1,Yes,Yes,2
+652-50-6948,26,Male,3,51,0,4,1,3,3,5,2,9,Yes,3,Social Media Engagement,5,Yes,No,1
+429-54-5963,20,Bigender,2,53,2,5,9,2,2,5,4,7,No,4,Exercise,3,Yes,No,1
+821-85-3152,18,Male,4,33,0,12,2,1,5,4,3,7,Yes,4,Yoga,5,No,No,5
+767-02-0514,30,Female,4,60,2,4,1,4,3,4,4,3,No,5,Social Media Engagement,5,Yes,Yes,4
+135-19-3886,27,Female,3,38,7,7,2,4,5,4,5,5,Yes,2,Travelling,2,No,Yes,4
+124-45-0187,27,Female,2,21,0,7,8,2,4,2,1,3,No,4,Meditation,4,Yes,No,4
+508-77-1604,25,Female,3,30,5,10,6,4,5,2,1,7,Yes,2,Social Media Engagement,3,No,No,3
+631-57-6187,30,Male,4,42,2,7,5,3,3,4,4,8,Yes,5,Meditation,2,Yes,Yes,3
+729-12-6141,27,Male,1,54,6,6,10,1,5,4,2,1,Yes,1,Travelling,1,No,No,5
+609-64-7643,26,Female,0,47,2,11,0,4,1,4,1,2,Yes,3,Exercise,1,No,No,2
+730-87-4838,20,Male,4,38,3,8,9,4,5,4,3,2,No,2,Spending Time Alone,3,Yes,No,1
+838-92-9671,23,Female,3,54,4,4,10,2,1,1,1,6,Yes,2,Meditation,1,Yes,Yes,3
+250-73-3043,29,Male,1,51,0,11,10,2,4,2,3,10,No,3,Spending Time Alone,1,No,No,1
+755-25-6365,25,Female,2,2,1,8,1,1,1,3,5,6,No,4,Travelling,4,Yes,No,4
+392-82-0634,30,Female,0,24,1,7,7,2,1,2,5,10,No,5,Meditation,3,No,No,1
+553-73-9451,25,Female,1,13,1,10,5,2,5,3,2,7,No,5,Social Media Engagement,4,No,No,5
+213-22-7971,26,Male,3,8,4,9,8,1,5,5,2,5,No,5,Yoga,4,No,No,3
+620-60-6101,23,Female,1,59,1,7,2,1,4,4,2,6,No,1,Talking to Friends,1,No,Yes,3
+219-05-2185,19,Male,2,54,4,10,7,4,2,1,4,1,Yes,5,Reading,5,No,Yes,3
+332-05-7324,19,Male,3,7,7,8,9,4,1,1,2,5,No,1,Talking to Friends,1,No,Yes,4
+138-22-1341,23,Female,4,57,8,5,3,3,4,5,2,5,Yes,3,Exercise,3,No,Yes,2
+347-81-9759,26,Bigender,4,29,3,12,5,3,2,3,1,8,Yes,5,Reading,3,Yes,Yes,3
+500-75-5507,27,Female,2,3,7,9,6,5,4,3,4,8,No,2,Yoga,3,Yes,No,1
+735-88-4515,21,Male,4,3,6,10,9,3,4,4,4,2,No,2,Meditation,2,No,No,2
+830-93-7957,29,Female,2,36,4,11,0,3,3,1,1,1,No,5,Social Media Engagement,5,No,Yes,2
+629-52-7023,29,Male,1,53,7,9,1,4,5,3,3,7,No,4,Walking or Nature Walks,4,Yes,Yes,2
+400-21-6724,23,Male,4,0,3,9,5,2,4,4,2,10,No,1,Meditation,4,Yes,No,3
+479-91-6861,18,Male,3,45,3,7,5,5,2,1,3,2,No,2,Yoga,5,Yes,No,5
+512-53-1330,20,Female,3,8,3,10,2,3,3,5,3,9,No,3,Walking or Nature Walks,1,No,Yes,4
+211-15-8624,23,Female,4,19,6,11,5,4,4,3,4,3,Yes,5,Reading,2,Yes,No,1
+586-54-6715,27,Female,0,23,8,11,4,4,3,4,2,1,Yes,1,Travelling,1,No,No,4
+163-09-3422,25,Male,0,55,8,11,9,4,5,4,5,1,No,5,Reading,1,No,No,5
+596-04-1416,21,Male,4,17,7,6,7,3,4,2,4,5,No,4,Talking to Friends,2,Yes,Yes,5
+638-52-2815,24,Female,1,0,4,10,0,4,5,5,1,2,Yes,5,Yoga,3,Yes,No,4
+217-66-0052,24,Female,2,56,2,4,9,5,2,4,1,2,Yes,3,Travelling,3,No,Yes,2
+276-11-5486,30,Female,3,26,0,7,4,4,3,2,2,2,Yes,1,Reading,1,No,No,4
+786-72-6825,21,Female,3,11,8,11,4,4,5,4,2,10,Yes,3,Meditation,5,No,Yes,1
+618-46-7437,25,Male,3,43,8,12,6,4,1,2,3,6,Yes,5,Watching Sports,3,No,No,3
+447-34-8357,21,Female,2,44,5,12,10,3,2,2,3,3,Yes,4,Yoga,4,No,No,4
+581-07-0225,25,Female,1,20,5,7,1,4,3,4,3,7,No,4,Watching Sports,5,Yes,Yes,2
+470-08-9695,28,Bigender,4,8,2,4,5,2,5,5,2,1,No,4,Spending Time Alone,1,No,Yes,4
+432-35-6566,20,Male,4,27,7,9,7,3,4,2,2,6,Yes,2,Travelling,4,Yes,No,2
+840-63-7764,24,Non-binary,4,24,3,7,9,5,3,5,5,7,No,3,Watching Sports,2,No,No,2
+768-78-3237,21,Non-binary,2,12,0,12,0,2,5,4,2,10,No,2,Yoga,3,No,Yes,2
+102-51-9968,18,Female,1,39,6,7,7,1,5,4,1,6,No,3,Spending Time Alone,1,Yes,No,4
+501-67-5697,23,Female,3,12,4,10,7,2,1,4,5,5,Yes,3,Exercise,2,Yes,No,3
+819-14-2694,29,Female,1,24,5,8,9,1,4,4,5,1,No,1,Meditation,5,Yes,No,5
+380-99-9542,24,Agender,3,58,3,12,7,2,2,3,1,9,Yes,2,Yoga,2,Yes,Yes,5
+429-63-3333,25,Male,4,41,8,6,6,1,3,5,3,8,Yes,5,Talking to Friends,5,No,No,1
+605-97-7460,28,Female,2,51,4,11,6,5,3,1,2,7,No,1,Social Media Engagement,4,Yes,Yes,3
+156-59-9054,18,Male,4,27,8,6,5,5,2,5,3,8,Yes,1,Exercise,2,No,No,3
+567-20-0671,20,Female,2,34,2,9,1,4,4,3,4,2,No,1,Social Media Engagement,4,Yes,No,5
+115-05-2082,24,Male,1,22,2,12,0,3,5,2,5,6,No,2,Reading,5,Yes,No,5
+648-32-3365,28,Female,0,24,7,10,3,5,3,1,2,5,Yes,5,Spending Time Alone,5,Yes,Yes,5
+747-92-3547,29,Male,3,45,6,8,6,1,2,4,2,3,No,1,Reading,5,Yes,No,1
+430-08-1444,19,Female,0,42,3,11,1,2,5,1,5,7,Yes,1,Spending Time Alone,2,Yes,Yes,1
+311-25-5374,30,Male,0,49,7,11,1,1,2,1,3,10,No,3,Watching Sports,5,Yes,No,3
+508-61-1958,25,Female,2,58,5,11,5,4,3,5,5,10,Yes,4,Social Media Engagement,2,No,Yes,3
+311-01-4979,21,Male,0,0,7,6,4,4,5,1,2,9,No,3,Reading,1,No,Yes,1
+357-60-6383,18,Male,2,26,3,5,10,5,3,2,4,8,No,2,Reading,3,No,Yes,5
+582-66-4545,25,Male,1,12,1,8,0,1,2,1,3,4,Yes,2,Social Media Engagement,4,No,Yes,4
+857-78-9982,29,Female,3,24,6,7,3,3,3,2,5,4,No,2,Social Media Engagement,2,Yes,No,3
+361-01-5382,23,Female,0,1,3,7,3,3,5,1,4,8,No,2,Meditation,2,Yes,No,3
+655-35-0977,22,Male,3,21,1,8,10,1,2,3,1,8,Yes,2,Exercise,1,No,No,2
+704-27-3229,23,Female,1,29,8,4,9,3,2,4,2,1,Yes,1,Walking or Nature Walks,3,No,No,5
+630-45-3543,19,Male,1,55,6,10,5,3,5,2,5,5,Yes,4,Talking to Friends,2,Yes,No,4
+143-64-7699,22,Female,4,31,5,8,4,3,5,4,1,8,No,3,Walking or Nature Walks,4,No,No,4
+380-01-5180,26,Female,2,44,7,10,9,1,3,3,4,5,No,1,Reading,5,No,Yes,4
+358-27-6734,22,Male,0,18,6,4,4,1,5,1,5,8,No,5,Watching Sports,1,No,Yes,2
+763-50-9563,27,Male,0,20,1,4,3,3,4,3,2,5,Yes,1,Exercise,1,Yes,No,3
+679-91-0440,19,Male,0,38,5,12,1,2,3,4,1,1,Yes,5,Reading,2,Yes,Yes,1
+686-76-8831,23,Female,1,18,8,6,1,5,3,4,3,9,No,3,Walking or Nature Walks,1,No,Yes,5
+327-52-9753,20,Female,2,22,0,12,0,5,2,2,4,7,Yes,1,Yoga,2,No,No,4
+469-83-1014,28,Male,3,6,8,7,4,3,5,4,4,9,No,4,Walking or Nature Walks,5,No,Yes,2
+730-70-1674,26,Male,2,5,0,5,2,5,5,1,2,4,Yes,1,Walking or Nature Walks,1,Yes,No,1
+779-26-7175,25,Female,4,15,5,9,0,5,4,1,5,7,No,4,Watching Sports,4,No,Yes,3
+817-11-4511,28,Female,2,5,7,11,6,5,4,4,1,9,No,5,Walking or Nature Walks,3,No,Yes,3
+761-08-6341,21,Male,2,60,6,4,3,5,1,3,4,4,Yes,5,Yoga,3,No,Yes,1
+169-56-0960,19,Male,1,0,5,11,8,5,2,1,2,5,No,4,Meditation,3,No,No,2
+616-12-8556,27,Male,3,47,8,10,0,2,4,5,1,5,Yes,1,Talking to Friends,1,No,No,5
+858-37-7984,22,Bigender,2,34,8,8,8,1,3,1,1,8,Yes,2,Travelling,1,No,Yes,2
+235-80-3727,21,Female,2,11,6,12,1,5,2,3,3,10,No,1,Social Media Engagement,2,Yes,Yes,4
+217-43-4810,21,Female,3,36,6,11,3,3,1,1,5,3,Yes,3,Watching Sports,4,No,No,4
+588-69-4170,24,Female,3,7,2,10,1,1,1,5,3,1,Yes,1,Talking to Friends,1,Yes,Yes,1
+224-13-7621,27,Female,2,27,5,10,5,2,3,3,1,4,No,5,Yoga,1,Yes,No,4
+754-33-1593,28,Genderqueer,1,11,7,12,5,4,2,2,1,9,Yes,5,Social Media Engagement,2,No,No,4
+202-42-0001,26,Female,0,51,4,12,4,2,4,2,1,7,Yes,4,Watching Sports,2,No,No,1
+891-44-0532,24,Female,1,50,2,12,7,5,1,5,3,4,No,2,Yoga,5,No,Yes,3
+489-83-9210,19,Male,2,25,5,6,6,3,1,2,5,2,No,2,Watching Sports,3,Yes,Yes,1
+505-67-4877,20,Female,2,18,0,7,1,4,1,4,2,10,No,5,Social Media Engagement,4,Yes,Yes,2
+490-85-9933,21,Male,3,17,0,11,10,5,3,3,1,3,Yes,2,Meditation,2,No,No,3
+149-82-1193,22,Polygender,2,44,5,11,3,2,2,3,5,2,Yes,2,Travelling,5,No,Yes,4
+449-71-1303,27,Female,3,45,2,7,4,4,2,2,3,3,No,2,Watching Sports,2,Yes,Yes,1
+855-81-6070,27,Male,3,39,3,4,6,1,3,1,5,3,Yes,4,Watching Sports,2,Yes,No,5
+538-54-0209,26,Female,3,38,2,9,4,3,2,4,3,9,No,2,Yoga,2,No,No,5
+785-18-1267,18,Female,4,50,0,8,3,3,5,2,3,3,No,5,Spending Time Alone,1,Yes,No,4
+315-14-3308,21,Female,1,32,8,8,0,4,5,5,2,8,Yes,4,Talking to Friends,3,Yes,No,2
+572-36-3852,26,Male,0,0,2,7,5,2,2,4,1,3,Yes,5,Social Media Engagement,3,Yes,No,5
+192-13-3343,30,Male,0,33,1,11,5,4,2,3,2,9,No,2,Reading,4,No,No,5
+247-09-1709,22,Female,4,57,4,7,2,5,3,5,2,3,Yes,1,Yoga,2,No,Yes,4
+638-37-6479,28,Male,1,7,2,5,6,3,2,5,5,1,Yes,1,Exercise,5,No,Yes,4
+585-40-0453,25,Female,2,8,6,4,5,1,2,3,2,9,Yes,5,Spending Time Alone,5,Yes,No,4
+834-48-2185,23,Female,3,12,8,8,9,3,2,3,4,10,Yes,5,Social Media Engagement,1,Yes,No,1
+430-98-7843,26,Female,4,2,4,10,1,4,5,5,5,6,Yes,3,Travelling,5,Yes,No,4
+891-94-6731,25,Female,1,25,6,8,0,1,3,1,3,8,No,3,Talking to Friends,2,No,Yes,1
+792-17-2824,23,Male,4,21,7,12,4,5,4,2,3,10,Yes,3,Exercise,4,Yes,No,5
+174-38-8655,20,Female,4,46,1,7,2,1,5,5,4,6,No,4,Travelling,2,No,Yes,1
+307-28-5129,24,Female,0,31,4,9,4,4,3,5,2,10,No,1,Yoga,4,Yes,No,1
+781-32-3795,22,Female,2,57,6,7,9,5,5,3,1,6,Yes,1,Spending Time Alone,1,Yes,Yes,1
+628-54-3016,30,Male,3,9,1,11,8,3,2,5,5,6,Yes,3,Travelling,1,Yes,Yes,5
+751-44-1313,22,Female,0,3,0,7,3,4,3,4,1,2,No,4,Watching Sports,2,No,No,5
+663-29-0123,19,Male,1,5,5,12,5,3,4,5,1,9,No,4,Exercise,2,No,No,4
+667-64-2830,27,Male,2,46,0,6,2,4,1,5,4,3,Yes,5,Reading,4,Yes,No,3
+482-19-3391,30,Male,2,14,2,12,4,2,3,3,1,8,Yes,2,Walking or Nature Walks,2,Yes,No,5
+725-20-8354,30,Female,1,10,7,8,4,5,2,5,5,7,Yes,3,Travelling,4,No,No,2
+381-57-2885,20,Genderqueer,3,33,0,6,4,4,2,3,5,1,No,5,Spending Time Alone,4,Yes,No,5
+415-38-9662,21,Female,4,54,8,6,7,4,5,3,3,5,Yes,3,Reading,3,Yes,Yes,2
+513-29-6152,18,Male,2,37,6,6,7,1,3,1,1,5,No,2,Travelling,1,Yes,Yes,3
+788-65-2738,29,Male,0,60,0,11,0,2,1,1,1,8,Yes,5,Reading,3,No,Yes,4
+565-85-9492,21,Male,0,24,3,11,1,1,5,5,2,1,Yes,4,Reading,5,No,No,3
+543-17-1815,18,Bigender,1,51,8,11,7,2,3,2,3,2,No,4,Meditation,1,Yes,Yes,2
+463-90-8517,23,Male,2,16,3,8,10,1,2,1,4,4,Yes,1,Meditation,4,No,No,4
+764-31-6447,22,Female,2,44,6,12,5,3,5,3,1,9,No,5,Reading,3,Yes,No,3
+462-74-2046,18,Male,3,47,7,6,1,2,3,1,5,1,Yes,4,Reading,5,No,Yes,1
+694-39-2032,25,Male,3,17,2,12,2,3,5,1,1,4,Yes,3,Walking or Nature Walks,5,Yes,No,2
+655-55-0209,21,Female,4,26,6,7,9,4,5,3,3,5,No,4,Meditation,2,Yes,No,4
+127-94-0301,19,Bigender,2,59,5,8,9,1,4,3,3,4,Yes,3,Travelling,2,Yes,Yes,4
+725-31-2595,20,Male,4,53,0,9,1,1,5,3,1,9,No,5,Talking to Friends,5,No,Yes,2
+685-28-8610,21,Female,0,9,7,10,1,3,1,3,3,8,No,2,Social Media Engagement,1,Yes,No,4
+729-30-6560,23,Female,3,49,8,4,8,4,2,5,3,5,Yes,2,Reading,5,No,Yes,4
+821-31-0994,22,Male,0,18,4,4,1,2,5,1,4,9,No,3,Exercise,5,No,No,1
+814-81-7401,21,Genderqueer,2,0,7,8,10,2,4,1,4,2,No,1,Watching Sports,1,No,No,3
+102-53-4424,29,Female,4,43,8,12,0,2,4,5,1,8,Yes,3,Walking or Nature Walks,1,No,Yes,4
+383-92-3685,19,Female,1,5,3,6,7,3,2,4,5,6,No,3,Talking to Friends,5,No,No,3
+421-67-5430,26,Female,4,23,6,8,7,2,3,4,2,9,Yes,5,Yoga,2,Yes,No,4
+402-01-4786,23,Male,2,1,8,4,1,4,5,3,3,4,Yes,3,Talking to Friends,3,Yes,No,3
+412-84-5105,27,Female,3,15,1,9,2,2,5,3,2,7,No,3,Talking to Friends,4,No,No,5
+200-18-7013,20,Male,3,21,2,9,6,3,3,5,4,10,Yes,2,Watching Sports,3,Yes,Yes,3
+370-21-5479,20,Male,3,2,4,11,2,3,1,1,4,3,No,5,Talking to Friends,1,No,Yes,5
+208-12-7999,20,Genderfluid,4,5,1,9,10,1,2,4,4,7,No,3,Watching Sports,3,Yes,No,3
+419-54-4414,20,Female,1,18,7,10,2,3,4,1,3,9,No,4,Talking to Friends,1,No,No,2
+622-57-6873,18,Female,4,0,4,10,9,5,3,4,1,10,Yes,5,Walking or Nature Walks,5,No,No,4
+808-35-0942,18,Male,3,14,3,8,5,2,5,3,4,7,No,5,Social Media Engagement,5,Yes,No,2
+616-73-2063,20,Male,4,28,7,7,5,5,1,5,5,1,Yes,4,Meditation,4,No,No,4
+196-48-5751,24,Male,0,41,0,11,5,1,1,2,1,1,No,3,Social Media Engagement,3,Yes,No,5
+189-42-4201,22,Male,2,13,0,7,4,5,5,1,1,4,Yes,1,Travelling,1,No,Yes,2
+678-35-5150,21,Male,3,30,2,4,2,2,3,5,1,4,No,3,Spending Time Alone,1,Yes,No,2
+275-55-2472,21,Female,0,54,2,4,2,4,4,3,2,2,No,1,Yoga,4,Yes,Yes,1
+888-10-9349,29,Male,0,34,4,12,3,1,1,2,3,3,Yes,5,Yoga,1,No,No,3
+621-13-0774,27,Female,2,54,2,4,8,2,4,5,2,6,No,5,Exercise,4,Yes,Yes,4
+303-77-3078,24,Male,1,16,0,7,9,4,2,4,3,7,No,5,Reading,4,No,No,2
+774-08-5222,19,Non-binary,1,52,1,7,4,1,5,3,4,7,Yes,1,Meditation,2,No,Yes,4
+822-73-2624,18,Female,3,47,3,5,2,4,1,4,1,10,Yes,3,Talking to Friends,4,Yes,No,4
+785-05-2183,29,Female,2,60,7,6,5,3,4,5,2,3,Yes,3,Spending Time Alone,5,Yes,Yes,2
+746-44-5218,18,Male,3,55,7,9,10,2,4,1,4,3,No,1,Talking to Friends,3,Yes,No,2
+790-99-1933,19,Male,3,21,4,8,0,1,1,1,2,4,No,5,Meditation,5,No,No,3
+284-72-1833,28,Male,3,56,3,8,5,3,1,3,5,6,No,2,Reading,1,Yes,Yes,5
+279-07-1790,25,Female,0,38,7,11,9,3,1,3,2,4,Yes,4,Yoga,4,No,No,5
+216-93-6804,28,Male,1,29,6,4,6,5,2,3,4,3,Yes,5,Talking to Friends,5,Yes,No,2
+562-13-2617,24,Female,3,33,7,10,7,1,5,3,3,4,Yes,5,Travelling,3,Yes,No,3
+267-41-4726,19,Male,0,2,0,7,9,5,5,1,5,2,Yes,5,Social Media Engagement,5,No,Yes,5
+240-79-0966,25,Female,2,7,6,6,2,2,3,4,4,2,No,5,Walking or Nature Walks,4,No,No,1
+332-97-6557,22,Non-binary,4,52,3,6,5,1,5,3,5,1,Yes,1,Travelling,4,Yes,Yes,3
+359-59-5634,24,Polygender,0,45,8,4,0,1,2,5,3,2,Yes,5,Exercise,4,No,No,3
+652-47-2230,21,Female,4,11,6,6,3,4,1,2,4,5,No,5,Watching Sports,1,No,Yes,4
+823-28-1778,23,Non-binary,1,26,8,12,2,2,1,1,3,6,No,3,Yoga,1,Yes,Yes,2
+792-33-0211,30,Male,1,20,5,10,7,3,2,2,4,1,Yes,2,Exercise,4,Yes,Yes,5
+719-03-2622,29,Female,3,7,7,9,1,2,2,3,3,6,Yes,5,Spending Time Alone,4,No,Yes,5
+532-25-8114,29,Female,2,36,4,7,3,5,1,5,5,2,Yes,1,Meditation,1,No,No,5
+662-04-7364,27,Female,0,27,8,11,8,1,3,3,1,4,No,4,Travelling,2,No,No,1
+894-36-7236,20,Female,4,1,5,4,10,5,5,5,2,3,Yes,1,Social Media Engagement,5,No,No,3
+731-27-1490,29,Non-binary,4,54,1,5,8,5,1,5,3,1,No,2,Reading,5,No,No,1
+669-90-1482,20,Male,4,48,7,9,4,5,5,3,2,10,No,1,Yoga,4,Yes,No,1
+440-16-4165,24,Male,3,24,6,12,5,2,2,1,2,7,Yes,5,Reading,2,No,No,3
+251-96-3634,24,Female,1,50,0,6,5,5,1,5,2,5,Yes,5,Talking to Friends,1,Yes,Yes,2
+181-12-1436,30,Male,3,45,2,6,0,3,1,1,1,8,No,2,Yoga,2,No,No,5
+765-85-9339,18,Male,3,51,7,6,6,4,1,5,3,10,Yes,3,Meditation,2,No,No,1
+540-74-9445,27,Female,4,47,6,6,8,3,4,4,2,1,No,5,Travelling,3,No,Yes,2
+463-46-8616,19,Male,3,32,6,11,10,3,4,2,2,4,Yes,1,Spending Time Alone,4,Yes,Yes,5
+860-99-6638,19,Female,1,40,4,5,0,2,3,2,2,10,Yes,4,Yoga,1,Yes,Yes,3
+472-36-1084,29,Female,0,5,6,10,9,2,5,1,2,10,Yes,5,Watching Sports,5,Yes,No,1
+712-51-0033,28,Female,3,18,3,4,7,2,5,1,5,1,No,5,Meditation,1,No,No,2
+426-96-1187,28,Female,0,56,1,6,1,4,2,4,3,6,Yes,4,Walking or Nature Walks,1,Yes,No,3
+198-24-0404,26,Male,3,37,3,5,10,4,3,4,3,6,Yes,1,Spending Time Alone,4,Yes,Yes,5
+231-51-2392,23,Male,0,32,0,11,7,5,2,3,4,7,Yes,3,Walking or Nature Walks,4,Yes,Yes,2
+504-41-0664,21,Female,3,43,4,12,9,1,1,2,5,5,No,1,Talking to Friends,5,Yes,No,3
+523-26-1959,18,Male,0,19,3,10,9,2,1,3,5,7,No,5,Spending Time Alone,2,Yes,Yes,3
+488-87-7169,24,Male,4,29,6,8,1,2,5,3,5,2,Yes,2,Travelling,1,Yes,No,5
+787-23-6149,18,Male,4,22,8,10,1,5,2,4,1,2,No,2,Watching Sports,4,Yes,No,5
+650-36-5944,18,Male,2,24,1,11,0,1,1,5,5,5,Yes,5,Watching Sports,4,No,No,5
+850-50-5993,30,Male,2,0,1,7,4,2,1,5,2,6,Yes,4,Travelling,1,No,No,2
+344-48-6320,19,Male,4,1,4,4,7,3,4,1,5,8,Yes,1,Yoga,1,No,Yes,5
+267-85-9067,29,Female,0,41,7,11,8,3,4,5,5,10,Yes,2,Walking or Nature Walks,2,Yes,Yes,4
+445-01-9008,18,Female,4,29,2,12,2,5,1,1,3,10,No,4,Social Media Engagement,2,Yes,Yes,2
+587-06-7007,23,Female,0,43,5,12,9,2,4,1,3,4,Yes,3,Walking or Nature Walks,3,No,No,5
+412-61-2951,26,Male,0,25,5,5,1,5,5,5,3,7,No,3,Social Media Engagement,1,Yes,Yes,3
+895-64-7527,18,Female,4,8,5,9,9,4,2,4,5,3,Yes,4,Travelling,2,No,No,4
+634-13-9113,21,Female,3,1,2,4,5,1,2,2,1,9,Yes,4,Meditation,2,No,No,4
+897-73-6775,29,Female,3,60,1,4,9,1,5,4,2,1,Yes,5,Watching Sports,4,Yes,No,2
+291-38-6668,29,Male,1,48,2,8,10,2,3,2,4,5,No,1,Exercise,5,Yes,No,5
+861-23-4943,24,Male,3,35,5,12,3,2,2,3,5,2,No,2,Meditation,5,Yes,Yes,5
+771-43-8087,27,Female,1,50,4,6,4,3,3,5,4,5,Yes,2,Exercise,1,Yes,Yes,3
+896-76-6435,29,Female,2,19,6,5,9,5,5,5,5,2,No,2,Travelling,2,No,No,1
+210-48-6696,25,Polygender,3,16,6,4,7,1,5,1,4,6,Yes,5,Talking to Friends,5,Yes,Yes,5
+590-51-5779,21,Female,0,36,0,9,10,1,3,4,3,3,No,2,Meditation,1,Yes,Yes,3
+857-45-6864,22,Female,2,50,6,6,9,5,5,2,3,4,Yes,5,Exercise,3,No,No,5
+146-61-2919,28,Male,2,38,8,6,9,3,5,4,5,2,Yes,2,Watching Sports,5,Yes,No,2
+621-24-8028,24,Female,3,32,4,4,10,1,5,4,4,8,No,4,Reading,4,Yes,No,2
+820-39-6059,21,Female,1,49,0,5,3,1,1,3,3,5,No,2,Spending Time Alone,2,Yes,No,4
+654-40-1059,30,Genderfluid,1,16,1,12,5,3,1,5,3,2,No,3,Social Media Engagement,3,No,No,3
+691-34-7594,20,Male,1,36,1,10,7,3,4,3,3,6,Yes,5,Yoga,1,No,Yes,5
+294-22-0217,27,Male,4,2,1,11,4,4,5,3,5,10,No,2,Spending Time Alone,3,Yes,Yes,1
+620-14-3348,19,Male,3,60,2,6,5,2,4,2,4,8,No,4,Reading,5,Yes,Yes,3
+586-87-3316,19,Female,0,38,3,5,6,1,3,3,3,10,Yes,2,Travelling,5,Yes,No,3
+195-34-6537,24,Female,2,48,6,12,9,1,5,1,4,1,Yes,5,Travelling,5,No,Yes,3
+606-64-6926,25,Female,0,38,4,8,7,5,3,3,1,5,No,4,Meditation,2,No,No,3
+390-91-0103,26,Female,3,17,1,6,8,2,5,2,2,5,Yes,1,Yoga,4,Yes,Yes,5
+366-36-9831,23,Female,4,43,1,7,4,4,1,1,1,7,Yes,3,Spending Time Alone,2,Yes,Yes,3
+478-75-3530,25,Male,4,46,4,11,6,4,5,4,1,3,No,2,Walking or Nature Walks,3,No,Yes,2
+140-30-3552,29,Female,1,44,2,5,2,2,4,2,4,2,No,2,Travelling,1,Yes,Yes,2
+506-21-6440,19,Female,2,8,7,12,5,3,2,4,3,7,Yes,3,Meditation,1,No,Yes,3
+620-66-8893,19,Female,1,11,8,12,2,1,5,2,3,6,No,1,Reading,5,Yes,No,3
+586-34-3444,25,Female,1,51,2,7,6,5,2,2,1,10,Yes,5,Social Media Engagement,3,Yes,No,4
+605-15-7413,24,Male,4,43,6,12,5,4,1,5,2,4,No,5,Social Media Engagement,2,No,No,2
+367-45-6616,26,Female,2,34,2,9,3,3,3,5,2,5,No,1,Reading,2,Yes,No,2
+126-08-5321,18,Male,4,16,4,12,5,2,2,3,2,10,Yes,1,Travelling,5,No,Yes,2
+318-60-4312,24,Female,1,58,6,5,3,2,5,2,2,1,No,5,Watching Sports,5,No,No,4
+487-96-1364,22,Female,3,32,2,11,9,4,3,2,4,2,No,3,Social Media Engagement,1,Yes,Yes,5
+264-63-9878,19,Bigender,3,5,5,6,2,1,2,1,5,4,No,4,Social Media Engagement,4,Yes,No,3
+472-15-8341,26,Female,3,13,2,7,3,1,3,3,5,2,Yes,5,Travelling,2,No,Yes,3
+540-08-7969,29,Female,4,32,4,10,10,4,4,1,4,8,No,2,Walking or Nature Walks,3,Yes,Yes,2
+139-17-3617,25,Female,4,33,5,4,6,5,4,5,3,9,No,2,Watching Sports,2,No,No,4
+770-07-2386,22,Male,3,29,0,12,1,2,2,1,4,6,Yes,2,Spending Time Alone,1,No,Yes,5
+233-88-7541,18,Female,0,48,1,4,0,4,1,1,1,10,Yes,5,Talking to Friends,2,Yes,Yes,2
+758-45-8170,24,Female,0,21,7,10,8,3,5,5,3,10,Yes,3,Social Media Engagement,3,Yes,Yes,4
+216-56-3702,23,Bigender,1,17,2,9,3,5,2,1,3,9,Yes,1,Walking or Nature Walks,2,Yes,Yes,5
+526-42-6686,30,Male,0,5,5,11,5,2,5,4,5,10,No,5,Social Media Engagement,4,Yes,No,1
+726-02-8928,25,Female,0,25,1,5,6,4,1,3,3,6,Yes,4,Travelling,2,Yes,Yes,1
+409-15-5570,22,Male,0,16,8,5,5,5,5,4,3,4,Yes,4,Reading,3,Yes,Yes,1
+871-72-2085,25,Male,2,2,8,6,1,4,1,3,2,1,No,3,Travelling,5,No,No,3
+711-96-0039,25,Female,2,21,7,9,0,1,5,1,1,9,No,4,Spending Time Alone,4,Yes,Yes,2
+629-74-5325,29,Female,3,3,4,9,7,1,2,2,1,6,Yes,4,Yoga,5,No,No,4
+191-76-1176,22,Agender,2,0,2,6,3,2,5,3,3,6,No,4,Spending Time Alone,5,Yes,Yes,1
+511-19-9689,26,Female,0,21,0,10,0,1,3,3,2,10,Yes,2,Travelling,1,No,Yes,4
+817-56-1216,30,Agender,1,22,0,7,3,1,4,5,2,4,Yes,3,Yoga,1,No,Yes,4
+890-06-6056,19,Male,2,4,3,12,2,3,3,1,3,10,No,2,Watching Sports,3,No,Yes,2
+568-72-9492,26,Female,0,18,7,4,4,4,5,3,3,9,Yes,2,Yoga,5,No,Yes,1
+445-18-5494,20,Male,2,37,2,6,6,1,3,5,4,6,Yes,2,Spending Time Alone,2,Yes,Yes,4
+323-01-0451,26,Female,3,39,1,4,6,5,4,2,2,5,No,3,Social Media Engagement,1,Yes,Yes,2
+360-64-8328,26,Male,3,34,0,9,9,1,1,4,3,1,No,5,Spending Time Alone,1,No,No,4
+365-22-3619,19,Female,0,36,1,4,0,4,5,1,4,8,No,1,Travelling,3,No,Yes,2
+565-92-5987,25,Male,0,52,4,7,9,3,2,1,4,3,No,1,Walking or Nature Walks,1,No,Yes,1
+774-41-4155,27,Male,4,8,7,8,1,1,2,2,2,6,No,4,Walking or Nature Walks,3,Yes,Yes,1
+865-88-4728,24,Female,3,55,6,9,10,5,4,4,5,7,No,1,Spending Time Alone,1,Yes,Yes,3
+140-37-3029,25,Male,2,45,7,4,4,5,5,5,2,6,No,5,Meditation,4,Yes,No,3
+221-70-4223,28,Male,2,33,8,4,0,1,2,2,5,9,No,1,Reading,5,No,No,3
+729-02-5651,28,Female,1,56,5,11,7,5,4,1,1,9,Yes,2,Spending Time Alone,1,Yes,Yes,2
+765-72-6831,25,Male,0,35,4,10,8,1,3,4,1,6,Yes,4,Travelling,4,No,Yes,5
+704-34-2747,25,Female,1,46,2,4,2,1,1,1,3,8,Yes,3,Spending Time Alone,3,No,Yes,2
+690-93-7394,24,Male,1,3,7,6,5,1,1,4,2,7,Yes,1,Social Media Engagement,3,Yes,Yes,1
+487-69-5401,25,Female,2,8,8,11,1,2,5,3,3,7,No,1,Reading,3,No,Yes,3
+207-60-0958,25,Male,4,44,5,12,7,5,1,1,1,2,Yes,5,Meditation,4,Yes,No,1
+869-02-9564,18,Male,4,59,6,8,1,5,4,3,4,6,No,4,Exercise,4,No,No,4
+447-11-5816,18,Male,3,57,7,5,2,3,1,5,5,1,No,3,Travelling,2,Yes,Yes,1
+228-62-9891,19,Male,3,27,7,9,4,4,2,1,5,8,Yes,3,Yoga,1,Yes,No,4
+713-31-0160,27,Female,0,23,3,10,4,3,2,1,5,2,No,4,Spending Time Alone,1,Yes,No,2
+536-46-2617,26,Genderfluid,0,12,6,10,9,3,4,2,5,8,No,1,Travelling,5,No,No,1
+234-47-0088,29,Male,0,48,7,10,7,5,3,5,5,1,No,2,Watching Sports,3,No,Yes,3
+701-16-4276,18,Male,0,27,2,7,2,5,2,4,4,8,No,3,Spending Time Alone,4,No,No,2
+436-21-2987,24,Male,1,46,5,4,10,4,5,3,2,2,Yes,2,Travelling,4,No,Yes,3
+688-07-0382,18,Male,4,3,1,5,6,5,5,3,3,2,No,4,Social Media Engagement,4,No,No,2
+421-55-9607,30,Female,1,6,8,4,2,4,5,2,2,3,Yes,2,Yoga,1,No,No,5
+615-79-8440,24,Female,2,53,4,7,2,3,2,2,3,2,No,2,Travelling,1,Yes,No,1
+450-60-6395,30,Male,0,35,3,11,8,2,4,2,2,5,No,3,Watching Sports,5,Yes,Yes,5
+118-06-0554,25,Male,0,20,2,10,2,4,5,3,4,1,No,2,Travelling,5,No,No,1
+343-91-1894,30,Female,3,35,3,5,8,3,2,4,4,7,No,2,Reading,5,No,No,5
+438-76-7174,26,Female,2,15,8,7,5,5,4,3,1,10,Yes,2,Travelling,1,Yes,No,3
+221-35-2318,20,Female,1,32,2,5,7,1,1,4,4,4,No,5,Watching Sports,5,Yes,No,4
+864-86-1546,22,Male,3,49,4,5,8,4,1,5,3,2,Yes,5,Watching Sports,4,No,Yes,5
+778-29-7908,20,Male,3,30,2,11,5,2,5,4,3,7,No,2,Yoga,2,No,Yes,5
+288-35-3562,27,Female,4,39,8,8,5,3,4,2,4,1,No,2,Yoga,2,No,Yes,2
+114-30-7352,24,Female,4,10,5,11,3,2,1,5,5,2,No,4,Social Media Engagement,2,Yes,Yes,2
+320-25-0987,22,Female,0,36,7,6,2,5,3,2,5,6,No,1,Travelling,1,No,No,3
+437-86-5614,26,Female,4,59,7,10,4,4,2,2,2,8,Yes,3,Travelling,5,No,Yes,5
+481-51-4441,24,Female,2,16,3,10,2,5,3,5,1,2,No,4,Spending Time Alone,4,Yes,Yes,4
+148-57-6730,30,Male,3,47,4,5,0,5,2,2,1,3,Yes,2,Meditation,5,Yes,Yes,1
+254-22-6665,21,Female,0,33,1,12,2,1,4,1,3,2,Yes,5,Exercise,3,No,No,2
+845-38-6519,25,Polygender,4,8,5,4,10,1,5,1,1,8,Yes,3,Reading,1,No,No,3
+379-65-0243,30,Female,4,12,5,11,8,3,5,5,3,4,No,4,Exercise,2,Yes,No,4
+522-34-7284,30,Female,1,15,0,8,3,3,5,3,4,7,Yes,4,Talking to Friends,2,Yes,No,5
+565-02-4043,26,Male,4,0,5,8,5,2,2,1,4,4,Yes,1,Social Media Engagement,2,No,No,1
+145-37-1963,20,Agender,2,32,3,11,1,2,3,2,2,10,No,5,Exercise,3,Yes,Yes,4
+122-25-1925,26,Female,1,53,5,7,7,3,2,2,4,1,No,1,Talking to Friends,3,Yes,No,3
+393-27-3064,28,Female,1,2,6,8,3,2,2,4,4,9,No,3,Spending Time Alone,4,Yes,Yes,4
+705-52-8566,25,Female,0,53,5,8,3,5,1,1,3,2,Yes,1,Social Media Engagement,5,No,No,3
+699-31-2060,19,Female,2,35,3,7,6,1,5,4,2,2,No,1,Reading,4,Yes,Yes,4
+221-29-3352,18,Male,1,43,7,6,5,1,5,2,4,7,No,5,Travelling,4,No,No,1
+171-13-5095,19,Female,4,56,5,11,5,4,5,4,1,9,Yes,2,Exercise,1,Yes,No,5
+656-32-4795,23,Male,1,8,6,6,2,3,3,3,3,1,No,1,Spending Time Alone,2,No,No,3
+645-66-4118,20,Male,2,14,8,8,0,4,5,1,5,2,No,5,Walking or Nature Walks,1,No,Yes,3
+288-67-2367,21,Female,4,55,1,10,3,4,1,5,1,5,No,3,Meditation,4,No,Yes,1
+420-20-2196,27,Bigender,2,39,1,6,1,3,1,2,1,6,No,4,Talking to Friends,1,No,Yes,4
+615-50-9853,19,Male,3,3,0,10,3,4,4,3,4,8,No,1,Walking or Nature Walks,5,No,Yes,1
+518-71-3190,28,Female,3,20,2,8,6,5,3,2,5,4,Yes,1,Reading,1,Yes,Yes,4
+420-91-7446,20,Female,3,50,3,4,3,3,4,2,5,8,Yes,4,Spending Time Alone,2,No,No,3
+557-78-4588,20,Male,4,47,7,9,2,1,4,1,4,4,Yes,1,Spending Time Alone,4,No,No,3
+203-94-0930,22,Male,3,58,0,6,6,3,5,3,3,6,Yes,1,Meditation,5,No,Yes,5
+328-33-1314,30,Female,3,2,3,4,10,3,5,5,5,2,No,3,Meditation,2,Yes,No,1
+806-02-8150,27,Male,2,26,0,9,2,5,1,5,1,6,No,1,Walking or Nature Walks,4,No,No,5
+282-41-7702,30,Female,3,59,3,4,6,1,4,5,3,3,Yes,5,Social Media Engagement,1,No,No,5
+754-90-7661,18,Male,4,46,6,11,6,1,5,2,3,5,No,4,Exercise,1,Yes,No,5
+571-09-2803,25,Male,0,12,5,10,2,2,2,1,5,10,Yes,3,Travelling,4,No,Yes,1
+795-37-4782,30,Female,1,27,7,11,2,4,2,3,3,9,No,1,Watching Sports,1,Yes,Yes,5
+717-46-4687,30,Female,4,25,1,9,5,1,4,5,3,2,Yes,1,Meditation,2,Yes,Yes,5
+531-35-5421,23,Male,2,24,6,6,5,2,2,5,2,10,No,2,Yoga,1,No,No,5
+727-06-5275,21,Male,3,56,4,11,6,3,3,5,5,5,No,1,Meditation,2,Yes,No,3
+810-17-3394,20,Male,0,2,8,9,9,5,1,4,1,10,No,5,Watching Sports,1,No,Yes,4
+378-69-3253,29,Male,4,27,4,7,0,3,3,3,2,3,No,1,Walking or Nature Walks,3,No,Yes,2
+615-18-5641,18,Agender,3,7,0,8,9,2,2,3,3,5,Yes,3,Social Media Engagement,2,Yes,Yes,1
+698-34-8160,25,Male,3,17,1,4,1,5,2,5,1,2,Yes,4,Yoga,2,No,No,2
+383-96-7385,18,Female,4,30,1,4,4,4,2,5,3,6,Yes,3,Talking to Friends,2,Yes,No,3
+702-64-1654,30,Male,3,47,8,12,8,1,1,1,2,1,No,5,Social Media Engagement,2,No,No,2
+740-09-9764,28,Agender,1,34,4,11,8,2,2,1,3,4,Yes,5,Watching Sports,5,Yes,No,3
+326-55-5707,25,Female,1,1,5,6,10,5,4,4,1,6,Yes,4,Social Media Engagement,1,No,No,1
+320-56-4479,18,Polygender,4,14,2,5,5,5,4,5,3,3,Yes,1,Social Media Engagement,4,Yes,No,4
+383-97-0460,29,Female,0,14,5,10,7,3,1,5,5,9,Yes,5,Spending Time Alone,4,No,No,1
+738-49-0188,22,Male,0,55,2,5,3,2,2,1,4,2,No,2,Yoga,2,Yes,No,3
+711-55-4152,23,Male,2,57,2,4,2,5,1,3,1,5,No,4,Meditation,2,Yes,Yes,3
+176-78-6541,21,Female,1,7,5,11,7,4,4,4,4,2,No,4,Watching Sports,3,Yes,No,4
+781-40-2585,21,Male,3,33,1,7,1,3,5,2,5,1,Yes,2,Yoga,3,Yes,Yes,3
+499-98-4339,28,Female,4,58,7,7,8,3,2,1,4,2,No,4,Walking or Nature Walks,2,Yes,No,2
+605-26-6514,23,Genderqueer,3,34,7,5,3,2,2,2,3,3,No,3,Reading,2,No,No,1
+586-80-7262,22,Female,0,22,0,12,8,1,3,5,2,3,Yes,4,Walking or Nature Walks,4,No,Yes,4
+271-48-3454,19,Male,0,8,2,7,10,5,5,4,4,7,No,1,Exercise,2,No,Yes,5
+209-98-0785,19,Female,3,22,4,8,2,2,3,1,3,4,Yes,1,Reading,1,Yes,No,2
+443-31-3477,26,Polygender,3,3,0,11,4,4,3,2,5,8,Yes,3,Travelling,4,Yes,No,2
+519-06-1329,30,Genderqueer,3,3,4,10,0,5,3,1,3,5,Yes,5,Social Media Engagement,1,No,Yes,4
+804-52-3208,24,Genderfluid,4,16,7,10,9,1,1,4,1,10,No,4,Watching Sports,3,Yes,Yes,4
+481-77-7907,27,Male,2,40,4,12,10,1,2,4,1,7,No,5,Watching Sports,1,Yes,Yes,1
+674-98-1276,20,Female,0,20,8,11,7,3,5,3,2,9,No,3,Meditation,4,No,No,3
+707-05-8481,27,Female,4,23,4,8,5,3,4,1,1,3,No,5,Social Media Engagement,4,Yes,Yes,3
+325-94-1580,18,Female,1,18,8,10,5,4,1,3,4,7,Yes,5,Watching Sports,3,Yes,Yes,1
+752-96-2019,26,Female,4,41,0,5,1,1,1,3,5,9,No,4,Travelling,1,Yes,No,4
+428-78-6391,21,Male,0,36,8,5,5,2,3,1,1,5,Yes,3,Reading,3,No,No,2
+464-11-5678,22,Female,0,43,8,4,3,4,1,1,3,1,No,3,Meditation,2,Yes,No,3
+651-96-1453,20,Male,4,12,6,4,3,4,5,1,1,6,Yes,5,Yoga,1,Yes,Yes,2
+530-09-1717,23,Male,3,17,4,9,2,5,3,3,4,7,No,5,Travelling,4,Yes,Yes,4
+309-47-7464,28,Female,3,10,2,4,4,2,4,4,4,4,Yes,1,Spending Time Alone,5,No,Yes,5
+334-92-9954,29,Male,3,35,8,7,6,2,3,1,2,8,No,3,Social Media Engagement,5,No,No,3
+463-37-4141,20,Female,2,13,7,12,0,4,3,3,2,6,Yes,3,Talking to Friends,5,No,Yes,4
+788-73-1307,25,Female,0,52,2,11,9,3,1,4,2,10,No,3,Meditation,4,Yes,No,2
+892-74-2771,24,Male,3,20,7,12,7,1,2,3,5,5,No,1,Reading,2,No,Yes,4
+241-23-6708,25,Female,4,55,3,9,3,5,1,1,4,7,Yes,3,Walking or Nature Walks,2,Yes,Yes,3
+545-56-1934,26,Female,0,30,1,10,7,5,2,3,3,10,Yes,4,Yoga,5,Yes,Yes,1
+477-22-8639,26,Female,1,12,3,8,5,3,3,1,4,9,No,1,Reading,3,No,Yes,1
+335-88-9255,26,Female,4,38,3,9,0,4,5,2,4,8,No,3,Reading,3,Yes,No,5
+202-17-3500,20,Male,0,54,5,8,1,2,5,2,1,8,No,3,Yoga,1,No,No,5
+523-31-2613,20,Male,0,37,5,6,8,4,1,3,3,4,Yes,5,Reading,5,Yes,No,5
+254-42-8904,29,Female,4,50,7,12,6,4,2,1,5,2,No,1,Walking or Nature Walks,4,No,No,4
+799-05-5204,27,Male,2,47,7,6,6,2,5,1,4,6,Yes,2,Spending Time Alone,3,Yes,No,2
+390-16-0228,23,Female,1,9,8,8,5,2,4,5,4,1,Yes,5,Talking to Friends,2,Yes,No,1
+208-48-5788,28,Female,4,2,3,5,8,5,4,4,3,9,Yes,2,Watching Sports,5,Yes,No,5
+890-19-8390,21,Female,3,1,2,12,2,5,2,5,2,2,Yes,5,Yoga,3,Yes,No,3
+437-37-2214,27,Female,1,60,5,6,9,3,3,2,5,8,No,5,Reading,5,Yes,No,3
+110-72-8540,29,Polygender,0,58,6,7,5,1,1,4,4,3,Yes,3,Yoga,3,Yes,No,3
+579-55-4938,27,Polygender,0,27,2,7,5,5,3,5,3,3,No,5,Walking or Nature Walks,5,Yes,No,1
+466-18-6728,23,Female,3,2,8,10,5,1,1,3,5,6,Yes,3,Meditation,2,No,No,1
+450-92-7163,30,Female,0,59,8,9,7,1,1,4,5,10,Yes,5,Social Media Engagement,3,Yes,No,1
+305-74-1381,19,Male,1,35,5,11,0,2,2,4,4,8,No,5,Reading,3,No,Yes,2
+479-46-7256,18,Genderqueer,0,24,6,10,6,2,3,3,4,7,No,1,Watching Sports,3,Yes,No,3
+354-85-7597,27,Male,1,59,8,9,3,4,2,3,1,5,Yes,4,Reading,5,Yes,Yes,1
+561-12-6582,25,Male,3,3,8,7,6,2,1,1,4,9,No,5,Social Media Engagement,4,No,No,2
+851-42-5437,19,Female,4,49,5,12,3,2,5,1,3,5,No,1,Talking to Friends,5,No,Yes,3
+382-54-7314,27,Male,2,35,5,10,0,5,5,3,4,9,No,5,Watching Sports,3,No,Yes,4
+550-68-8072,23,Male,4,53,8,10,7,5,5,5,1,10,Yes,1,Reading,4,No,No,2
+888-49-6708,20,Male,0,5,7,4,4,5,1,5,3,10,Yes,4,Yoga,5,No,Yes,4
+593-90-7730,30,Male,4,36,4,8,0,5,1,5,4,10,No,4,Spending Time Alone,3,Yes,Yes,5
+309-75-5842,19,Male,2,14,3,4,8,3,5,2,2,3,No,5,Watching Sports,1,No,No,5
+858-22-8290,30,Male,1,39,7,10,5,1,3,3,1,5,Yes,5,Reading,1,No,No,1
+894-23-4350,26,Female,1,19,4,4,6,4,4,1,2,5,Yes,3,Social Media Engagement,5,Yes,Yes,1
+839-24-2141,23,Male,4,43,4,12,9,2,5,2,1,9,Yes,4,Reading,1,No,Yes,2
+783-83-0580,28,Genderfluid,4,4,7,6,7,2,5,3,5,8,No,3,Exercise,5,Yes,Yes,2
+858-67-4388,29,Female,2,42,2,6,1,2,3,5,2,7,Yes,4,Social Media Engagement,5,Yes,No,3
+744-22-9388,30,Male,3,25,6,11,2,5,5,4,2,3,Yes,5,Travelling,4,Yes,Yes,5
+762-39-4942,18,Male,1,20,4,4,1,2,3,1,2,10,No,2,Watching Sports,2,No,Yes,4
+463-52-5345,29,Female,2,48,2,7,1,2,2,3,4,2,Yes,1,Travelling,2,Yes,No,2
+392-14-8873,23,Male,2,51,0,9,8,1,5,1,5,4,Yes,5,Reading,1,No,Yes,3
+789-40-6037,24,Male,1,35,4,5,8,3,2,4,4,7,Yes,4,Travelling,4,No,Yes,1
+136-03-8608,22,Male,1,32,7,8,6,2,3,2,3,8,Yes,1,Travelling,1,Yes,Yes,2
+513-74-3727,24,Male,2,27,2,10,9,2,3,4,4,3,Yes,4,Yoga,3,Yes,No,2
+668-31-1758,19,Female,4,3,8,12,7,1,2,2,1,8,No,1,Exercise,5,Yes,No,3
+729-58-5962,24,Male,3,48,0,7,5,2,5,3,3,4,Yes,1,Travelling,4,No,Yes,4
+312-59-9234,24,Female,1,54,1,8,3,3,5,3,5,9,No,1,Yoga,3,Yes,Yes,2
+146-66-6851,20,Male,0,15,2,11,10,5,5,4,4,5,Yes,1,Travelling,4,No,No,4
+864-73-0913,21,Male,3,0,7,4,3,4,3,4,5,10,No,5,Yoga,5,Yes,Yes,2
+897-17-0811,18,Female,0,4,1,6,10,4,1,4,2,7,Yes,1,Social Media Engagement,1,No,No,2
+488-51-3997,22,Female,4,32,6,5,7,1,2,1,1,2,Yes,5,Watching Sports,2,No,No,5
+251-46-4115,26,Non-binary,3,12,3,7,4,2,2,5,3,4,No,2,Walking or Nature Walks,4,No,No,3
+110-77-5199,26,Male,2,26,6,5,3,5,2,1,5,6,No,2,Reading,3,No,No,1
+337-38-5119,18,Non-binary,1,43,1,10,1,5,3,3,1,7,No,4,Reading,2,Yes,No,3
+652-68-4139,21,Male,0,10,0,5,9,3,1,4,2,6,No,3,Yoga,3,No,Yes,3
+389-50-2944,30,Female,0,25,5,9,8,1,2,1,2,2,No,2,Travelling,2,No,Yes,5
+757-52-0603,30,Male,4,8,6,4,7,5,5,1,4,3,Yes,4,Yoga,4,No,No,3
+276-75-5554,29,Polygender,4,0,2,5,1,4,5,2,2,6,Yes,5,Social Media Engagement,3,No,No,4
+421-35-8280,30,Male,0,44,4,11,5,5,5,1,5,2,Yes,2,Watching Sports,1,No,Yes,2
+637-82-3471,23,Male,4,31,8,11,5,4,4,3,4,7,No,3,Reading,5,Yes,No,4
+454-66-7440,22,Non-binary,4,58,0,9,6,2,5,2,5,9,Yes,2,Exercise,1,Yes,Yes,1
+753-28-7167,27,Male,0,18,1,7,5,5,1,3,2,3,Yes,1,Reading,4,Yes,No,2
+203-49-0874,22,Female,0,44,1,7,0,2,5,4,5,4,No,4,Reading,5,No,Yes,2
+415-41-7143,26,Male,3,4,4,4,1,3,3,3,1,4,No,4,Exercise,3,No,Yes,1
+352-71-4280,19,Male,1,56,8,10,0,2,4,1,4,4,No,3,Reading,5,No,Yes,1
+237-08-5949,18,Female,1,29,8,11,6,4,5,3,2,8,No,2,Reading,2,Yes,Yes,1
+134-38-2267,24,Female,3,4,8,8,1,1,3,5,2,9,No,3,Spending Time Alone,2,Yes,No,2
+547-88-1614,29,Genderfluid,4,23,3,6,6,2,5,3,3,2,Yes,5,Walking or Nature Walks,2,Yes,No,1
+804-74-5321,28,Male,2,29,1,8,0,4,3,5,5,2,Yes,3,Exercise,3,Yes,Yes,5
+313-73-8228,22,Female,2,49,2,5,1,2,1,3,5,3,No,3,Travelling,4,No,Yes,4
+808-63-1924,29,Male,2,44,4,6,4,2,2,3,5,3,Yes,1,Reading,2,No,No,4
+642-70-1410,23,Female,0,47,6,8,9,5,2,1,4,6,Yes,5,Meditation,5,No,Yes,2
+556-62-7808,28,Male,3,24,5,10,10,5,5,1,4,9,No,5,Meditation,5,Yes,Yes,1
+800-14-7482,24,Female,1,11,8,5,10,3,4,4,5,6,No,1,Walking or Nature Walks,3,No,Yes,4
+662-06-0085,24,Male,2,21,8,5,0,4,4,5,1,8,No,4,Spending Time Alone,4,No,No,1
+299-74-7887,19,Female,4,47,7,11,10,5,3,4,3,5,No,3,Social Media Engagement,1,No,Yes,3
+145-29-0147,18,Male,1,14,5,8,3,4,3,1,2,8,No,3,Spending Time Alone,2,Yes,No,1
+815-87-5163,24,Male,2,7,7,10,3,3,2,3,2,5,No,3,Social Media Engagement,5,Yes,Yes,5
+753-61-1198,27,Female,0,45,8,12,6,1,5,3,1,9,No,3,Yoga,4,Yes,No,3
+461-28-4962,24,Male,1,4,7,5,1,1,1,4,1,7,Yes,4,Watching Sports,4,No,No,5
+413-03-4492,25,Female,1,20,5,9,1,4,5,5,4,3,No,4,Yoga,3,No,No,2
+753-01-4944,21,Female,3,25,6,10,8,4,4,5,4,6,Yes,1,Reading,2,Yes,Yes,1
+198-16-6530,21,Female,1,15,1,4,7,2,3,2,2,2,No,1,Meditation,3,No,No,4
+602-70-7449,24,Male,4,44,4,12,4,5,4,3,5,2,Yes,2,Watching Sports,4,Yes,No,3
+807-08-9130,30,Male,3,3,3,10,3,5,5,3,3,6,No,2,Exercise,1,Yes,Yes,3
+682-85-4744,30,Female,1,39,1,8,5,3,5,1,4,10,No,4,Travelling,2,Yes,No,3
+477-39-7180,22,Female,2,28,0,7,6,3,1,1,5,1,Yes,4,Reading,3,No,Yes,4
+187-89-3320,25,Female,2,38,4,7,0,1,4,2,4,2,Yes,4,Reading,4,No,No,4
+724-36-6125,27,Female,0,16,0,10,1,4,1,4,5,6,Yes,2,Spending Time Alone,1,No,No,4
+857-86-6617,19,Female,3,56,8,10,9,2,5,2,1,5,No,3,Walking or Nature Walks,3,No,Yes,4
+561-26-2299,28,Female,4,29,8,5,3,2,2,3,4,7,Yes,3,Reading,2,No,No,1
+311-80-2077,28,Female,4,0,3,8,8,1,5,3,2,3,No,4,Exercise,5,Yes,Yes,5
+444-95-5357,29,Female,2,18,2,12,8,4,3,3,3,4,No,5,Walking or Nature Walks,5,Yes,Yes,3
+745-17-9052,27,Male,4,16,4,12,1,2,1,2,1,8,Yes,1,Walking or Nature Walks,5,No,No,2
+508-21-9829,30,Agender,2,23,5,9,5,4,3,4,4,8,No,5,Talking to Friends,1,No,No,2
+851-45-3801,20,Male,3,20,8,6,5,1,1,2,4,4,No,1,Walking or Nature Walks,4,Yes,No,1
+677-98-2595,26,Male,3,28,7,12,8,1,5,1,4,1,No,3,Walking or Nature Walks,2,No,No,3
+200-05-4427,30,Male,1,34,3,8,6,4,2,5,2,4,Yes,4,Walking or Nature Walks,2,Yes,Yes,3
+606-27-0947,30,Male,3,50,7,6,0,5,5,4,3,3,Yes,1,Meditation,2,Yes,No,4
+780-34-7404,28,Male,4,47,2,5,8,2,3,4,4,4,No,1,Talking to Friends,4,No,No,4
+578-68-4662,25,Female,0,40,1,9,1,5,3,2,2,5,No,5,Yoga,4,No,Yes,3
+559-73-5257,18,Male,1,33,6,11,8,3,4,4,3,1,Yes,2,Walking or Nature Walks,2,No,No,1
+270-63-4953,29,Male,1,56,2,9,10,1,2,1,4,10,No,1,Reading,1,Yes,No,3
+351-32-7438,19,Male,3,56,5,5,3,2,4,2,4,1,Yes,4,Walking or Nature Walks,2,Yes,Yes,4
+123-28-3736,27,Male,3,37,5,10,6,4,3,4,1,5,Yes,5,Meditation,2,No,Yes,1
+551-07-0629,19,Female,4,1,4,11,8,2,3,3,4,7,No,2,Walking or Nature Walks,5,Yes,No,5
+426-06-7163,30,Male,3,59,1,8,4,2,4,4,2,8,No,5,Yoga,3,Yes,Yes,1
+710-66-1494,24,Female,2,30,7,10,6,5,4,1,2,6,No,1,Spending Time Alone,1,No,Yes,3
+426-11-4313,18,Male,3,53,6,7,8,5,1,1,2,1,Yes,4,Meditation,3,No,Yes,5
+540-91-7162,28,Male,4,9,3,11,1,3,2,1,4,7,Yes,1,Talking to Friends,4,No,No,1
+311-67-1045,25,Female,4,41,7,9,3,1,4,4,1,2,Yes,5,Spending Time Alone,4,No,Yes,1
+617-48-8523,27,Male,1,27,1,12,1,3,4,4,3,1,Yes,4,Exercise,2,Yes,Yes,4
+400-92-3567,18,Female,1,0,3,11,7,5,5,2,2,5,No,2,Watching Sports,3,No,No,3
+659-59-5137,27,Male,3,40,4,7,7,3,5,4,2,3,No,2,Social Media Engagement,3,Yes,Yes,3
+330-13-8536,30,Male,4,44,5,6,8,5,4,4,2,3,Yes,3,Reading,5,No,No,2
+654-71-3880,25,Male,2,46,2,5,1,1,5,3,1,8,Yes,3,Watching Sports,4,No,No,2
+379-34-7617,21,Female,0,47,6,9,7,2,2,2,3,3,Yes,1,Exercise,3,No,No,1
+650-55-0326,29,Female,4,38,7,9,10,1,1,1,3,1,Yes,5,Travelling,5,Yes,No,4
+626-99-1919,21,Male,1,44,3,9,4,2,1,3,2,4,No,5,Watching Sports,5,No,Yes,5
+746-48-8600,26,Female,3,53,1,8,7,4,1,1,5,3,Yes,1,Social Media Engagement,1,Yes,No,2
+336-64-6627,23,Male,0,60,7,11,0,5,2,4,1,5,No,1,Walking or Nature Walks,1,No,Yes,2
+454-52-5179,20,Male,1,21,1,8,8,1,5,5,2,2,No,2,Reading,2,Yes,Yes,4
+241-31-8936,20,Female,0,47,6,10,8,1,4,2,1,7,Yes,4,Talking to Friends,4,No,Yes,2
+683-71-7475,30,Male,2,10,1,9,1,4,5,3,1,10,Yes,1,Talking to Friends,2,Yes,No,5
+569-85-6676,24,Female,1,48,6,11,4,5,2,3,2,10,No,5,Walking or Nature Walks,5,Yes,No,3
+593-17-5747,29,Male,1,45,0,12,6,5,1,2,5,3,No,2,Social Media Engagement,4,No,No,4
+510-80-3056,25,Male,2,13,1,8,9,4,5,2,4,5,No,4,Yoga,2,No,Yes,3
+880-57-0413,29,Male,3,43,2,10,0,4,1,2,4,10,No,2,Walking or Nature Walks,2,No,No,2
+779-50-6123,22,Female,3,3,0,8,5,5,3,1,5,9,No,3,Reading,2,No,Yes,2
+223-73-6426,18,Female,2,28,5,7,3,5,3,1,3,4,No,5,Walking or Nature Walks,5,Yes,No,2
+677-75-1654,24,Male,4,3,4,8,7,1,1,2,3,9,No,2,Exercise,2,No,Yes,2
+846-50-6000,23,Male,0,2,5,7,4,4,2,5,1,8,No,1,Exercise,5,Yes,No,5
+465-30-9041,19,Female,3,27,6,10,6,5,3,4,4,4,Yes,4,Walking or Nature Walks,5,No,No,1
+199-36-3330,18,Female,4,13,5,11,7,3,4,1,4,2,No,4,Walking or Nature Walks,5,Yes,Yes,5
+741-94-3934,29,Male,3,24,8,4,5,3,3,5,5,1,No,1,Exercise,5,Yes,No,1
+620-59-7310,25,Female,3,50,8,10,8,4,4,5,3,1,Yes,2,Walking or Nature Walks,3,No,Yes,3
+318-20-1854,29,Male,2,39,4,5,1,5,1,3,2,4,Yes,4,Meditation,4,Yes,No,3
+361-13-4964,18,Male,0,27,0,6,9,2,4,4,5,9,No,5,Meditation,3,No,No,2
+558-06-2488,18,Male,0,10,0,12,9,2,2,2,4,9,No,5,Social Media Engagement,2,Yes,Yes,5
+647-49-6549,19,Male,4,60,5,9,9,5,5,2,4,10,Yes,5,Social Media Engagement,2,No,Yes,4
+396-10-9556,22,Male,2,36,4,9,8,5,1,4,3,4,Yes,2,Social Media Engagement,4,No,No,4
+163-45-2420,30,Male,0,6,2,7,3,3,2,2,5,5,No,4,Walking or Nature Walks,5,Yes,No,1
+263-28-9222,30,Female,2,21,8,11,4,3,3,3,2,8,No,5,Talking to Friends,5,No,Yes,3
+863-56-3929,21,Female,1,9,8,6,5,3,2,4,2,4,No,4,Walking or Nature Walks,5,Yes,No,3
+823-55-1413,30,Female,2,54,2,9,3,3,4,5,4,5,No,1,Walking or Nature Walks,4,Yes,No,3
+393-36-0386,24,Male,4,15,5,4,7,4,3,3,3,1,Yes,2,Reading,3,No,No,4
+483-79-6469,29,Male,2,1,7,12,4,1,4,1,5,7,Yes,3,Meditation,2,No,No,3
+886-41-9710,21,Male,4,52,4,12,0,5,5,4,1,8,Yes,3,Yoga,1,No,No,1
+123-52-5485,19,Male,4,0,3,5,10,1,3,4,2,1,Yes,3,Reading,1,No,No,3
+584-25-5327,28,Female,1,43,5,7,7,4,4,1,1,2,Yes,4,Talking to Friends,2,Yes,No,2
+282-64-9511,26,Female,2,42,5,4,6,5,3,4,1,2,Yes,5,Reading,3,No,Yes,1
+839-90-7246,24,Male,0,21,4,12,6,1,1,3,2,2,Yes,2,Reading,2,No,No,5
+197-16-6156,28,Male,3,44,8,7,2,5,5,1,3,9,Yes,1,Walking or Nature Walks,3,No,No,5
+453-60-8989,22,Female,0,36,8,8,10,2,2,4,3,2,No,1,Spending Time Alone,4,No,Yes,5
+219-08-7978,27,Female,0,59,6,8,9,1,4,1,1,10,Yes,1,Yoga,4,Yes,Yes,4
+817-75-9957,23,Female,1,12,0,9,10,2,1,1,3,7,Yes,4,Talking to Friends,3,Yes,No,5
+257-59-3889,27,Bigender,3,39,7,7,4,2,3,2,2,9,Yes,4,Exercise,3,No,No,1
+648-04-5327,19,Male,1,40,0,7,9,1,1,2,4,4,Yes,3,Travelling,3,Yes,No,1
+259-06-7837,21,Male,2,15,7,5,6,4,5,2,1,10,No,1,Talking to Friends,5,Yes,Yes,5
+174-42-7135,21,Male,2,11,5,9,10,1,3,1,3,7,No,5,Travelling,3,No,No,4
+478-23-0281,21,Male,0,51,6,10,0,3,2,5,4,5,No,5,Yoga,1,Yes,No,4
+224-73-0992,20,Female,0,29,8,7,8,4,4,5,1,6,No,4,Meditation,3,No,Yes,1
+636-25-9534,29,Female,2,53,3,11,0,3,4,2,5,7,No,1,Meditation,1,Yes,Yes,4
+393-27-9582,19,Female,1,53,7,8,1,3,4,2,3,2,Yes,3,Spending Time Alone,5,Yes,Yes,1
+318-38-9465,27,Male,1,3,3,6,4,3,2,4,4,3,Yes,3,Walking or Nature Walks,2,Yes,No,5
+103-34-9967,26,Male,3,29,8,11,5,5,4,3,2,2,Yes,2,Reading,2,No,Yes,5
+327-70-4852,28,Female,4,7,1,11,4,2,1,3,3,2,No,5,Reading,4,Yes,No,2
+503-21-1367,18,Male,2,3,4,9,4,2,5,5,1,5,No,5,Walking or Nature Walks,5,Yes,No,4
+699-55-4412,30,Male,3,1,6,10,8,2,1,4,3,7,Yes,1,Yoga,2,No,Yes,4
+268-54-3043,30,Female,0,48,4,11,4,4,1,2,4,10,No,2,Talking to Friends,2,No,Yes,3
+745-80-5323,30,Bigender,0,15,4,5,6,2,3,1,3,6,No,3,Yoga,3,Yes,No,3
+724-01-5785,25,Female,3,44,6,5,5,4,2,4,3,1,No,4,Meditation,4,Yes,Yes,2
+326-09-7471,20,Male,1,11,5,6,0,1,3,5,5,5,Yes,2,Spending Time Alone,1,Yes,Yes,3
+670-07-5476,30,Male,4,43,4,7,0,1,3,4,2,5,Yes,2,Travelling,3,Yes,Yes,2
+455-15-0002,18,Male,1,27,3,7,0,5,2,5,4,6,No,5,Spending Time Alone,1,No,Yes,5
+661-89-6367,22,Male,0,17,0,7,3,5,5,2,4,6,No,4,Travelling,4,No,Yes,5
+881-92-9952,27,Male,4,5,6,9,2,1,2,2,4,4,No,5,Walking or Nature Walks,5,No,No,2
+112-30-3427,28,Male,4,33,0,11,10,2,2,3,3,9,No,3,Meditation,1,Yes,No,4
+782-86-8699,25,Male,2,51,0,12,6,4,4,5,4,2,No,1,Talking to Friends,2,Yes,No,2
+790-70-7894,20,Female,0,10,1,10,9,3,4,4,3,3,Yes,3,Travelling,1,Yes,Yes,4
+630-52-4757,25,Female,4,54,6,5,5,4,1,4,2,4,Yes,2,Yoga,3,No,No,5
+366-66-5774,18,Male,4,55,7,4,9,2,2,3,4,9,No,1,Yoga,2,Yes,No,1
+831-13-0504,29,Male,2,57,8,9,6,1,4,4,2,5,No,3,Exercise,3,No,No,2
+464-13-1109,23,Male,0,56,6,6,7,4,4,4,4,2,Yes,1,Walking or Nature Walks,1,Yes,Yes,4
+792-49-4755,21,Male,3,1,8,8,5,5,1,4,2,3,Yes,2,Watching Sports,3,No,No,5
+581-76-0875,25,Male,2,41,8,7,10,1,2,2,1,7,No,2,Talking to Friends,4,No,Yes,5
+598-52-9686,28,Male,4,54,8,5,4,3,1,5,1,6,Yes,3,Travelling,2,Yes,No,2
+874-47-7830,20,Male,0,36,0,6,9,3,5,5,2,10,No,4,Reading,2,No,Yes,4
+521-64-9078,19,Male,0,38,7,12,5,4,1,5,1,5,Yes,1,Yoga,5,Yes,Yes,1
+505-09-0766,18,Male,1,29,8,5,0,3,1,2,5,7,Yes,2,Travelling,2,Yes,Yes,3
+891-03-5267,29,Male,3,11,5,10,4,5,2,5,1,8,No,3,Walking or Nature Walks,4,Yes,No,1
+536-05-0705,22,Female,1,1,5,11,5,4,3,4,5,9,No,2,Meditation,4,Yes,No,4
+146-27-2280,24,Female,0,59,8,5,8,3,3,1,3,3,Yes,1,Social Media Engagement,1,Yes,No,3
+339-64-6463,25,Bigender,4,48,5,4,6,1,5,2,3,10,Yes,1,Yoga,3,Yes,No,5
+295-68-1492,20,Bigender,2,17,7,6,6,5,5,4,1,7,Yes,2,Meditation,1,No,Yes,3
+252-34-4732,20,Female,1,26,2,4,6,5,2,5,2,7,No,2,Spending Time Alone,2,No,No,5
+578-73-5589,26,Male,1,39,5,5,7,5,4,4,1,8,Yes,1,Meditation,5,Yes,No,5
+376-97-9137,20,Male,3,45,7,4,1,2,5,4,5,6,Yes,3,Yoga,4,Yes,Yes,2
+121-67-9770,29,Female,0,7,5,7,3,5,1,5,5,2,Yes,2,Travelling,5,Yes,Yes,5
+537-13-6762,26,Male,0,1,0,8,3,1,1,2,5,10,No,1,Reading,5,No,No,1
+173-70-3512,18,Genderfluid,3,41,4,9,0,5,3,4,3,1,No,3,Travelling,5,Yes,No,1
+221-66-5389,29,Female,2,42,5,9,7,1,2,1,4,2,No,1,Yoga,2,No,No,3
+651-85-2824,25,Female,0,26,0,9,4,4,1,1,4,6,Yes,2,Watching Sports,4,No,Yes,4
+724-61-2623,21,Female,4,6,1,8,2,2,4,2,3,8,Yes,3,Talking to Friends,3,No,Yes,3
+347-25-4208,23,Male,3,51,6,11,4,4,1,4,3,3,No,5,Walking or Nature Walks,4,No,No,2
+716-33-7124,22,Male,2,16,3,8,6,3,2,5,1,3,No,2,Spending Time Alone,4,Yes,Yes,1
+337-94-9361,29,Male,2,28,4,7,5,1,1,4,2,2,Yes,5,Yoga,3,No,Yes,1
+897-98-3172,19,Male,3,47,3,11,6,3,2,4,2,5,Yes,5,Social Media Engagement,2,Yes,No,4
+386-99-3916,24,Female,1,20,3,12,3,2,5,3,5,4,No,4,Travelling,1,Yes,No,1
+526-47-2573,19,Male,0,13,0,6,2,4,1,5,3,3,No,5,Walking or Nature Walks,3,Yes,Yes,5
+811-33-4461,27,Male,0,25,7,11,7,4,2,3,4,4,Yes,5,Watching Sports,2,No,No,5
+577-02-7831,23,Male,3,3,5,9,10,4,3,5,5,2,Yes,3,Watching Sports,3,Yes,No,2
+599-97-8174,30,Male,0,32,6,10,5,1,4,4,1,8,No,3,Meditation,4,Yes,Yes,2
+502-94-8037,25,Male,1,22,7,8,6,5,4,3,1,7,No,4,Social Media Engagement,4,No,No,2
+107-84-6181,25,Male,4,7,7,11,0,5,5,3,3,8,Yes,1,Talking to Friends,4,No,Yes,3
+366-61-1857,25,Genderfluid,0,40,8,4,3,2,3,1,2,5,No,4,Yoga,1,Yes,No,3
+372-72-2322,30,Female,0,19,5,9,4,2,2,2,5,3,Yes,3,Social Media Engagement,5,No,Yes,4
+671-32-7672,21,Female,2,13,1,5,5,2,1,3,2,6,Yes,2,Social Media Engagement,3,No,No,3
+875-11-7909,27,Female,3,31,5,6,3,4,1,3,3,10,Yes,3,Exercise,5,Yes,Yes,4
+744-28-9884,25,Genderqueer,1,2,3,12,2,1,5,5,1,5,No,5,Talking to Friends,1,No,No,3
+846-80-2635,30,Female,4,34,7,6,3,2,3,1,3,10,Yes,2,Watching Sports,1,No,Yes,5
+231-60-6613,23,Female,3,27,5,5,9,3,4,5,5,4,Yes,5,Walking or Nature Walks,3,Yes,Yes,4
+499-56-4811,30,Male,2,35,3,9,4,4,4,2,5,3,No,5,Watching Sports,4,Yes,Yes,4
+218-29-6698,21,Male,2,11,8,7,3,5,4,4,1,1,Yes,5,Spending Time Alone,3,Yes,No,1
+789-11-8047,29,Female,1,47,3,12,1,2,2,4,3,3,No,1,Travelling,5,No,No,3
+600-81-2221,30,Female,4,12,5,4,8,1,1,2,5,1,No,2,Social Media Engagement,5,Yes,No,5
+290-98-7153,22,Female,0,4,5,12,0,2,1,2,4,2,No,3,Exercise,4,No,No,4
+324-29-3731,21,Female,3,54,6,12,4,3,4,5,1,1,No,4,Talking to Friends,3,No,No,1
+655-26-0644,27,Male,1,38,0,9,6,2,2,4,1,9,No,1,Watching Sports,4,No,No,4
+391-30-9845,28,Female,0,15,7,12,3,4,2,4,3,2,No,4,Watching Sports,1,No,Yes,1
+652-68-2428,28,Female,1,3,8,12,8,5,2,5,4,1,Yes,2,Exercise,2,Yes,No,5
+556-49-2808,22,Female,0,37,2,11,2,2,4,3,3,1,No,4,Exercise,2,No,Yes,2
+136-61-4195,26,Female,3,43,7,5,10,2,2,2,1,5,No,4,Yoga,1,No,Yes,4
+348-08-4496,25,Male,1,49,4,8,7,5,3,2,2,1,No,5,Watching Sports,5,No,Yes,2
+876-38-2404,22,Male,4,56,0,8,5,1,1,3,5,10,No,1,Talking to Friends,1,No,Yes,5
+591-08-8279,21,Male,0,0,3,7,8,5,1,1,1,9,No,1,Meditation,5,No,No,5
+421-78-2279,18,Male,3,5,3,11,5,4,3,2,1,5,No,1,Talking to Friends,5,No,Yes,5
+149-42-2247,25,Female,3,30,7,7,8,2,1,4,2,4,No,5,Meditation,5,No,Yes,1
+183-07-7377,18,Female,4,42,0,10,0,1,1,4,1,8,Yes,5,Travelling,1,Yes,Yes,4
+835-54-9143,30,Female,1,48,4,6,2,3,3,3,4,7,No,3,Travelling,2,Yes,No,2
+451-63-4332,27,Female,1,20,5,7,10,5,5,3,1,7,No,4,Spending Time Alone,3,Yes,Yes,1
+273-09-0415,28,Female,3,4,5,4,3,2,3,1,2,6,Yes,4,Social Media Engagement,3,Yes,Yes,1
+233-20-3736,19,Female,0,41,8,4,8,2,3,4,3,6,Yes,4,Yoga,5,No,No,4
+516-25-2354,22,Bigender,0,32,7,12,8,5,1,3,5,3,No,1,Spending Time Alone,4,No,No,3
+313-21-0463,19,Male,2,28,7,4,9,1,1,3,1,9,Yes,3,Walking or Nature Walks,3,Yes,No,2
+821-11-9235,21,Polygender,2,9,2,5,7,1,1,5,3,3,No,1,Watching Sports,5,Yes,Yes,5
+331-90-0090,26,Male,0,24,7,7,7,2,1,3,3,4,Yes,3,Spending Time Alone,3,Yes,Yes,4
+220-11-3284,23,Female,4,53,4,6,3,4,2,3,4,2,No,5,Travelling,4,Yes,Yes,5
+679-31-5831,23,Female,2,15,6,12,5,2,1,5,5,5,Yes,2,Watching Sports,4,Yes,Yes,2
+748-61-0034,21,Male,0,56,0,10,10,5,5,1,4,5,Yes,5,Meditation,4,Yes,No,5
+469-77-4569,28,Female,2,32,3,4,1,3,5,3,1,7,Yes,4,Travelling,5,No,No,1
+544-61-7082,18,Female,2,52,1,5,5,5,2,1,3,10,No,5,Walking or Nature Walks,4,Yes,No,2
+852-55-4127,22,Female,2,0,0,7,7,5,3,5,3,8,Yes,2,Spending Time Alone,1,No,No,4
+692-18-6999,30,Male,0,1,6,9,9,4,4,4,4,4,Yes,5,Meditation,4,No,Yes,5
+169-44-3996,20,Female,0,59,4,8,6,4,2,2,2,7,Yes,5,Watching Sports,4,Yes,No,5
+255-13-7524,26,Male,2,47,1,5,8,2,3,2,4,10,Yes,1,Walking or Nature Walks,5,Yes,No,1
+459-73-3957,20,Male,2,15,2,12,0,1,2,5,2,10,No,3,Watching Sports,4,No,Yes,3
+344-44-2876,26,Male,3,54,5,11,7,5,3,2,3,9,No,4,Walking or Nature Walks,1,No,No,2
+809-78-0926,25,Genderfluid,2,45,6,7,1,1,3,4,1,8,No,1,Watching Sports,5,Yes,No,2
+473-59-3766,22,Male,3,4,7,6,4,1,3,4,1,3,No,1,Social Media Engagement,2,No,No,2
+306-40-3812,22,Non-binary,2,42,4,4,2,1,1,4,5,1,Yes,5,Exercise,1,Yes,No,4
+196-34-9654,29,Male,4,31,3,9,0,5,3,2,5,6,No,4,Yoga,1,No,No,3
+326-62-8795,27,Female,2,39,0,11,2,2,3,1,3,3,Yes,2,Watching Sports,4,Yes,Yes,2
+368-30-8591,30,Female,4,57,4,9,8,1,2,1,4,5,Yes,2,Walking or Nature Walks,5,No,Yes,3
+259-58-1974,21,Female,0,34,0,5,6,4,4,2,3,2,No,2,Watching Sports,1,No,No,3
+694-99-6317,25,Male,3,56,2,7,0,1,5,2,3,1,No,3,Walking or Nature Walks,1,Yes,Yes,5
+735-88-1756,28,Male,4,12,6,9,6,3,4,1,5,1,No,3,Yoga,4,Yes,No,3
+577-96-2463,19,Male,0,18,4,8,2,2,4,3,3,1,Yes,4,Social Media Engagement,3,Yes,No,4
+808-66-1685,18,Female,4,17,0,11,4,1,2,1,4,5,Yes,5,Spending Time Alone,5,Yes,Yes,5
+336-14-7577,18,Male,2,9,6,10,6,3,4,4,4,5,No,1,Reading,5,No,Yes,2
+389-61-8098,22,Male,2,29,5,4,6,2,5,3,5,5,No,4,Watching Sports,3,Yes,Yes,4
+883-97-5612,18,Female,2,39,2,5,3,2,1,4,1,2,No,4,Travelling,5,No,Yes,5
+241-88-9615,18,Male,0,60,6,6,2,3,5,2,3,7,Yes,1,Reading,3,Yes,No,3
+702-91-2228,20,Female,4,2,5,9,7,4,5,3,3,1,Yes,3,Spending Time Alone,4,Yes,Yes,1
+754-66-4385,24,Male,1,49,7,4,5,2,4,3,1,6,Yes,5,Reading,3,No,Yes,4
+529-73-2230,28,Male,0,3,3,7,8,3,1,5,1,3,No,5,Meditation,1,Yes,Yes,3
+552-17-5578,29,Agender,4,52,0,11,7,5,2,4,2,6,Yes,4,Spending Time Alone,4,Yes,No,5
+615-46-9937,19,Male,4,46,2,4,8,1,1,2,1,4,No,1,Social Media Engagement,1,Yes,No,5
+627-88-9175,19,Male,4,26,5,9,1,3,4,2,2,7,No,3,Meditation,2,Yes,Yes,2
+384-45-8190,27,Female,1,55,1,8,2,1,4,2,4,2,No,3,Walking or Nature Walks,5,Yes,No,3
+830-78-6799,19,Male,0,1,8,9,10,5,2,5,2,3,Yes,2,Travelling,5,Yes,Yes,5
+442-22-8487,26,Male,2,13,6,7,9,4,2,1,3,9,Yes,4,Meditation,4,Yes,Yes,1
+139-21-3471,23,Male,3,59,6,8,9,5,4,2,3,5,Yes,1,Yoga,3,Yes,Yes,1
+822-59-2803,26,Genderfluid,2,1,7,6,9,5,2,2,1,8,Yes,4,Reading,5,No,Yes,4
+795-24-8301,24,Male,1,1,2,9,7,2,3,5,1,1,Yes,4,Travelling,5,No,No,3
+889-99-6609,18,Male,2,26,7,8,9,2,4,2,5,1,No,1,Watching Sports,4,Yes,Yes,1
+174-93-0351,22,Male,2,33,7,12,7,4,5,3,4,9,No,5,Spending Time Alone,4,No,Yes,1
+123-20-9401,19,Male,1,42,3,7,4,5,1,3,3,6,No,1,Exercise,4,Yes,Yes,5
+792-95-3865,30,Female,3,47,0,7,10,2,5,5,3,4,Yes,4,Reading,3,No,No,3
+893-18-6851,22,Male,1,36,4,6,5,1,1,1,4,2,No,2,Spending Time Alone,2,No,Yes,2
+344-90-2479,30,Female,2,58,8,11,3,2,2,3,1,5,No,4,Yoga,5,No,No,4
+697-82-5034,23,Male,1,59,2,9,8,5,3,4,3,3,Yes,5,Travelling,1,No,No,1
+573-17-2120,22,Female,1,42,2,5,4,4,2,2,4,8,Yes,4,Watching Sports,3,No,Yes,5
+659-78-0605,25,Male,2,40,6,11,9,2,5,3,3,1,Yes,4,Travelling,1,No,No,2
+593-08-9597,21,Polygender,0,0,8,4,10,3,1,3,3,10,Yes,2,Watching Sports,2,Yes,No,3
+549-47-0917,22,Female,1,40,3,8,1,4,1,1,2,10,Yes,4,Yoga,2,No,No,2
+489-81-9800,21,Female,1,40,5,11,1,3,1,4,4,5,No,2,Walking or Nature Walks,1,Yes,No,5
+541-90-1529,20,Agender,0,30,6,11,3,2,5,1,3,9,No,1,Exercise,2,No,Yes,4
+629-88-8786,24,Female,1,22,4,11,6,4,5,4,1,9,Yes,3,Walking or Nature Walks,4,Yes,No,5
+447-25-1797,26,Male,0,30,1,10,4,2,5,1,3,8,No,5,Meditation,1,Yes,Yes,4
+813-56-9068,24,Male,4,5,5,4,9,3,4,3,3,6,Yes,2,Spending Time Alone,2,Yes,No,1
+730-09-1563,18,Male,4,11,2,4,2,2,4,1,2,9,No,4,Meditation,3,No,No,5
+266-11-0157,22,Male,3,54,2,10,6,4,5,5,3,1,No,2,Talking to Friends,2,Yes,Yes,1
+192-96-8313,26,Female,1,1,8,6,4,3,3,5,3,10,Yes,5,Talking to Friends,4,Yes,No,3
+897-18-9984,20,Female,3,25,5,11,9,1,4,2,5,3,No,2,Spending Time Alone,1,No,Yes,2
+639-08-6045,26,Female,0,16,5,12,6,2,4,1,2,7,No,3,Yoga,2,Yes,Yes,4
+608-31-7226,19,Female,2,28,1,12,4,3,1,4,4,4,Yes,3,Travelling,4,No,Yes,3
+345-50-9214,30,Male,3,2,2,7,6,5,3,4,1,2,No,1,Watching Sports,4,No,Yes,3
+556-41-4631,29,Female,0,26,7,6,0,3,2,2,3,10,Yes,4,Watching Sports,3,No,Yes,3
+709-69-0922,20,Male,3,52,7,7,1,5,1,2,3,6,No,5,Walking or Nature Walks,4,Yes,No,4
+745-98-9303,19,Male,3,1,0,11,10,4,4,1,5,7,Yes,3,Reading,3,Yes,Yes,2
+181-96-3279,24,Male,4,24,7,10,0,1,1,1,1,10,No,4,Social Media Engagement,1,No,Yes,2
+129-32-7813,24,Male,1,8,6,4,6,4,4,5,4,10,No,2,Reading,4,Yes,No,2
+521-41-0961,19,Male,4,34,8,11,10,3,3,1,1,7,Yes,3,Reading,5,Yes,No,2
+626-36-8884,30,Female,0,41,4,7,2,3,2,2,2,4,Yes,1,Walking or Nature Walks,5,No,Yes,2
+600-89-4992,27,Female,3,9,0,8,9,2,2,2,1,5,Yes,5,Watching Sports,2,Yes,No,3
+143-10-3794,30,Female,2,38,0,9,2,2,2,5,1,4,No,2,Travelling,1,Yes,Yes,3
+386-97-0412,30,Male,4,17,0,6,2,5,2,3,3,4,Yes,3,Exercise,1,Yes,Yes,4
+569-33-7852,27,Female,2,53,8,7,5,2,1,4,2,1,Yes,4,Walking or Nature Walks,3,Yes,Yes,5
+593-06-7718,25,Male,0,15,5,4,3,1,5,1,2,4,No,5,Walking or Nature Walks,3,No,Yes,4
+663-15-0506,18,Male,3,41,2,4,1,5,3,3,1,1,Yes,2,Travelling,5,No,Yes,4
+384-12-1816,25,Male,0,0,4,6,0,2,3,5,4,9,No,2,Meditation,1,Yes,No,4
+527-24-3188,30,Male,1,36,0,10,10,5,4,5,3,3,Yes,4,Yoga,1,No,No,1
+544-98-6919,25,Male,0,39,6,10,1,2,1,2,3,8,No,4,Yoga,5,No,Yes,5
+836-77-4994,19,Male,4,7,6,7,8,2,1,1,3,5,Yes,2,Travelling,1,No,No,4
+826-89-7993,24,Genderfluid,2,50,4,11,8,5,2,4,5,2,Yes,1,Exercise,3,Yes,No,2
+681-15-6754,23,Female,3,5,6,12,7,1,4,2,1,1,Yes,2,Meditation,4,Yes,No,1
+714-33-5373,23,Male,1,17,3,11,5,2,4,3,3,9,Yes,5,Social Media Engagement,4,Yes,No,3
+849-54-1252,29,Female,1,15,8,10,4,2,1,2,2,2,No,4,Meditation,4,No,Yes,3
+862-68-5364,21,Female,3,2,3,5,9,5,1,4,4,4,Yes,5,Reading,2,Yes,No,1

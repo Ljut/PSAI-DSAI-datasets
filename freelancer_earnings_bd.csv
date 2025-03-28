@@ -1,0 +1,1951 @@
+Freelancer_ID,Job_Category,Platform,Experience_Level,Client_Region,Payment_Method,Job_Completed,Earnings_USD,Hourly_Rate,Job_Success_Rate,Client_Rating,Job_Duration_Days,Project_Type,Rehire_Rate,Marketing_Spend
+1,Web Development,Fiverr,Beginner,Asia,Mobile Banking,180,1620,95.79,68.73,3.18,1,Fixed,40.19,53
+2,App Development,Fiverr,Beginner,Australia,Mobile Banking,218,9078,86.38,97.54,3.44,54,Fixed,36.53,486
+3,Web Development,Fiverr,Beginner,UK,Crypto,27,3455,85.17,86.6,4.2,46,Hourly,74.05,489
+4,Data Entry,PeoplePerHour,Intermediate,Asia,Bank Transfer,17,5577,14.37,79.93,4.47,41,Hourly,27.58,67
+5,Digital Marketing,Upwork,Expert,Asia,Crypto,245,5898,99.37,57.8,5.0,41,Hourly,69.09,489
+6,Customer Support,Toptal,Beginner,Europe,Crypto,280,6867,43.04,57.8,4.87,8,Fixed,43.88,290
+7,Web Development,Fiverr,Beginner,USA,Crypto,96,1677,20.5,52.9,4.29,32,Hourly,45.99,343
+8,Data Entry,Toptal,Beginner,Australia,Bank Transfer,112,6193,82.15,93.31,3.84,30,Fixed,31.59,168
+9,Content Writing,Toptal,Intermediate,USA,Crypto,233,8446,26.44,80.06,4.27,46,Fixed,50.11,396
+10,Data Entry,PeoplePerHour,Beginner,Middle East,Mobile Banking,156,6608,54.99,85.4,4.57,52,Hourly,32.76,160
+11,App Development,Fiverr,Beginner,Australia,Crypto,112,5322,17.16,51.03,3.24,89,Fixed,12.75,14
+12,Customer Support,Toptal,Intermediate,Australia,Mobile Banking,293,7931,50.09,98.5,3.82,61,Fixed,29.04,190
+13,Customer Support,Fiverr,Intermediate,Europe,Mobile Banking,180,9033,58.02,91.62,4.68,13,Fixed,10.45,14
+14,Data Entry,Freelancer,Beginner,Canada,Bank Transfer,290,3797,47.36,60.62,3.77,89,Hourly,78.48,286
+15,App Development,Freelancer,Beginner,UK,Crypto,245,9347,11.6,59.09,4.14,40,Hourly,77.6,362
+16,Data Entry,Freelancer,Intermediate,UK,Bank Transfer,149,9332,51.07,59.17,4.18,61,Hourly,37.66,411
+17,Customer Support,Toptal,Expert,UK,Mobile Banking,18,1657,49.55,65.21,3.37,44,Hourly,60.99,9
+18,Customer Support,Freelancer,Intermediate,Middle East,PayPal,279,5124,29.85,76.24,3.72,62,Hourly,34.21,56
+19,Graphic Design,PeoplePerHour,Expert,Asia,Crypto,75,7203,92.55,71.6,3.67,44,Hourly,56.98,198
+20,Data Entry,PeoplePerHour,Beginner,Canada,Bank Transfer,199,6783,44.69,64.56,3.05,48,Hourly,66.38,160
+21,SEO,Toptal,Beginner,USA,PayPal,15,116,87.09,80.59,3.05,74,Hourly,76.27,262
+22,Data Entry,Fiverr,Expert,UK,Crypto,110,8050,15.42,56.97,4.66,59,Fixed,38.01,388
+23,Customer Support,Upwork,Intermediate,USA,Crypto,262,7695,35.29,64.61,3.55,57,Hourly,64.83,473
+24,Graphic Design,Fiverr,Beginner,Canada,Bank Transfer,200,9520,21.75,68.32,4.04,11,Fixed,28.61,380
+25,Graphic Design,Fiverr,Expert,Middle East,PayPal,149,4208,43.8,72.8,3.6,25,Fixed,79.32,252
+26,Content Writing,Fiverr,Intermediate,Canada,Bank Transfer,224,9055,15.61,89.26,4.88,61,Hourly,11.8,118
+27,App Development,Fiverr,Expert,Europe,Crypto,178,452,46.9,59.98,3.52,46,Fixed,52.25,79
+28,Digital Marketing,Upwork,Intermediate,Asia,Crypto,220,7975,38.62,75.71,3.86,54,Fixed,56.17,123
+29,Web Development,Freelancer,Intermediate,UK,Mobile Banking,97,4216,26.21,79.62,4.75,34,Hourly,58.16,312
+30,Web Development,Fiverr,Intermediate,Middle East,Crypto,264,2975,66.01,52.32,4.68,84,Fixed,18.43,71
+31,Data Entry,PeoplePerHour,Intermediate,Europe,Crypto,67,3043,95.34,80.38,3.37,7,Hourly,75.7,469
+32,Content Writing,Toptal,Expert,UK,PayPal,33,9328,24.68,58.53,4.61,62,Fixed,22.68,481
+33,Data Entry,Toptal,Expert,Canada,PayPal,279,821,72.62,53.25,3.92,57,Fixed,53.59,167
+34,Web Development,PeoplePerHour,Expert,Canada,Mobile Banking,289,7421,75.53,97.44,3.97,76,Hourly,25.59,283
+35,App Development,Fiverr,Expert,Australia,Mobile Banking,74,9911,52.32,98.28,3.27,5,Fixed,31.51,493
+36,Customer Support,Upwork,Expert,Australia,Mobile Banking,283,5763,90.28,90.42,3.16,76,Fixed,48.25,35
+37,App Development,Freelancer,Intermediate,Canada,Bank Transfer,235,8217,96.81,65.23,4.46,35,Hourly,39.2,311
+38,App Development,Toptal,Beginner,Canada,Bank Transfer,259,1606,39.41,54.88,3.99,84,Hourly,21.22,174
+39,Graphic Design,Freelancer,Beginner,USA,Mobile Banking,176,1201,66.85,84.21,3.87,37,Fixed,21.97,198
+40,Customer Support,Upwork,Expert,Asia,Bank Transfer,184,5364,67.91,72.01,4.46,60,Fixed,39.27,115
+41,Digital Marketing,Toptal,Expert,USA,Crypto,268,1267,43.35,56.1,4.53,65,Hourly,63.01,423
+42,Customer Support,Freelancer,Beginner,Asia,Mobile Banking,187,3994,35.1,74.76,3.32,16,Fixed,72.86,314
+43,Content Writing,Upwork,Intermediate,Europe,Mobile Banking,209,8089,93.71,51.72,4.22,30,Hourly,15.89,426
+44,Graphic Design,Freelancer,Expert,Australia,Bank Transfer,253,2092,80.05,95.47,3.27,73,Hourly,37.52,219
+45,Digital Marketing,Fiverr,Intermediate,Australia,PayPal,217,6353,15.87,62.94,4.5,42,Hourly,17.02,378
+46,Content Writing,Upwork,Beginner,Canada,Mobile Banking,163,8947,16.39,83.13,4.31,61,Fixed,11.16,65
+47,Content Writing,Freelancer,Beginner,Canada,Bank Transfer,104,2719,92.64,65.59,4.91,74,Fixed,56.32,264
+48,Web Development,Fiverr,Expert,Europe,Bank Transfer,116,2163,12.73,76.0,3.14,77,Fixed,52.17,133
+49,Graphic Design,Fiverr,Intermediate,Middle East,PayPal,170,3027,70.4,77.34,3.11,48,Hourly,21.41,118
+50,Content Writing,Upwork,Expert,Middle East,Mobile Banking,40,4428,26.54,59.24,3.56,62,Fixed,26.37,121
+51,SEO,PeoplePerHour,Beginner,Middle East,PayPal,116,7277,8.34,98.48,3.52,84,Hourly,11.66,320
+52,App Development,Toptal,Intermediate,Australia,Crypto,91,6311,10.67,88.76,3.49,64,Fixed,68.45,386
+53,Content Writing,Upwork,Expert,USA,PayPal,187,472,40.48,96.97,4.81,57,Hourly,78.23,457
+54,Digital Marketing,Fiverr,Expert,Middle East,PayPal,89,8772,12.37,94.74,3.5,68,Hourly,19.48,420
+55,Web Development,Fiverr,Expert,UK,Bank Transfer,273,140,61.68,79.89,3.54,46,Fixed,26.2,382
+56,Data Entry,Upwork,Beginner,Europe,PayPal,169,3422,66.49,96.09,4.52,28,Hourly,70.79,491
+57,App Development,PeoplePerHour,Expert,Middle East,Crypto,94,6086,40.48,54.42,3.9,77,Fixed,74.85,86
+58,Web Development,Toptal,Intermediate,UK,Bank Transfer,242,1992,75.57,59.8,4.55,3,Fixed,39.37,288
+59,Data Entry,Freelancer,Expert,Middle East,Crypto,26,3855,51.55,52.26,3.13,37,Fixed,13.54,136
+60,Graphic Design,Upwork,Beginner,USA,PayPal,171,9482,45.87,66.27,3.98,48,Fixed,12.76,52
+61,Graphic Design,Toptal,Expert,USA,Crypto,219,147,43.66,69.43,3.07,19,Fixed,50.18,204
+62,Content Writing,Toptal,Beginner,Middle East,Crypto,62,1529,45.96,63.57,3.13,83,Hourly,37.5,347
+63,SEO,Fiverr,Beginner,UK,PayPal,34,4676,96.95,91.44,4.81,17,Fixed,12.01,50
+64,Graphic Design,Freelancer,Intermediate,Europe,PayPal,110,5197,69.73,67.84,3.28,82,Hourly,50.83,326
+65,Customer Support,Upwork,Intermediate,UK,Bank Transfer,171,3697,34.94,64.05,4.06,82,Fixed,10.79,409
+66,Content Writing,Fiverr,Expert,Europe,Bank Transfer,158,5493,74.72,77.13,3.82,87,Hourly,65.12,399
+67,App Development,Fiverr,Beginner,Middle East,Mobile Banking,11,129,36.38,57.05,3.69,40,Hourly,31.45,39
+68,Web Development,PeoplePerHour,Beginner,Europe,Bank Transfer,201,5627,16.94,90.11,4.8,50,Fixed,12.82,249
+69,Graphic Design,Toptal,Intermediate,Canada,PayPal,50,2273,50.16,53.73,3.04,73,Hourly,51.18,217
+70,Customer Support,Upwork,Intermediate,Australia,Crypto,22,2619,76.35,99.34,4.33,29,Fixed,37.84,178
+71,Web Development,Upwork,Expert,Asia,Crypto,157,4568,40.88,88.61,4.93,51,Fixed,78.17,38
+72,Web Development,Upwork,Beginner,Australia,Bank Transfer,268,1173,87.57,59.94,4.12,42,Fixed,48.09,182
+73,SEO,Fiverr,Intermediate,USA,Bank Transfer,78,2673,41.76,50.28,4.87,29,Hourly,29.27,223
+74,Graphic Design,PeoplePerHour,Expert,Canada,PayPal,149,1453,38.23,90.77,3.1,66,Hourly,59.66,163
+75,Web Development,Freelancer,Beginner,Australia,Crypto,106,2628,99.83,85.34,3.84,17,Hourly,29.0,233
+76,SEO,Fiverr,Beginner,Middle East,Mobile Banking,125,381,50.83,86.45,3.52,31,Hourly,73.3,376
+77,SEO,Freelancer,Intermediate,Europe,Mobile Banking,180,7535,81.5,88.56,4.46,52,Fixed,36.23,192
+78,Graphic Design,PeoplePerHour,Expert,Europe,Bank Transfer,67,789,81.47,53.7,4.96,39,Fixed,48.49,496
+79,SEO,Toptal,Intermediate,UK,Mobile Banking,88,8283,93.01,67.92,3.51,60,Hourly,13.54,84
+80,Graphic Design,Upwork,Expert,UK,PayPal,19,5030,13.07,55.79,4.31,51,Hourly,39.83,460
+81,Customer Support,Freelancer,Beginner,Europe,Mobile Banking,138,3928,30.77,93.16,3.4,84,Fixed,68.27,242
+82,Graphic Design,Fiverr,Expert,Middle East,Bank Transfer,125,1999,77.94,81.16,4.13,16,Hourly,66.4,473
+83,Data Entry,Freelancer,Expert,Europe,PayPal,132,3510,58.45,66.54,3.93,14,Fixed,25.7,172
+84,Web Development,Toptal,Expert,UK,Crypto,292,2178,58.16,53.18,4.94,84,Hourly,25.83,392
+85,Customer Support,Upwork,Expert,Australia,PayPal,184,4547,20.79,65.55,4.22,42,Hourly,67.21,36
+86,Digital Marketing,Freelancer,Expert,USA,Bank Transfer,86,2204,31.71,66.26,3.7,51,Hourly,75.13,86
+87,Graphic Design,Toptal,Intermediate,UK,Bank Transfer,17,5280,54.53,86.48,3.23,24,Fixed,16.68,128
+88,Web Development,Fiverr,Expert,Middle East,Mobile Banking,28,7494,31.33,81.88,3.3,82,Fixed,41.5,193
+89,App Development,PeoplePerHour,Expert,Australia,Mobile Banking,172,1287,24.98,94.36,3.45,43,Hourly,33.62,318
+90,SEO,Fiverr,Beginner,Australia,Crypto,274,8747,13.34,73.61,3.5,73,Hourly,70.95,42
+91,Content Writing,Upwork,Expert,Australia,Crypto,74,5290,19.79,55.98,4.7,19,Hourly,15.85,411
+92,Graphic Design,Fiverr,Beginner,Canada,Bank Transfer,93,4865,78.04,85.66,4.12,84,Hourly,24.78,355
+93,SEO,Fiverr,Intermediate,Canada,Bank Transfer,193,9636,73.28,88.04,4.05,61,Hourly,62.67,158
+94,SEO,Fiverr,Intermediate,Asia,Bank Transfer,261,306,9.35,78.06,3.23,63,Hourly,13.59,104
+95,SEO,Fiverr,Expert,Australia,Crypto,221,1770,24.31,88.55,4.72,26,Hourly,44.48,452
+96,SEO,Upwork,Intermediate,Middle East,Bank Transfer,36,7397,58.24,74.69,4.45,35,Hourly,40.95,228
+97,SEO,Toptal,Expert,Europe,Crypto,145,7126,35.65,76.14,3.14,67,Fixed,33.41,216
+98,Graphic Design,Freelancer,Intermediate,Middle East,Bank Transfer,165,1121,83.21,71.38,4.42,56,Fixed,37.62,263
+99,App Development,PeoplePerHour,Expert,Canada,PayPal,36,1672,79.57,51.27,4.09,40,Fixed,47.1,417
+100,Digital Marketing,Freelancer,Expert,UK,PayPal,156,2116,89.7,55.39,3.16,29,Fixed,21.3,486
+101,Data Entry,Freelancer,Beginner,Asia,Bank Transfer,264,9311,58.48,51.57,3.92,6,Hourly,50.04,48
+102,SEO,PeoplePerHour,Beginner,Canada,PayPal,220,8692,38.45,81.82,3.97,52,Fixed,66.38,351
+103,SEO,Upwork,Beginner,Europe,Crypto,283,947,62.58,65.72,3.33,1,Fixed,63.21,441
+104,Data Entry,PeoplePerHour,Beginner,USA,Mobile Banking,289,5225,13.47,75.43,4.89,52,Hourly,20.77,122
+105,App Development,Upwork,Expert,Asia,PayPal,102,8323,5.91,95.38,4.7,24,Fixed,20.45,458
+106,Customer Support,Freelancer,Intermediate,Canada,Mobile Banking,34,8978,6.62,62.46,4.34,34,Fixed,28.77,302
+107,App Development,Upwork,Expert,Middle East,PayPal,94,4224,43.72,70.52,3.92,7,Fixed,35.28,24
+108,Customer Support,Toptal,Beginner,Asia,Crypto,152,5831,26.67,87.78,3.82,75,Fixed,38.59,130
+109,Graphic Design,PeoplePerHour,Beginner,Middle East,PayPal,148,3994,19.95,61.44,4.3,11,Fixed,57.58,428
+110,Web Development,Toptal,Intermediate,Australia,PayPal,71,6476,63.46,53.85,4.09,36,Hourly,13.97,369
+111,Content Writing,Freelancer,Beginner,Australia,Bank Transfer,62,5485,99.53,64.49,3.12,20,Hourly,12.43,435
+112,Content Writing,PeoplePerHour,Expert,Australia,Mobile Banking,285,9933,21.89,58.06,4.03,63,Hourly,37.43,223
+113,Web Development,Freelancer,Expert,Asia,Mobile Banking,283,9421,56.91,96.48,4.61,80,Fixed,58.8,499
+114,Graphic Design,Toptal,Expert,USA,Crypto,240,2985,16.37,90.41,3.92,63,Fixed,23.54,98
+115,Content Writing,Freelancer,Expert,Europe,Crypto,132,5883,93.75,81.67,3.1,69,Fixed,54.91,351
+116,App Development,PeoplePerHour,Expert,Asia,Mobile Banking,213,8138,32.72,93.57,4.57,88,Hourly,28.19,289
+117,Data Entry,PeoplePerHour,Intermediate,UK,Bank Transfer,190,511,88.44,90.18,3.4,30,Fixed,72.03,484
+118,Web Development,Freelancer,Expert,Middle East,Bank Transfer,173,166,31.89,59.33,3.52,30,Fixed,72.7,499
+119,App Development,PeoplePerHour,Beginner,Middle East,Mobile Banking,176,5835,81.57,94.63,3.33,84,Fixed,30.81,196
+120,Digital Marketing,PeoplePerHour,Beginner,Asia,PayPal,264,6557,24.89,76.97,3.66,22,Fixed,26.1,108
+121,Graphic Design,Freelancer,Beginner,Asia,Mobile Banking,209,9896,32.81,90.37,4.51,61,Hourly,38.79,347
+122,Web Development,Toptal,Beginner,Europe,PayPal,139,5880,23.29,94.8,4.04,21,Hourly,26.84,219
+123,Content Writing,PeoplePerHour,Intermediate,USA,Mobile Banking,50,4611,30.1,65.9,3.41,37,Fixed,57.07,263
+124,Graphic Design,PeoplePerHour,Beginner,Asia,PayPal,13,8177,84.31,55.5,4.76,27,Hourly,67.82,410
+125,Data Entry,PeoplePerHour,Intermediate,Australia,Bank Transfer,165,709,65.71,61.4,4.76,35,Hourly,57.12,207
+126,Graphic Design,PeoplePerHour,Beginner,Europe,Mobile Banking,293,2172,43.56,71.36,4.74,38,Hourly,67.7,318
+127,Graphic Design,Freelancer,Intermediate,UK,Crypto,110,1636,97.29,90.9,3.48,60,Fixed,37.79,81
+128,Data Entry,Toptal,Intermediate,Australia,PayPal,294,4732,49.16,93.04,3.9,70,Hourly,20.94,24
+129,SEO,Toptal,Intermediate,UK,Bank Transfer,92,6849,97.13,50.35,4.97,32,Hourly,61.66,185
+130,Data Entry,Upwork,Beginner,Canada,Crypto,196,8876,23.68,75.54,4.54,80,Fixed,35.23,431
+131,App Development,PeoplePerHour,Intermediate,UK,Bank Transfer,157,7037,90.94,70.87,3.05,80,Hourly,56.99,384
+132,Graphic Design,PeoplePerHour,Expert,Australia,PayPal,141,8025,6.31,61.11,3.13,27,Hourly,28.95,7
+133,Customer Support,Upwork,Expert,Canada,Mobile Banking,277,2932,56.8,55.99,3.93,3,Hourly,15.69,123
+134,Data Entry,Toptal,Beginner,Australia,Bank Transfer,153,5299,45.19,66.88,4.82,49,Fixed,79.48,148
+135,SEO,Fiverr,Expert,Middle East,Mobile Banking,192,2861,54.88,97.15,4.08,85,Fixed,20.93,97
+136,App Development,Fiverr,Expert,Australia,Mobile Banking,145,5577,57.58,66.16,4.0,30,Hourly,79.19,215
+137,Customer Support,Toptal,Expert,Canada,Bank Transfer,135,1934,41.96,75.94,3.21,22,Fixed,78.41,100
+138,Customer Support,PeoplePerHour,Beginner,UK,Bank Transfer,8,9760,99.83,85.15,4.31,19,Fixed,65.57,217
+139,Web Development,Fiverr,Beginner,Middle East,Bank Transfer,267,8863,97.77,68.18,4.64,31,Fixed,56.16,366
+140,Data Entry,Freelancer,Expert,USA,Mobile Banking,30,5123,96.37,98.59,3.76,20,Hourly,50.45,461
+141,Data Entry,Freelancer,Beginner,USA,Crypto,28,9779,98.01,98.12,4.55,19,Hourly,70.63,412
+142,Graphic Design,Upwork,Intermediate,USA,PayPal,270,5466,80.34,62.59,4.93,2,Fixed,30.26,413
+143,App Development,Toptal,Expert,USA,Crypto,233,5850,98.92,74.86,3.41,40,Hourly,42.74,258
+144,Web Development,Toptal,Beginner,Europe,Mobile Banking,273,6945,89.77,65.04,4.05,39,Fixed,53.36,390
+145,Digital Marketing,Fiverr,Beginner,USA,Bank Transfer,129,6365,44.51,64.24,3.57,72,Fixed,38.78,355
+146,Digital Marketing,PeoplePerHour,Expert,Canada,Bank Transfer,176,4980,79.55,51.84,4.59,54,Hourly,39.92,10
+147,Content Writing,Toptal,Beginner,Asia,PayPal,238,2415,91.65,80.48,4.16,27,Fixed,33.12,415
+148,Data Entry,Fiverr,Expert,USA,PayPal,299,904,72.7,75.13,4.27,79,Fixed,49.5,58
+149,Data Entry,Fiverr,Beginner,Australia,Crypto,279,2778,45.16,52.57,4.6,12,Fixed,69.54,249
+150,Web Development,Toptal,Intermediate,Asia,Crypto,80,965,11.25,63.93,3.79,78,Fixed,24.11,139
+151,SEO,Fiverr,Expert,USA,PayPal,218,7223,81.92,95.41,4.83,71,Hourly,75.41,334
+152,Digital Marketing,Upwork,Intermediate,Asia,Mobile Banking,162,4988,95.51,61.98,4.07,17,Fixed,58.24,37
+153,Content Writing,Upwork,Expert,UK,Crypto,208,181,39.43,57.24,3.32,84,Hourly,67.63,121
+154,Web Development,Toptal,Beginner,Canada,Bank Transfer,153,9358,19.43,74.47,4.39,10,Fixed,48.93,407
+155,Data Entry,PeoplePerHour,Intermediate,Canada,Bank Transfer,79,3643,36.02,99.28,4.59,19,Hourly,64.57,64
+156,Digital Marketing,Upwork,Beginner,Asia,Mobile Banking,233,9102,60.35,62.1,3.63,82,Fixed,11.13,145
+157,App Development,Upwork,Expert,Middle East,PayPal,66,343,35.11,83.61,4.71,30,Fixed,67.29,301
+158,Content Writing,Toptal,Expert,Europe,Crypto,62,9241,63.01,88.08,4.81,30,Hourly,12.81,124
+159,Graphic Design,Freelancer,Expert,Australia,Bank Transfer,278,3735,96.85,61.88,3.55,25,Hourly,72.29,311
+160,Digital Marketing,Fiverr,Expert,Asia,PayPal,112,8066,68.72,86.41,4.97,88,Fixed,79.44,190
+161,Content Writing,Upwork,Expert,Canada,Crypto,191,7812,39.45,68.39,3.28,74,Fixed,30.58,262
+162,Web Development,Freelancer,Intermediate,UK,Mobile Banking,233,6896,93.9,81.62,3.4,66,Fixed,24.72,489
+163,Graphic Design,PeoplePerHour,Expert,USA,Bank Transfer,52,7634,58.74,81.68,3.37,35,Fixed,63.58,360
+164,Content Writing,Freelancer,Beginner,Canada,Mobile Banking,272,7360,17.2,76.79,4.79,51,Fixed,27.71,449
+165,Content Writing,Toptal,Intermediate,UK,Mobile Banking,219,5406,52.4,54.51,4.31,71,Hourly,70.59,295
+166,Customer Support,PeoplePerHour,Beginner,USA,Mobile Banking,294,336,67.1,91.77,3.3,71,Hourly,17.2,181
+167,Customer Support,PeoplePerHour,Expert,Europe,Crypto,258,8691,84.63,66.04,3.88,27,Fixed,18.82,158
+168,Customer Support,Freelancer,Beginner,Canada,Mobile Banking,91,6636,93.97,59.33,4.23,10,Hourly,78.54,352
+169,Data Entry,Toptal,Intermediate,Canada,Crypto,185,5353,35.15,52.04,3.17,43,Hourly,57.17,307
+170,SEO,Upwork,Intermediate,Asia,Crypto,29,3166,19.77,79.54,4.76,55,Fixed,69.28,477
+171,Digital Marketing,Freelancer,Intermediate,Asia,Mobile Banking,226,5924,12.01,83.88,4.61,71,Hourly,32.7,286
+172,Data Entry,Upwork,Beginner,UK,Mobile Banking,53,7020,75.14,50.83,4.01,6,Fixed,57.35,161
+173,App Development,Freelancer,Intermediate,Middle East,PayPal,179,8198,80.54,75.6,4.93,6,Hourly,51.6,262
+174,Graphic Design,Upwork,Beginner,Asia,Bank Transfer,278,8494,43.89,61.32,3.84,77,Hourly,52.22,216
+175,SEO,Freelancer,Expert,Australia,PayPal,39,9661,42.61,82.26,4.97,48,Hourly,57.78,399
+176,Content Writing,PeoplePerHour,Expert,Europe,Bank Transfer,221,1285,95.65,58.72,4.34,77,Hourly,50.28,405
+177,Data Entry,Fiverr,Beginner,Australia,Bank Transfer,213,1049,92.08,84.55,4.27,2,Hourly,40.03,483
+178,Customer Support,PeoplePerHour,Intermediate,Canada,PayPal,164,3810,27.16,69.34,3.33,83,Fixed,29.31,180
+179,SEO,Upwork,Beginner,Australia,PayPal,11,4166,79.18,96.84,4.76,51,Hourly,63.8,90
+180,App Development,Toptal,Beginner,USA,Bank Transfer,273,4461,64.16,56.88,3.85,61,Fixed,25.84,16
+181,Digital Marketing,PeoplePerHour,Beginner,Europe,Bank Transfer,130,5607,19.65,67.05,3.32,19,Hourly,58.46,124
+182,App Development,Fiverr,Expert,Australia,Bank Transfer,94,9688,38.89,55.67,3.03,2,Hourly,26.33,259
+183,Graphic Design,Upwork,Beginner,USA,Crypto,46,5402,21.86,96.23,4.12,51,Hourly,53.77,444
+184,Web Development,PeoplePerHour,Expert,UK,Bank Transfer,163,3733,33.04,93.87,4.05,26,Fixed,62.3,377
+185,Data Entry,Freelancer,Beginner,Australia,Mobile Banking,206,2311,63.45,62.9,4.44,70,Hourly,25.31,354
+186,Customer Support,Toptal,Expert,Europe,Mobile Banking,286,1903,40.65,83.0,4.78,20,Hourly,14.2,488
+187,Graphic Design,Upwork,Beginner,USA,Mobile Banking,292,8841,42.44,90.86,3.16,23,Fixed,19.17,213
+188,Web Development,PeoplePerHour,Beginner,Australia,PayPal,95,6945,56.27,77.76,4.46,54,Fixed,52.42,238
+189,Customer Support,Upwork,Intermediate,UK,PayPal,129,3040,13.29,76.48,3.37,15,Fixed,69.46,179
+190,Customer Support,Freelancer,Intermediate,Australia,PayPal,130,912,75.19,62.09,4.72,6,Hourly,13.15,418
+191,Customer Support,Fiverr,Beginner,USA,Bank Transfer,56,4577,43.16,54.66,4.64,35,Hourly,61.39,171
+192,Data Entry,PeoplePerHour,Beginner,Australia,Mobile Banking,107,1269,50.64,94.86,4.08,75,Hourly,33.89,142
+193,Graphic Design,Upwork,Beginner,Europe,Bank Transfer,191,3845,97.56,95.02,4.42,8,Hourly,43.5,316
+194,Customer Support,Upwork,Beginner,Canada,Crypto,209,577,37.71,81.66,3.63,57,Fixed,75.02,243
+195,App Development,Upwork,Intermediate,USA,Crypto,18,7419,66.58,66.95,3.94,50,Fixed,33.24,231
+196,Graphic Design,Fiverr,Expert,USA,PayPal,108,2972,42.29,67.46,4.64,49,Hourly,42.57,171
+197,SEO,Upwork,Beginner,USA,Crypto,121,5899,89.96,86.3,3.92,88,Fixed,10.96,276
+198,App Development,Toptal,Intermediate,USA,Mobile Banking,97,1212,85.44,94.86,3.72,21,Fixed,15.71,76
+199,Data Entry,Toptal,Beginner,Australia,Crypto,148,896,27.95,94.35,3.99,36,Fixed,28.1,302
+200,Customer Support,Upwork,Beginner,Europe,PayPal,114,7009,70.72,88.99,4.66,71,Hourly,11.95,330
+201,Graphic Design,Toptal,Expert,UK,Bank Transfer,167,3136,11.19,82.1,3.67,69,Fixed,54.2,48
+202,Content Writing,PeoplePerHour,Beginner,Europe,Crypto,57,3333,96.5,54.21,3.35,58,Hourly,39.85,436
+203,Data Entry,Toptal,Beginner,USA,Mobile Banking,7,3373,38.15,58.08,4.42,63,Hourly,48.37,247
+204,Graphic Design,Upwork,Expert,Middle East,Mobile Banking,72,495,84.03,94.93,4.65,16,Hourly,22.23,282
+205,SEO,Freelancer,Expert,Australia,Mobile Banking,250,1075,35.25,80.32,3.2,6,Fixed,30.72,286
+206,Customer Support,PeoplePerHour,Expert,Middle East,Bank Transfer,142,1409,65.11,50.46,3.48,78,Fixed,56.47,427
+207,Web Development,Fiverr,Expert,Australia,Mobile Banking,291,8260,98.44,55.07,3.28,52,Fixed,77.57,31
+208,Customer Support,Upwork,Intermediate,USA,PayPal,70,6163,88.29,83.18,3.7,2,Fixed,13.53,499
+209,Web Development,Fiverr,Intermediate,Australia,PayPal,159,8802,20.23,50.25,3.9,89,Hourly,72.33,157
+210,Content Writing,Freelancer,Intermediate,USA,Mobile Banking,91,521,57.01,58.04,4.5,77,Hourly,50.38,17
+211,Data Entry,Fiverr,Beginner,Europe,Crypto,37,77,38.11,77.44,4.3,18,Hourly,49.47,380
+212,SEO,Upwork,Expert,Asia,Mobile Banking,72,8801,46.26,84.59,4.24,81,Fixed,45.02,62
+213,Graphic Design,Upwork,Expert,Canada,PayPal,191,3286,36.84,82.6,3.7,76,Fixed,14.86,127
+214,Graphic Design,Freelancer,Intermediate,Australia,PayPal,196,9186,36.92,61.21,4.68,35,Fixed,16.29,15
+215,Web Development,Upwork,Beginner,USA,PayPal,217,3998,56.54,85.61,3.94,86,Hourly,52.06,162
+216,SEO,Freelancer,Beginner,Middle East,Crypto,92,6222,23.24,61.86,4.96,39,Hourly,33.87,445
+217,App Development,Freelancer,Beginner,USA,Crypto,112,2029,56.05,66.27,4.27,1,Fixed,74.21,250
+218,Content Writing,Upwork,Intermediate,Middle East,Crypto,244,4971,31.5,87.32,3.25,37,Hourly,38.46,136
+219,Web Development,Toptal,Beginner,Australia,PayPal,220,9057,32.45,82.48,4.35,21,Hourly,20.03,317
+220,Web Development,Freelancer,Beginner,UK,Bank Transfer,181,2376,75.18,92.46,3.65,1,Fixed,60.03,294
+221,Content Writing,Upwork,Beginner,Middle East,Mobile Banking,57,2380,7.81,82.88,4.37,4,Fixed,30.53,178
+222,Data Entry,Toptal,Expert,USA,Mobile Banking,53,7696,41.19,78.42,3.14,58,Hourly,46.78,228
+223,Graphic Design,Freelancer,Intermediate,Australia,PayPal,118,1052,43.72,54.68,3.35,1,Fixed,58.85,370
+224,Data Entry,Toptal,Expert,USA,Crypto,99,9784,51.09,68.39,4.71,13,Hourly,73.02,393
+225,SEO,PeoplePerHour,Expert,UK,Bank Transfer,29,6498,68.56,63.26,3.45,46,Fixed,65.45,179
+226,App Development,PeoplePerHour,Intermediate,Canada,Bank Transfer,136,6887,40.12,62.2,4.67,47,Hourly,57.35,395
+227,Customer Support,Toptal,Expert,Asia,Crypto,183,6517,25.25,98.65,3.56,81,Fixed,57.57,71
+228,Digital Marketing,Freelancer,Beginner,Asia,Mobile Banking,149,9471,89.06,69.65,4.29,76,Fixed,76.21,317
+229,Digital Marketing,Upwork,Beginner,UK,Mobile Banking,202,7404,98.2,94.6,4.39,7,Fixed,30.71,386
+230,Digital Marketing,Fiverr,Beginner,Europe,Bank Transfer,88,2579,6.9,81.56,4.03,51,Hourly,10.08,82
+231,Content Writing,Upwork,Beginner,Australia,Bank Transfer,161,1480,56.91,89.74,3.61,3,Hourly,29.04,378
+232,Web Development,Fiverr,Intermediate,UK,Crypto,89,3962,37.46,75.13,3.43,50,Fixed,25.25,394
+233,App Development,Fiverr,Expert,Canada,Mobile Banking,257,1582,31.31,78.85,3.07,26,Hourly,56.33,135
+234,Data Entry,Freelancer,Expert,USA,Bank Transfer,76,1942,36.89,74.63,3.61,31,Hourly,54.36,217
+235,Customer Support,Toptal,Beginner,Australia,Mobile Banking,227,1471,65.69,59.76,4.31,62,Fixed,51.54,108
+236,Graphic Design,Upwork,Beginner,Middle East,Bank Transfer,280,8632,23.12,86.12,4.88,26,Fixed,11.14,377
+237,Digital Marketing,Toptal,Expert,UK,Crypto,287,5818,91.72,64.04,4.74,67,Fixed,61.01,406
+238,Data Entry,PeoplePerHour,Intermediate,Canada,Mobile Banking,268,2868,49.28,51.22,4.53,55,Hourly,32.65,118
+239,Digital Marketing,Freelancer,Expert,UK,Bank Transfer,250,5667,35.93,82.27,4.58,28,Fixed,56.55,393
+240,App Development,Freelancer,Beginner,Europe,Bank Transfer,65,1245,77.73,58.86,4.33,44,Hourly,48.96,17
+241,Digital Marketing,PeoplePerHour,Beginner,Asia,Bank Transfer,263,6279,6.55,97.02,3.52,81,Hourly,33.99,331
+242,Graphic Design,Upwork,Intermediate,Asia,Bank Transfer,11,9099,46.03,97.7,4.81,38,Hourly,19.42,422
+243,Customer Support,PeoplePerHour,Expert,Australia,Crypto,192,5355,38.75,95.74,4.34,30,Fixed,16.61,153
+244,SEO,Upwork,Intermediate,USA,Mobile Banking,8,9758,37.13,68.51,4.12,66,Fixed,68.21,10
+245,SEO,Fiverr,Intermediate,Canada,Mobile Banking,235,8127,37.02,50.77,3.22,8,Hourly,74.29,137
+246,App Development,Freelancer,Beginner,UK,PayPal,137,9395,7.97,96.42,3.89,14,Hourly,55.49,386
+247,SEO,Upwork,Expert,Australia,Mobile Banking,129,892,19.45,71.41,3.92,62,Fixed,17.24,61
+248,Content Writing,Toptal,Beginner,UK,PayPal,19,5250,18.48,98.33,4.73,75,Fixed,38.14,70
+249,Web Development,Toptal,Expert,Australia,Bank Transfer,17,5971,98.92,98.18,4.09,63,Fixed,61.03,60
+250,Content Writing,Freelancer,Beginner,Asia,Crypto,122,9924,7.11,92.65,3.76,79,Fixed,64.59,131
+251,Data Entry,PeoplePerHour,Beginner,Europe,Crypto,244,344,20.87,64.72,4.95,66,Fixed,18.28,60
+252,Content Writing,PeoplePerHour,Expert,UK,Bank Transfer,267,6147,97.55,69.25,3.22,40,Fixed,10.0,487
+253,Data Entry,Upwork,Expert,Europe,PayPal,10,6462,64.68,92.56,3.85,13,Fixed,59.85,391
+254,Data Entry,PeoplePerHour,Beginner,Middle East,Bank Transfer,235,8886,47.81,65.85,3.08,17,Fixed,34.96,357
+255,Web Development,Freelancer,Expert,Middle East,Crypto,34,6728,12.48,58.47,4.48,15,Fixed,27.81,268
+256,Graphic Design,Upwork,Beginner,Asia,Crypto,26,5070,68.62,77.84,4.84,33,Hourly,10.9,11
+257,Customer Support,Fiverr,Expert,Canada,Mobile Banking,160,5793,18.09,96.81,3.56,16,Fixed,47.82,34
+258,App Development,PeoplePerHour,Beginner,Europe,PayPal,122,160,68.76,84.8,4.72,13,Fixed,69.58,485
+259,Web Development,PeoplePerHour,Beginner,Australia,Mobile Banking,197,8825,98.02,78.5,3.58,86,Hourly,77.03,437
+260,App Development,Upwork,Beginner,Canada,Crypto,199,9728,55.54,54.86,4.82,23,Fixed,49.6,50
+261,SEO,Toptal,Intermediate,UK,Crypto,172,4914,25.34,80.75,4.51,36,Fixed,46.01,42
+262,SEO,PeoplePerHour,Expert,UK,Mobile Banking,243,1698,64.4,99.5,4.61,43,Hourly,15.95,227
+263,Content Writing,Freelancer,Beginner,Australia,Mobile Banking,248,6431,53.73,57.0,3.04,50,Fixed,48.42,110
+264,Data Entry,PeoplePerHour,Intermediate,USA,Crypto,73,2431,55.65,75.92,4.93,74,Hourly,36.6,321
+265,Digital Marketing,Fiverr,Beginner,USA,Mobile Banking,99,155,50.42,93.87,4.45,81,Hourly,52.5,14
+266,Digital Marketing,PeoplePerHour,Intermediate,UK,Mobile Banking,81,5868,69.01,87.04,3.61,13,Fixed,37.21,176
+267,App Development,Toptal,Beginner,Asia,PayPal,175,9936,59.33,84.85,4.66,30,Hourly,26.82,161
+268,Data Entry,PeoplePerHour,Beginner,Asia,Crypto,5,9975,98.76,85.12,3.56,57,Hourly,16.65,38
+269,App Development,Upwork,Intermediate,Australia,Bank Transfer,66,431,83.46,67.97,4.75,30,Hourly,32.04,25
+270,Web Development,PeoplePerHour,Intermediate,USA,PayPal,211,4406,30.15,64.68,3.23,71,Hourly,16.77,111
+271,Graphic Design,Toptal,Expert,Europe,Bank Transfer,158,5968,73.95,90.47,4.41,10,Fixed,22.38,452
+272,Customer Support,Upwork,Expert,UK,Mobile Banking,278,1366,25.36,90.51,4.08,66,Hourly,79.11,431
+273,Web Development,Freelancer,Intermediate,Middle East,Mobile Banking,52,5504,79.32,93.35,3.19,83,Hourly,41.09,472
+274,Data Entry,Upwork,Expert,Europe,Bank Transfer,141,4124,19.02,95.66,3.48,39,Fixed,47.23,50
+275,Data Entry,Fiverr,Intermediate,Australia,Mobile Banking,5,4854,49.99,75.57,3.02,37,Hourly,71.15,481
+276,Graphic Design,Upwork,Expert,Middle East,Mobile Banking,239,956,80.11,75.08,3.94,3,Fixed,79.69,366
+277,App Development,Freelancer,Beginner,Europe,PayPal,260,7671,31.61,89.91,3.6,89,Hourly,50.79,387
+278,Content Writing,PeoplePerHour,Expert,USA,Bank Transfer,111,712,84.53,82.5,4.2,34,Fixed,66.87,97
+279,Content Writing,Upwork,Beginner,Asia,PayPal,177,6768,66.19,85.1,3.59,86,Hourly,32.89,410
+280,Graphic Design,Upwork,Beginner,USA,Bank Transfer,134,8704,42.76,89.79,3.6,38,Fixed,31.4,374
+281,Content Writing,Upwork,Expert,Middle East,PayPal,298,992,45.22,94.5,4.49,14,Hourly,38.19,169
+282,Digital Marketing,Upwork,Intermediate,Canada,Crypto,44,8399,92.97,66.9,3.1,64,Fixed,57.08,55
+283,Content Writing,Freelancer,Beginner,Asia,Crypto,20,6465,25.69,68.78,4.81,39,Fixed,57.75,220
+284,Content Writing,Toptal,Beginner,UK,Bank Transfer,131,3359,70.87,54.7,4.7,54,Fixed,32.07,324
+285,Content Writing,Toptal,Expert,Middle East,Crypto,207,1376,72.19,78.91,4.34,2,Fixed,19.32,145
+286,Digital Marketing,Upwork,Intermediate,Australia,PayPal,138,2156,92.63,51.8,4.19,43,Fixed,54.27,444
+287,App Development,Freelancer,Intermediate,UK,Bank Transfer,263,4849,72.75,73.28,4.78,53,Hourly,18.98,259
+288,Content Writing,Freelancer,Expert,Europe,Crypto,18,8889,60.52,77.13,3.37,3,Hourly,50.49,128
+289,SEO,Upwork,Intermediate,Asia,Crypto,70,2988,90.74,64.33,3.16,41,Fixed,58.54,49
+290,Digital Marketing,Fiverr,Expert,Australia,Bank Transfer,199,2533,83.77,79.54,3.48,8,Fixed,59.04,339
+291,Graphic Design,Upwork,Expert,Australia,Crypto,118,1425,73.09,51.53,4.59,75,Hourly,62.74,325
+292,Web Development,Fiverr,Expert,USA,Crypto,163,7906,8.09,51.87,3.07,63,Hourly,71.1,403
+293,Graphic Design,Upwork,Beginner,Europe,Bank Transfer,165,294,40.48,91.13,4.17,65,Fixed,45.0,19
+294,Web Development,Fiverr,Beginner,USA,Crypto,258,2398,65.03,68.01,4.99,79,Hourly,61.12,173
+295,Customer Support,Fiverr,Beginner,USA,Crypto,19,9109,54.61,56.35,4.71,4,Fixed,53.34,282
+296,Graphic Design,Upwork,Expert,Asia,Crypto,41,529,35.34,76.11,4.04,68,Fixed,23.06,25
+297,SEO,Fiverr,Beginner,Canada,Crypto,159,1985,18.72,88.5,3.13,10,Fixed,11.8,159
+298,Web Development,PeoplePerHour,Beginner,USA,Mobile Banking,31,5807,57.53,60.79,4.66,75,Hourly,29.92,9
+299,Web Development,Toptal,Beginner,UK,Bank Transfer,16,137,32.16,81.14,4.2,50,Fixed,41.01,81
+300,Data Entry,Freelancer,Expert,Australia,Mobile Banking,71,9482,27.14,54.27,3.23,23,Hourly,53.2,255
+301,Web Development,Fiverr,Expert,Asia,Mobile Banking,34,8814,42.9,52.58,3.19,61,Hourly,69.5,104
+302,Web Development,Fiverr,Expert,USA,PayPal,100,9055,79.62,76.57,4.82,47,Hourly,23.74,139
+303,Data Entry,Freelancer,Beginner,Middle East,Mobile Banking,219,228,51.35,77.03,4.34,3,Hourly,18.79,201
+304,Content Writing,Fiverr,Intermediate,UK,Mobile Banking,198,9967,25.57,81.87,4.66,17,Fixed,77.44,343
+305,Content Writing,Freelancer,Beginner,Europe,PayPal,139,212,16.11,86.3,4.76,22,Fixed,17.56,23
+306,Data Entry,Upwork,Beginner,Australia,Crypto,294,2690,52.4,98.79,4.14,16,Hourly,43.49,372
+307,Digital Marketing,PeoplePerHour,Expert,Asia,Crypto,36,9247,80.46,75.82,4.03,80,Fixed,50.99,434
+308,Customer Support,PeoplePerHour,Expert,Middle East,Mobile Banking,43,2398,67.02,66.15,3.86,3,Hourly,47.9,421
+309,Web Development,Toptal,Beginner,Asia,PayPal,210,2471,27.05,89.76,3.63,52,Fixed,16.02,45
+310,Web Development,Fiverr,Beginner,Asia,Crypto,47,4348,46.49,63.54,3.87,33,Fixed,13.99,216
+311,Data Entry,Toptal,Intermediate,Middle East,PayPal,263,4192,86.25,71.95,4.55,42,Fixed,17.38,391
+312,Data Entry,Upwork,Intermediate,Europe,Bank Transfer,253,4553,21.88,53.92,4.2,2,Fixed,50.99,54
+313,Digital Marketing,PeoplePerHour,Expert,Middle East,Bank Transfer,78,1267,55.55,51.27,4.79,39,Fixed,48.1,77
+314,SEO,Upwork,Intermediate,UK,Bank Transfer,278,2524,38.84,98.13,3.89,46,Fixed,26.36,490
+315,Content Writing,Upwork,Intermediate,Asia,Bank Transfer,194,979,16.8,91.8,4.21,48,Hourly,54.64,158
+316,Graphic Design,Fiverr,Expert,Europe,Mobile Banking,142,8008,9.74,84.8,4.26,27,Fixed,67.4,343
+317,SEO,Upwork,Intermediate,Asia,Bank Transfer,286,8558,57.81,70.45,4.18,15,Fixed,12.91,271
+318,App Development,PeoplePerHour,Beginner,Middle East,Bank Transfer,170,1552,6.97,58.66,4.41,7,Fixed,44.87,147
+319,Content Writing,Toptal,Intermediate,Europe,PayPal,282,470,14.83,57.82,3.47,57,Hourly,58.25,37
+320,Web Development,PeoplePerHour,Expert,Europe,Crypto,30,5880,38.02,62.51,4.02,42,Fixed,27.66,110
+321,App Development,Fiverr,Beginner,USA,PayPal,77,4408,9.13,77.46,3.21,9,Fixed,31.54,14
+322,SEO,PeoplePerHour,Intermediate,USA,Mobile Banking,119,1499,43.04,85.73,3.77,6,Fixed,52.95,77
+323,Data Entry,Freelancer,Beginner,USA,Bank Transfer,55,5861,17.38,83.01,3.98,57,Hourly,72.86,75
+324,Digital Marketing,Toptal,Beginner,Middle East,Crypto,175,8669,38.24,64.0,4.3,76,Fixed,66.69,417
+325,Content Writing,Freelancer,Intermediate,Australia,Crypto,272,7921,80.16,97.74,4.9,30,Hourly,50.82,327
+326,Digital Marketing,Freelancer,Intermediate,UK,Bank Transfer,7,8638,64.5,86.89,4.2,55,Hourly,61.12,274
+327,App Development,Fiverr,Expert,Middle East,Bank Transfer,214,9037,47.31,77.72,4.49,84,Fixed,35.54,493
+328,Content Writing,Upwork,Expert,Asia,Mobile Banking,119,156,13.72,80.59,4.01,84,Fixed,54.87,196
+329,Customer Support,Freelancer,Beginner,USA,Mobile Banking,171,4099,63.82,70.98,4.27,54,Hourly,42.63,375
+330,Customer Support,PeoplePerHour,Expert,Europe,Bank Transfer,269,8339,20.55,62.39,3.14,27,Hourly,23.3,218
+331,SEO,Upwork,Beginner,Middle East,Bank Transfer,231,1953,12.28,67.8,3.51,84,Fixed,59.12,62
+332,Web Development,PeoplePerHour,Beginner,Europe,Bank Transfer,155,7699,68.08,87.89,3.72,59,Fixed,48.95,360
+333,Customer Support,PeoplePerHour,Expert,Asia,Bank Transfer,272,3620,91.65,50.72,3.94,7,Hourly,35.1,460
+334,Customer Support,Upwork,Expert,Europe,Crypto,120,5426,48.76,55.8,3.09,40,Hourly,73.79,31
+335,Graphic Design,Upwork,Expert,Europe,Mobile Banking,92,92,8.89,52.3,3.28,72,Hourly,11.47,478
+336,Digital Marketing,PeoplePerHour,Intermediate,Canada,Bank Transfer,246,6435,88.63,52.04,3.55,2,Hourly,32.1,232
+337,Digital Marketing,Fiverr,Beginner,Australia,Bank Transfer,44,1627,11.36,92.77,4.94,14,Fixed,13.98,109
+338,Customer Support,Toptal,Beginner,UK,Crypto,186,6115,87.41,85.18,3.66,10,Hourly,63.66,164
+339,Graphic Design,Toptal,Beginner,UK,PayPal,213,5935,42.22,73.71,3.96,50,Fixed,59.15,193
+340,Digital Marketing,Fiverr,Expert,USA,Bank Transfer,277,8626,39.71,54.89,3.39,18,Hourly,33.19,6
+341,Digital Marketing,Upwork,Expert,Canada,Crypto,123,3627,56.57,74.58,4.22,18,Hourly,57.3,431
+342,Content Writing,PeoplePerHour,Expert,Middle East,Crypto,28,3288,95.92,73.67,3.56,16,Fixed,37.72,138
+343,Content Writing,Toptal,Expert,Middle East,PayPal,262,5294,90.38,58.66,3.41,52,Fixed,62.94,458
+344,Graphic Design,PeoplePerHour,Expert,UK,Mobile Banking,96,9938,49.68,71.69,4.03,69,Fixed,41.79,342
+345,App Development,Fiverr,Intermediate,Australia,Mobile Banking,165,2184,71.1,69.93,3.01,52,Fixed,38.86,286
+346,Web Development,PeoplePerHour,Expert,Europe,Mobile Banking,153,3942,60.14,80.79,3.02,31,Hourly,75.43,427
+347,SEO,Fiverr,Beginner,Asia,Bank Transfer,121,4371,70.88,81.75,3.44,84,Fixed,27.56,300
+348,Customer Support,Upwork,Expert,USA,Mobile Banking,57,5826,83.79,52.27,3.07,23,Fixed,18.43,455
+349,Customer Support,Fiverr,Beginner,Australia,Bank Transfer,49,5878,8.28,68.73,3.22,42,Fixed,50.92,55
+350,SEO,Fiverr,Expert,UK,Bank Transfer,269,3865,35.95,81.29,3.68,81,Hourly,77.85,159
+351,Customer Support,Toptal,Expert,Canada,Crypto,266,345,96.14,75.16,4.61,62,Hourly,36.45,495
+352,Customer Support,PeoplePerHour,Beginner,USA,Mobile Banking,238,463,95.19,92.82,4.14,77,Fixed,14.34,148
+353,App Development,Toptal,Beginner,UK,Mobile Banking,39,6006,6.07,82.93,4.03,50,Hourly,33.75,286
+354,Digital Marketing,Freelancer,Beginner,Middle East,Mobile Banking,201,6328,24.14,58.15,3.59,77,Hourly,45.42,256
+355,Web Development,Fiverr,Beginner,USA,Bank Transfer,29,6718,99.41,53.53,4.86,81,Fixed,21.33,460
+356,Customer Support,Freelancer,Intermediate,UK,Bank Transfer,206,8245,51.82,82.12,3.79,15,Hourly,56.07,138
+357,Graphic Design,Toptal,Beginner,Middle East,Mobile Banking,277,227,59.42,51.33,3.17,44,Fixed,79.84,348
+358,App Development,PeoplePerHour,Expert,Asia,Bank Transfer,40,8987,20.81,79.29,4.23,42,Fixed,41.62,323
+359,Customer Support,Toptal,Expert,Middle East,Bank Transfer,227,4404,89.96,97.01,3.23,45,Fixed,34.83,291
+360,Graphic Design,PeoplePerHour,Intermediate,Europe,PayPal,281,8893,26.97,78.77,3.69,35,Hourly,38.05,334
+361,Content Writing,PeoplePerHour,Beginner,Canada,PayPal,22,5964,23.02,69.41,4.01,22,Fixed,18.06,186
+362,Digital Marketing,Upwork,Expert,Europe,Mobile Banking,192,5532,26.67,82.16,4.75,74,Hourly,71.83,322
+363,Data Entry,Fiverr,Intermediate,UK,Mobile Banking,261,3321,92.36,72.91,3.99,75,Hourly,39.04,183
+364,Customer Support,Toptal,Expert,Asia,PayPal,146,6737,71.77,77.28,4.4,38,Hourly,37.11,306
+365,Graphic Design,PeoplePerHour,Intermediate,Australia,Bank Transfer,140,5442,78.02,97.07,4.99,70,Hourly,56.18,412
+366,App Development,Toptal,Intermediate,Asia,Bank Transfer,83,339,40.82,69.31,3.26,64,Fixed,40.94,468
+367,Digital Marketing,Toptal,Beginner,Asia,Crypto,296,9044,91.37,98.06,3.55,7,Fixed,55.38,385
+368,Web Development,PeoplePerHour,Intermediate,Asia,Mobile Banking,66,8475,79.99,95.27,3.79,44,Hourly,14.3,261
+369,App Development,Freelancer,Expert,Europe,Mobile Banking,133,457,76.31,59.79,3.84,76,Fixed,66.96,414
+370,Content Writing,Fiverr,Expert,Australia,Mobile Banking,261,743,97.24,53.47,3.82,7,Hourly,75.84,309
+371,SEO,Fiverr,Beginner,Middle East,Crypto,216,1219,39.79,55.04,4.82,66,Hourly,55.41,343
+372,Customer Support,Upwork,Beginner,UK,Crypto,58,8673,63.04,50.91,4.43,60,Fixed,76.82,423
+373,Web Development,Upwork,Intermediate,Canada,Bank Transfer,179,7832,91.44,54.72,4.22,1,Hourly,20.6,144
+374,Graphic Design,Upwork,Beginner,Australia,PayPal,104,9224,80.13,84.15,3.62,62,Fixed,43.42,260
+375,Customer Support,Fiverr,Expert,UK,PayPal,43,3094,58.52,53.56,4.65,87,Hourly,52.13,1
+376,Graphic Design,Freelancer,Expert,Australia,PayPal,267,5580,12.24,65.95,4.91,89,Hourly,50.72,313
+377,Web Development,Fiverr,Beginner,Europe,Bank Transfer,154,5042,67.01,92.24,4.64,18,Hourly,38.1,11
+378,Graphic Design,Fiverr,Beginner,UK,PayPal,125,3974,55.02,51.16,3.0,7,Hourly,33.67,260
+379,App Development,Fiverr,Beginner,Europe,Crypto,182,7020,22.5,90.72,4.27,54,Fixed,18.88,361
+380,Digital Marketing,Fiverr,Intermediate,USA,Crypto,124,3362,88.81,64.09,3.1,67,Hourly,37.42,443
+381,Graphic Design,Freelancer,Intermediate,UK,Mobile Banking,76,4368,37.61,55.91,3.52,10,Hourly,21.39,168
+382,Content Writing,Upwork,Expert,Australia,PayPal,223,1738,41.81,84.84,3.12,61,Fixed,61.41,147
+383,Digital Marketing,Toptal,Intermediate,USA,Crypto,127,517,68.88,81.45,4.21,59,Hourly,24.62,199
+384,App Development,Upwork,Intermediate,Europe,Mobile Banking,248,9587,51.44,93.87,4.37,59,Hourly,14.1,384
+385,Customer Support,Upwork,Intermediate,Europe,PayPal,79,2472,13.48,86.75,3.23,69,Hourly,48.67,311
+386,Data Entry,Toptal,Intermediate,Australia,PayPal,10,7329,41.81,90.17,3.77,63,Hourly,51.67,69
+387,Customer Support,Fiverr,Expert,USA,Crypto,25,4557,13.97,64.1,3.91,8,Hourly,71.03,311
+388,Graphic Design,Freelancer,Beginner,Asia,Mobile Banking,194,4771,23.12,58.87,3.74,78,Hourly,50.39,53
+389,Graphic Design,Freelancer,Expert,Middle East,Mobile Banking,229,5421,5.68,87.53,3.24,55,Fixed,34.18,394
+390,Content Writing,Upwork,Intermediate,Canada,Crypto,107,9253,22.22,90.34,3.84,6,Hourly,66.21,258
+391,App Development,Toptal,Beginner,Australia,Crypto,103,7591,36.39,99.53,4.5,1,Fixed,47.82,350
+392,Content Writing,PeoplePerHour,Beginner,Europe,Crypto,87,9919,56.13,70.63,3.14,56,Hourly,15.55,27
+393,SEO,Fiverr,Beginner,UK,PayPal,185,1536,92.33,68.6,3.16,75,Fixed,49.61,366
+394,App Development,Upwork,Expert,USA,Crypto,156,9658,56.33,88.82,3.71,88,Fixed,73.56,362
+395,Web Development,Freelancer,Beginner,Middle East,Crypto,60,9599,72.03,67.04,4.88,10,Fixed,37.74,119
+396,Web Development,Toptal,Expert,Canada,Bank Transfer,194,9633,38.98,96.54,4.34,23,Fixed,30.74,132
+397,Web Development,Toptal,Expert,UK,Crypto,26,9820,76.4,92.92,4.36,16,Hourly,20.04,379
+398,Content Writing,Upwork,Intermediate,USA,Crypto,72,3799,63.94,71.45,3.72,16,Hourly,20.6,89
+399,Web Development,PeoplePerHour,Intermediate,Middle East,PayPal,189,8109,48.68,87.54,4.19,56,Hourly,40.29,15
+400,App Development,Freelancer,Beginner,Australia,Mobile Banking,14,2553,23.41,87.73,3.02,6,Fixed,51.7,286
+401,Web Development,Upwork,Beginner,Middle East,PayPal,70,7905,33.84,55.16,4.27,30,Fixed,15.64,283
+402,Data Entry,PeoplePerHour,Intermediate,Australia,Bank Transfer,268,7105,63.99,95.13,4.83,63,Fixed,75.77,390
+403,Web Development,Toptal,Expert,Asia,Crypto,229,449,45.48,75.26,4.23,1,Fixed,62.86,229
+404,Graphic Design,Fiverr,Expert,USA,Crypto,127,4432,89.49,91.32,4.75,51,Fixed,51.06,136
+405,SEO,Freelancer,Intermediate,Middle East,Crypto,42,1589,27.31,66.0,4.45,89,Fixed,67.99,294
+406,Content Writing,Freelancer,Expert,Canada,Crypto,127,8478,11.94,94.78,3.24,46,Fixed,15.61,226
+407,Digital Marketing,PeoplePerHour,Intermediate,Middle East,Crypto,160,7235,60.99,69.46,4.8,21,Hourly,43.38,426
+408,SEO,Upwork,Intermediate,USA,Crypto,71,4960,89.17,50.54,3.13,38,Fixed,54.11,26
+409,Data Entry,Toptal,Beginner,UK,Bank Transfer,137,9169,39.65,95.27,4.07,69,Hourly,68.01,331
+410,Content Writing,PeoplePerHour,Beginner,UK,Crypto,144,4559,66.53,54.56,3.28,63,Hourly,64.84,116
+411,App Development,Fiverr,Intermediate,Middle East,Crypto,86,6101,26.98,65.97,3.02,50,Fixed,29.39,88
+412,Customer Support,Fiverr,Beginner,Middle East,Crypto,62,6202,58.05,97.5,3.84,12,Fixed,75.86,106
+413,Content Writing,Fiverr,Intermediate,Australia,Bank Transfer,153,8661,79.75,97.53,3.59,69,Fixed,18.7,220
+414,Graphic Design,PeoplePerHour,Expert,USA,Crypto,135,4174,87.37,78.67,3.97,73,Fixed,71.26,222
+415,App Development,Toptal,Expert,Australia,Bank Transfer,73,2445,14.99,81.59,4.15,44,Hourly,77.97,121
+416,SEO,Freelancer,Expert,Canada,PayPal,254,8902,38.86,72.42,3.09,52,Fixed,22.4,381
+417,SEO,Upwork,Expert,Asia,Crypto,181,4000,65.77,64.66,3.25,9,Hourly,60.54,353
+418,Web Development,Freelancer,Intermediate,UK,Mobile Banking,76,499,8.3,66.43,4.12,65,Fixed,12.82,32
+419,App Development,Toptal,Expert,Europe,Bank Transfer,21,429,70.61,83.63,3.69,10,Hourly,38.38,90
+420,Customer Support,Freelancer,Expert,Europe,PayPal,164,9492,55.16,87.62,4.46,46,Hourly,46.14,183
+421,Graphic Design,PeoplePerHour,Expert,USA,Bank Transfer,74,7335,32.41,89.58,4.3,58,Hourly,50.65,375
+422,Web Development,Fiverr,Expert,USA,Bank Transfer,117,2351,82.39,89.48,4.69,37,Hourly,75.52,257
+423,Web Development,Toptal,Intermediate,Europe,PayPal,236,7760,32.55,54.56,4.38,52,Hourly,57.06,397
+424,Customer Support,Toptal,Expert,USA,Crypto,25,5842,99.18,74.72,3.86,81,Fixed,43.69,12
+425,Content Writing,Freelancer,Beginner,UK,Crypto,139,8968,82.56,52.88,4.35,13,Fixed,66.68,23
+426,SEO,PeoplePerHour,Beginner,Canada,Bank Transfer,267,9709,72.26,77.48,3.55,6,Fixed,76.54,324
+427,Web Development,Freelancer,Beginner,Canada,PayPal,115,7266,10.83,72.08,3.61,58,Hourly,11.54,33
+428,Data Entry,Freelancer,Beginner,Australia,Crypto,250,4955,90.91,94.39,4.58,48,Fixed,78.78,246
+429,Data Entry,Toptal,Beginner,UK,Bank Transfer,287,6049,80.06,67.55,3.89,32,Hourly,16.03,342
+430,SEO,Freelancer,Beginner,Asia,Mobile Banking,12,8657,26.76,55.85,4.6,11,Hourly,67.01,18
+431,Data Entry,Fiverr,Intermediate,USA,PayPal,288,7172,42.26,57.15,4.64,81,Fixed,29.62,29
+432,Customer Support,Freelancer,Beginner,USA,Mobile Banking,211,649,30.52,88.08,4.72,5,Hourly,19.25,48
+433,Content Writing,Fiverr,Expert,Asia,Mobile Banking,198,7338,98.52,80.91,4.83,6,Fixed,40.79,426
+434,Graphic Design,Toptal,Beginner,Australia,Bank Transfer,51,7971,86.15,55.06,3.86,74,Hourly,55.08,399
+435,Digital Marketing,PeoplePerHour,Intermediate,Australia,PayPal,246,1617,93.37,54.21,3.64,21,Fixed,36.67,179
+436,Web Development,Fiverr,Beginner,USA,Crypto,14,1144,79.93,85.05,4.16,42,Hourly,13.82,369
+437,Digital Marketing,PeoplePerHour,Expert,USA,Crypto,293,9689,48.35,53.64,3.74,81,Fixed,51.96,371
+438,Graphic Design,PeoplePerHour,Expert,Asia,Bank Transfer,135,9734,24.52,91.09,4.2,27,Fixed,73.17,487
+439,Graphic Design,Fiverr,Intermediate,UK,Crypto,274,6241,24.77,85.31,4.41,3,Hourly,36.83,225
+440,Customer Support,Toptal,Intermediate,Asia,Crypto,65,1508,19.41,54.07,4.38,60,Hourly,25.14,432
+441,Content Writing,Upwork,Intermediate,Australia,Mobile Banking,168,9450,56.93,54.24,3.75,66,Hourly,40.98,394
+442,Data Entry,PeoplePerHour,Intermediate,Asia,Mobile Banking,17,8096,92.4,99.33,3.33,49,Fixed,13.39,77
+443,Data Entry,PeoplePerHour,Beginner,Asia,PayPal,276,4984,99.22,68.71,3.86,34,Fixed,67.43,495
+444,Customer Support,Toptal,Beginner,Asia,Mobile Banking,212,1404,32.29,68.53,3.29,37,Hourly,67.84,430
+445,Graphic Design,Toptal,Expert,UK,Crypto,250,6523,71.24,90.64,4.78,42,Fixed,51.16,206
+446,Content Writing,Freelancer,Intermediate,Middle East,PayPal,137,8454,61.72,97.36,3.69,65,Fixed,34.72,34
+447,Content Writing,Toptal,Intermediate,USA,PayPal,248,3944,51.45,99.3,3.31,60,Hourly,65.98,249
+448,SEO,PeoplePerHour,Beginner,Europe,Bank Transfer,298,8082,68.25,87.67,3.05,1,Fixed,48.83,70
+449,App Development,Fiverr,Intermediate,Asia,Mobile Banking,42,3013,40.28,68.81,4.29,59,Fixed,67.82,412
+450,Web Development,Upwork,Expert,Europe,PayPal,60,3092,94.73,54.18,4.27,4,Fixed,54.2,363
+451,Customer Support,Freelancer,Expert,Middle East,Crypto,52,7023,72.02,88.86,3.68,14,Hourly,64.91,309
+452,App Development,Fiverr,Intermediate,USA,PayPal,109,7189,76.65,77.92,3.14,18,Fixed,51.9,469
+453,Customer Support,Upwork,Expert,Australia,PayPal,63,6980,28.03,71.21,3.82,34,Hourly,38.99,278
+454,Data Entry,Upwork,Expert,Europe,Bank Transfer,81,1782,21.02,95.32,3.62,1,Fixed,77.06,151
+455,Graphic Design,Upwork,Beginner,Australia,Crypto,222,7920,42.46,55.56,4.35,53,Fixed,47.88,226
+456,Customer Support,Fiverr,Expert,Europe,Crypto,59,5390,77.83,74.63,4.21,22,Fixed,52.36,242
+457,Customer Support,Freelancer,Intermediate,Australia,Mobile Banking,59,5161,94.19,50.57,3.73,80,Fixed,25.43,9
+458,SEO,Freelancer,Intermediate,Asia,Crypto,133,3131,45.6,73.43,3.44,61,Fixed,53.8,316
+459,Digital Marketing,Upwork,Expert,Europe,PayPal,89,7852,78.54,52.82,4.98,22,Hourly,50.01,391
+460,Data Entry,Fiverr,Intermediate,Australia,Crypto,218,9512,49.69,55.94,3.91,50,Fixed,22.94,47
+461,Web Development,Upwork,Beginner,Middle East,Crypto,119,7577,33.05,55.88,4.38,16,Fixed,14.17,111
+462,Content Writing,Toptal,Expert,UK,PayPal,297,4918,75.23,82.46,3.28,28,Fixed,52.31,203
+463,Graphic Design,Freelancer,Expert,Australia,Bank Transfer,53,1579,80.83,87.3,3.97,86,Fixed,63.46,476
+464,Data Entry,PeoplePerHour,Expert,UK,Mobile Banking,71,1131,24.27,79.17,3.06,70,Hourly,46.64,381
+465,Digital Marketing,Upwork,Intermediate,UK,Mobile Banking,279,8044,33.99,98.11,4.01,89,Fixed,25.87,156
+466,Customer Support,Toptal,Intermediate,USA,Bank Transfer,133,3581,52.0,68.74,4.93,42,Fixed,56.66,342
+467,Web Development,Freelancer,Expert,Asia,PayPal,33,9393,22.72,64.29,3.77,66,Fixed,15.61,25
+468,Customer Support,Fiverr,Intermediate,Middle East,Mobile Banking,37,9964,93.24,93.43,3.08,71,Fixed,40.93,420
+469,Web Development,Freelancer,Intermediate,UK,Bank Transfer,123,766,61.18,61.18,3.06,81,Hourly,21.44,479
+470,SEO,Fiverr,Expert,Canada,Bank Transfer,184,6279,16.51,98.16,3.78,35,Hourly,22.91,307
+471,Customer Support,Fiverr,Expert,Asia,Bank Transfer,155,254,22.48,50.61,3.32,20,Fixed,24.16,165
+472,Data Entry,Upwork,Intermediate,UK,Mobile Banking,137,6834,95.66,98.49,3.05,2,Fixed,37.07,248
+473,Digital Marketing,Upwork,Expert,Australia,Mobile Banking,189,4144,75.13,52.16,4.51,7,Fixed,13.58,261
+474,Web Development,Freelancer,Expert,UK,Mobile Banking,138,5532,74.77,94.56,3.92,49,Fixed,37.85,263
+475,Graphic Design,Toptal,Expert,Australia,Mobile Banking,181,5790,11.89,76.39,3.58,83,Fixed,45.82,16
+476,Web Development,Freelancer,Expert,Australia,Crypto,26,9574,90.05,99.65,4.8,76,Hourly,43.83,75
+477,Digital Marketing,PeoplePerHour,Intermediate,Canada,Bank Transfer,245,7269,47.15,53.69,3.23,9,Hourly,36.79,445
+478,Content Writing,Fiverr,Expert,UK,Crypto,81,6204,67.67,77.69,4.91,27,Fixed,68.74,469
+479,Content Writing,Fiverr,Beginner,UK,Bank Transfer,208,4892,96.17,98.47,3.63,78,Fixed,20.17,253
+480,SEO,Upwork,Expert,Europe,Mobile Banking,8,8153,14.5,76.15,4.78,2,Fixed,45.4,205
+481,Data Entry,Toptal,Beginner,Asia,Mobile Banking,169,9479,50.82,81.47,4.21,85,Hourly,14.34,33
+482,Digital Marketing,Upwork,Expert,Europe,Crypto,132,2068,9.71,84.79,4.65,68,Fixed,14.98,146
+483,SEO,PeoplePerHour,Beginner,USA,PayPal,49,5101,52.46,72.73,4.97,60,Fixed,50.17,325
+484,App Development,Freelancer,Beginner,Australia,Mobile Banking,222,8759,28.96,81.38,3.58,85,Hourly,49.62,337
+485,Web Development,Freelancer,Expert,Canada,PayPal,239,7885,91.55,79.22,4.92,86,Hourly,71.46,227
+486,App Development,Toptal,Expert,Europe,Bank Transfer,140,1488,42.86,95.06,3.78,49,Fixed,49.05,117
+487,Web Development,Upwork,Expert,UK,Crypto,172,4136,65.22,52.27,3.77,2,Fixed,77.19,164
+488,Content Writing,Upwork,Beginner,USA,PayPal,241,5177,86.73,64.05,3.68,17,Fixed,13.41,37
+489,SEO,PeoplePerHour,Intermediate,Canada,PayPal,97,2102,98.45,97.52,4.08,83,Fixed,16.86,398
+490,Content Writing,Freelancer,Intermediate,Middle East,Mobile Banking,9,7579,52.86,94.51,3.31,88,Hourly,13.08,357
+491,Graphic Design,Upwork,Expert,UK,PayPal,160,7197,48.3,72.78,4.11,20,Hourly,22.97,295
+492,App Development,Toptal,Intermediate,UK,PayPal,249,4418,12.2,81.01,4.08,76,Fixed,47.89,136
+493,App Development,Freelancer,Intermediate,Middle East,Bank Transfer,85,4567,6.21,63.87,4.52,89,Hourly,55.19,308
+494,Content Writing,PeoplePerHour,Expert,Australia,Crypto,251,2362,62.84,59.41,4.67,87,Fixed,13.19,245
+495,Graphic Design,Toptal,Beginner,Australia,Mobile Banking,141,5627,11.22,73.18,3.88,32,Hourly,76.22,197
+496,Web Development,Fiverr,Expert,Europe,Mobile Banking,67,9023,41.14,67.67,3.6,51,Fixed,68.95,373
+497,SEO,PeoplePerHour,Intermediate,Europe,PayPal,120,1294,5.34,79.18,3.52,88,Fixed,30.76,65
+498,Graphic Design,Toptal,Beginner,UK,Bank Transfer,117,2466,63.45,53.89,3.39,42,Hourly,15.4,79
+499,SEO,Upwork,Intermediate,Asia,PayPal,35,6540,45.41,98.72,3.12,63,Hourly,21.89,51
+500,App Development,Fiverr,Beginner,UK,PayPal,11,6218,17.07,99.31,3.68,89,Hourly,18.89,128
+501,SEO,PeoplePerHour,Intermediate,Europe,Mobile Banking,7,9217,33.15,84.91,3.54,61,Hourly,18.63,413
+502,App Development,Upwork,Expert,Middle East,PayPal,247,5889,59.12,76.8,4.93,62,Hourly,46.3,379
+503,Graphic Design,Fiverr,Intermediate,Europe,PayPal,60,8658,67.39,65.48,4.12,3,Fixed,27.21,367
+504,App Development,Freelancer,Intermediate,UK,Bank Transfer,77,8456,48.92,90.69,3.69,89,Fixed,35.07,480
+505,Customer Support,Upwork,Beginner,Canada,Mobile Banking,14,9377,81.38,84.24,4.16,76,Hourly,79.27,0
+506,Data Entry,Toptal,Intermediate,UK,Crypto,65,7147,15.68,58.13,3.28,26,Fixed,57.9,166
+507,App Development,PeoplePerHour,Expert,Canada,Bank Transfer,54,5059,13.03,95.55,3.89,48,Fixed,76.43,15
+508,Content Writing,Fiverr,Expert,Canada,Bank Transfer,126,1632,9.2,91.13,4.25,8,Fixed,19.98,144
+509,Graphic Design,Upwork,Expert,UK,Bank Transfer,179,8974,55.9,97.49,3.98,5,Fixed,36.75,111
+510,Customer Support,Freelancer,Beginner,Asia,Mobile Banking,5,7926,72.09,86.29,3.8,11,Hourly,48.83,367
+511,Web Development,PeoplePerHour,Beginner,Asia,PayPal,42,2477,17.4,80.67,4.99,42,Fixed,15.37,101
+512,SEO,PeoplePerHour,Intermediate,USA,Crypto,194,5771,65.7,70.91,4.76,41,Fixed,10.29,81
+513,Customer Support,Upwork,Intermediate,Europe,Mobile Banking,83,8473,50.31,96.64,4.25,19,Fixed,56.93,405
+514,Digital Marketing,Freelancer,Intermediate,Asia,PayPal,194,4980,98.8,93.3,4.14,48,Fixed,54.93,469
+515,Customer Support,Fiverr,Beginner,Australia,Bank Transfer,188,4403,73.16,52.26,4.24,53,Hourly,38.76,98
+516,Graphic Design,Upwork,Beginner,UK,Mobile Banking,71,7882,67.46,51.32,3.4,55,Fixed,44.28,158
+517,Customer Support,Fiverr,Intermediate,Canada,PayPal,21,5425,59.19,68.82,3.79,61,Fixed,39.08,39
+518,Customer Support,PeoplePerHour,Beginner,UK,Crypto,213,452,99.75,90.53,3.08,32,Fixed,11.68,154
+519,Content Writing,Fiverr,Beginner,Europe,Crypto,45,6617,98.14,99.36,3.95,46,Hourly,33.48,35
+520,App Development,Freelancer,Expert,Middle East,PayPal,119,4915,56.12,57.52,4.09,36,Hourly,22.4,380
+521,SEO,Toptal,Expert,Asia,Mobile Banking,104,8196,48.24,79.71,3.46,18,Fixed,16.89,246
+522,Data Entry,Freelancer,Intermediate,Asia,Bank Transfer,143,114,48.9,69.04,4.93,74,Fixed,76.97,3
+523,Web Development,Fiverr,Intermediate,Asia,PayPal,298,2287,45.69,98.5,4.82,18,Hourly,51.96,496
+524,Data Entry,Upwork,Expert,Canada,Bank Transfer,21,7820,55.48,92.11,4.44,12,Fixed,61.01,373
+525,Customer Support,PeoplePerHour,Beginner,Australia,Crypto,296,9191,30.99,91.92,4.07,72,Hourly,32.08,452
+526,Digital Marketing,Toptal,Intermediate,Australia,PayPal,78,222,93.04,73.43,4.74,46,Fixed,37.52,280
+527,Graphic Design,Upwork,Intermediate,Asia,Crypto,267,7985,51.57,70.74,3.26,55,Fixed,26.58,350
+528,SEO,Upwork,Intermediate,Australia,Bank Transfer,20,2725,84.99,63.67,4.58,38,Hourly,16.79,333
+529,Graphic Design,Freelancer,Beginner,Middle East,Bank Transfer,18,9492,50.15,52.82,3.25,78,Fixed,22.53,413
+530,Content Writing,Fiverr,Expert,Asia,PayPal,285,4055,73.24,93.24,4.59,2,Fixed,65.83,430
+531,Graphic Design,Freelancer,Intermediate,USA,PayPal,8,6594,37.0,90.65,3.55,9,Fixed,57.43,248
+532,Web Development,Fiverr,Expert,Canada,PayPal,131,8879,64.36,99.99,4.75,5,Hourly,48.29,11
+533,Digital Marketing,Freelancer,Expert,Middle East,Crypto,10,998,52.35,99.83,4.89,19,Hourly,43.26,282
+534,Data Entry,Upwork,Beginner,Canada,Bank Transfer,133,1744,39.88,77.77,3.3,71,Fixed,74.57,428
+535,Customer Support,PeoplePerHour,Beginner,Asia,Bank Transfer,236,4807,88.75,88.45,3.93,39,Fixed,15.09,215
+536,Customer Support,Fiverr,Beginner,Middle East,Crypto,199,6332,15.71,97.24,4.96,42,Fixed,29.64,318
+537,Digital Marketing,Toptal,Beginner,Asia,PayPal,69,192,51.26,92.48,3.97,17,Fixed,34.5,310
+538,SEO,Toptal,Beginner,Middle East,Mobile Banking,107,6051,23.47,62.37,4.73,63,Hourly,64.77,413
+539,Graphic Design,Upwork,Beginner,Asia,PayPal,281,6702,86.8,72.53,4.18,46,Hourly,79.48,81
+540,SEO,Freelancer,Intermediate,USA,Mobile Banking,162,4631,29.08,56.46,3.75,20,Hourly,26.85,13
+541,Data Entry,Freelancer,Expert,Canada,Mobile Banking,228,5137,65.18,97.7,3.57,70,Fixed,71.2,55
+542,SEO,Upwork,Beginner,Middle East,Crypto,293,1510,20.73,80.31,3.41,8,Fixed,68.14,402
+543,Content Writing,Toptal,Intermediate,USA,Bank Transfer,282,3937,43.47,61.43,4.52,19,Hourly,25.73,341
+544,Digital Marketing,Toptal,Expert,UK,Bank Transfer,186,8534,90.44,83.59,3.77,32,Fixed,37.95,281
+545,Data Entry,Freelancer,Beginner,Asia,Bank Transfer,8,9885,20.78,80.91,4.02,19,Fixed,38.68,198
+546,Data Entry,Fiverr,Beginner,Europe,Bank Transfer,219,887,68.0,67.91,3.98,24,Hourly,78.48,347
+547,App Development,PeoplePerHour,Intermediate,Middle East,Crypto,221,9279,24.43,55.68,4.15,24,Fixed,22.66,165
+548,Data Entry,Fiverr,Expert,Australia,Mobile Banking,213,5896,44.5,83.58,4.73,56,Hourly,65.94,452
+549,App Development,Toptal,Beginner,USA,Bank Transfer,78,8513,56.36,76.02,4.96,81,Fixed,33.39,291
+550,Web Development,Fiverr,Expert,USA,Mobile Banking,231,2419,59.84,88.62,3.82,18,Fixed,61.16,145
+551,Customer Support,PeoplePerHour,Intermediate,Middle East,Crypto,97,9047,62.24,76.01,4.66,12,Fixed,39.4,440
+552,App Development,Fiverr,Beginner,USA,PayPal,69,3224,65.81,92.61,4.53,41,Fixed,50.49,77
+553,Digital Marketing,Fiverr,Expert,UK,Crypto,14,6035,30.82,77.6,4.15,87,Fixed,68.28,111
+554,SEO,Fiverr,Intermediate,USA,Bank Transfer,282,932,43.13,78.05,4.91,48,Hourly,66.29,22
+555,App Development,Fiverr,Intermediate,Europe,PayPal,90,9073,8.55,93.83,3.4,82,Hourly,70.65,374
+556,Data Entry,Upwork,Beginner,Europe,Crypto,30,3221,78.03,70.17,3.22,64,Fixed,14.17,115
+557,Digital Marketing,Toptal,Expert,Asia,Crypto,222,2090,84.52,56.7,4.71,16,Fixed,58.44,141
+558,App Development,PeoplePerHour,Beginner,Asia,Mobile Banking,99,6782,23.93,51.44,3.88,80,Hourly,19.8,479
+559,App Development,Toptal,Beginner,Australia,Crypto,248,9836,24.14,87.76,4.69,23,Hourly,39.11,196
+560,Data Entry,Upwork,Expert,UK,PayPal,111,6422,8.99,81.02,4.79,86,Fixed,48.4,277
+561,Content Writing,Upwork,Expert,Europe,Crypto,252,9868,97.19,85.2,3.12,39,Hourly,38.19,27
+562,Content Writing,Upwork,Expert,Middle East,Bank Transfer,18,6035,81.68,60.65,4.77,33,Hourly,46.37,298
+563,App Development,Upwork,Intermediate,Canada,Mobile Banking,165,7612,39.27,56.82,3.9,24,Hourly,79.76,75
+564,Content Writing,Fiverr,Intermediate,Canada,PayPal,75,5950,50.78,50.73,4.02,61,Fixed,19.47,17
+565,Graphic Design,Toptal,Expert,Canada,PayPal,156,8015,32.74,67.53,4.25,55,Hourly,57.28,99
+566,Data Entry,Freelancer,Intermediate,Asia,Crypto,79,5366,61.74,79.5,4.85,61,Hourly,37.72,478
+567,Graphic Design,PeoplePerHour,Beginner,Middle East,Bank Transfer,219,8515,73.14,69.61,3.04,84,Hourly,19.31,460
+568,Digital Marketing,Upwork,Expert,USA,Mobile Banking,55,639,47.5,71.87,3.95,40,Hourly,21.11,467
+569,Graphic Design,Toptal,Beginner,Middle East,PayPal,147,8824,87.99,95.21,4.38,58,Fixed,76.45,123
+570,Digital Marketing,Upwork,Expert,USA,Mobile Banking,40,5113,54.12,67.41,4.45,72,Hourly,71.57,364
+571,App Development,Upwork,Beginner,Canada,Crypto,171,3683,18.7,75.7,4.39,74,Hourly,73.49,291
+572,Digital Marketing,Upwork,Expert,Australia,Bank Transfer,240,2040,64.12,89.18,3.27,1,Hourly,79.41,124
+573,Digital Marketing,Upwork,Beginner,Australia,Crypto,264,6565,48.91,69.83,3.6,85,Fixed,24.58,6
+574,SEO,Upwork,Expert,USA,Mobile Banking,196,1308,93.89,81.1,3.72,25,Fixed,34.88,22
+575,Graphic Design,PeoplePerHour,Expert,Canada,Crypto,206,2916,42.23,93.12,4.61,53,Fixed,56.85,161
+576,SEO,Toptal,Intermediate,Middle East,Mobile Banking,266,3788,43.27,97.48,3.56,61,Hourly,43.87,116
+577,App Development,Upwork,Beginner,Australia,PayPal,189,621,66.82,57.35,3.42,46,Hourly,39.29,369
+578,Data Entry,Upwork,Intermediate,USA,PayPal,162,8786,55.06,96.33,4.91,74,Hourly,35.05,351
+579,Graphic Design,Upwork,Beginner,Middle East,Crypto,250,4272,40.57,74.61,3.02,60,Fixed,51.56,20
+580,Data Entry,Upwork,Intermediate,Canada,PayPal,114,687,99.03,62.91,5.0,51,Hourly,50.29,251
+581,Data Entry,Fiverr,Expert,UK,Mobile Banking,103,8282,33.71,72.96,4.35,73,Hourly,21.3,325
+582,Digital Marketing,Fiverr,Intermediate,Canada,PayPal,245,4932,31.37,99.0,4.66,84,Fixed,43.02,463
+583,Customer Support,Freelancer,Intermediate,Asia,Bank Transfer,206,4442,87.12,74.63,3.59,48,Hourly,48.74,482
+584,Graphic Design,Upwork,Expert,Canada,Bank Transfer,126,9862,5.32,66.44,3.03,84,Hourly,49.92,430
+585,Data Entry,Freelancer,Intermediate,Middle East,Crypto,121,3722,24.12,81.67,4.48,40,Fixed,24.71,308
+586,Customer Support,PeoplePerHour,Expert,Middle East,Crypto,100,9541,61.09,62.01,4.67,7,Fixed,61.96,83
+587,Content Writing,Freelancer,Beginner,Europe,Crypto,238,7307,20.43,53.79,4.48,75,Fixed,11.76,361
+588,Data Entry,Toptal,Intermediate,Europe,Crypto,71,4761,98.65,56.44,3.29,85,Fixed,34.84,40
+589,Content Writing,Fiverr,Expert,Middle East,Mobile Banking,222,5693,49.1,56.4,4.51,19,Fixed,64.61,202
+590,Graphic Design,Fiverr,Expert,Middle East,Mobile Banking,19,209,61.75,57.6,4.54,15,Hourly,49.47,415
+591,App Development,Upwork,Intermediate,UK,Bank Transfer,277,9973,20.24,56.94,4.32,70,Fixed,28.28,127
+592,SEO,Upwork,Beginner,UK,Mobile Banking,223,5988,32.49,82.04,4.53,61,Hourly,58.65,141
+593,Graphic Design,PeoplePerHour,Intermediate,Canada,PayPal,278,9974,63.39,59.09,4.69,56,Hourly,49.72,343
+594,SEO,PeoplePerHour,Expert,Asia,Bank Transfer,151,630,57.21,67.28,4.23,10,Fixed,65.74,491
+595,SEO,Toptal,Beginner,Australia,Crypto,156,8461,79.51,94.84,3.18,46,Fixed,61.45,102
+596,Graphic Design,Upwork,Intermediate,Asia,Crypto,19,7636,30.58,73.7,3.98,80,Hourly,52.71,106
+597,Data Entry,Upwork,Expert,UK,Mobile Banking,88,4524,67.09,83.38,3.16,75,Hourly,44.17,478
+598,Web Development,PeoplePerHour,Intermediate,Canada,Bank Transfer,196,9991,32.64,58.62,3.82,57,Hourly,19.32,16
+599,Data Entry,PeoplePerHour,Beginner,Asia,Mobile Banking,45,7123,60.74,59.61,3.81,35,Fixed,28.29,24
+600,Data Entry,PeoplePerHour,Beginner,USA,Mobile Banking,265,9712,62.48,52.04,3.13,72,Hourly,39.34,63
+601,App Development,Fiverr,Beginner,Europe,Mobile Banking,140,5109,16.57,58.45,3.7,3,Fixed,51.95,456
+602,Digital Marketing,Freelancer,Beginner,Asia,Bank Transfer,282,4378,57.12,63.93,3.22,66,Hourly,45.96,341
+603,Digital Marketing,Freelancer,Beginner,Australia,Crypto,110,1444,6.13,58.85,4.62,53,Hourly,30.17,374
+604,Data Entry,Upwork,Intermediate,Canada,PayPal,11,971,52.62,54.44,4.9,78,Hourly,10.45,236
+605,Content Writing,Fiverr,Beginner,Asia,Crypto,34,2823,71.26,56.03,3.14,52,Fixed,44.74,175
+606,App Development,PeoplePerHour,Beginner,Middle East,Bank Transfer,130,4512,11.92,73.04,4.91,53,Fixed,29.99,290
+607,SEO,Upwork,Expert,USA,Crypto,83,4626,94.18,60.32,4.05,54,Hourly,61.42,292
+608,Customer Support,Fiverr,Beginner,Europe,Crypto,71,3484,48.58,68.21,3.6,47,Hourly,11.68,310
+609,Digital Marketing,Toptal,Expert,USA,PayPal,27,6783,94.15,75.17,3.15,3,Hourly,50.94,400
+610,Data Entry,Fiverr,Expert,Canada,Crypto,193,9360,15.2,84.52,4.0,65,Fixed,75.9,155
+611,App Development,Upwork,Expert,UK,Crypto,78,1915,95.24,51.97,4.59,15,Fixed,22.21,384
+612,Web Development,Freelancer,Intermediate,Europe,Crypto,9,774,15.37,89.97,4.41,84,Fixed,43.02,52
+613,Content Writing,PeoplePerHour,Intermediate,USA,Mobile Banking,86,761,48.84,81.4,3.1,86,Fixed,16.4,72
+614,Graphic Design,Toptal,Expert,UK,Bank Transfer,29,7760,94.11,54.09,3.15,34,Fixed,53.8,182
+615,Data Entry,Fiverr,Intermediate,Australia,Bank Transfer,268,5130,27.11,93.68,3.81,50,Hourly,48.54,368
+616,App Development,Upwork,Beginner,Canada,PayPal,6,440,8.3,96.04,3.59,33,Hourly,38.52,188
+617,Data Entry,Upwork,Intermediate,Canada,Mobile Banking,282,9312,80.35,53.05,3.46,73,Hourly,46.5,12
+618,Customer Support,PeoplePerHour,Beginner,Europe,Mobile Banking,228,4537,61.61,63.84,3.56,3,Fixed,72.76,46
+619,SEO,Upwork,Beginner,USA,Crypto,76,8166,53.82,90.31,4.61,2,Hourly,23.74,447
+620,Content Writing,Upwork,Intermediate,Australia,Bank Transfer,72,6797,8.26,87.41,4.86,4,Fixed,11.58,159
+621,Digital Marketing,PeoplePerHour,Intermediate,Middle East,PayPal,98,6116,67.06,59.23,3.81,16,Fixed,70.32,283
+622,Digital Marketing,Toptal,Expert,Europe,Mobile Banking,23,4544,21.3,60.47,4.81,54,Hourly,50.4,52
+623,Digital Marketing,Freelancer,Intermediate,Middle East,Crypto,132,3622,93.46,68.52,3.64,33,Hourly,72.35,286
+624,Customer Support,Freelancer,Intermediate,Europe,PayPal,86,7819,70.14,74.23,3.95,9,Fixed,51.79,7
+625,Graphic Design,Fiverr,Intermediate,USA,Mobile Banking,258,2361,72.17,80.91,3.45,57,Fixed,66.71,71
+626,App Development,Toptal,Beginner,Australia,PayPal,225,6823,27.1,68.45,4.28,40,Hourly,40.08,379
+627,Content Writing,Fiverr,Beginner,USA,Mobile Banking,101,6955,88.67,73.13,4.96,52,Fixed,62.49,97
+628,Content Writing,Freelancer,Beginner,Canada,PayPal,56,3692,56.08,87.37,4.21,82,Fixed,73.91,86
+629,Digital Marketing,PeoplePerHour,Expert,Middle East,Mobile Banking,179,6388,86.42,51.83,3.72,16,Fixed,50.05,329
+630,Digital Marketing,Upwork,Expert,UK,Mobile Banking,186,2659,30.74,62.62,4.3,8,Hourly,22.65,100
+631,SEO,Freelancer,Expert,Asia,PayPal,119,9672,76.77,85.67,3.25,87,Fixed,28.82,495
+632,Customer Support,Toptal,Beginner,Canada,Mobile Banking,5,6290,59.58,94.76,4.78,60,Fixed,23.91,280
+633,Web Development,Freelancer,Intermediate,Canada,Mobile Banking,67,7856,9.6,75.58,4.01,36,Fixed,27.28,370
+634,Web Development,Toptal,Expert,Middle East,Mobile Banking,252,807,43.51,76.61,3.9,3,Fixed,31.45,288
+635,Data Entry,Toptal,Expert,Europe,PayPal,235,5136,22.47,55.36,4.17,15,Fixed,48.86,236
+636,Data Entry,Toptal,Beginner,Canada,PayPal,230,6270,39.12,72.37,4.25,82,Fixed,51.16,195
+637,Content Writing,Fiverr,Expert,Asia,Mobile Banking,23,9981,41.42,76.63,3.14,23,Fixed,39.85,390
+638,Content Writing,PeoplePerHour,Intermediate,Australia,Mobile Banking,35,5652,50.12,62.12,4.37,3,Hourly,53.08,96
+639,Graphic Design,Freelancer,Beginner,Canada,PayPal,125,9376,62.03,63.46,3.48,30,Hourly,15.71,449
+640,Graphic Design,PeoplePerHour,Beginner,Australia,Crypto,28,6171,59.24,68.86,4.43,45,Hourly,16.15,367
+641,Web Development,Upwork,Intermediate,USA,Mobile Banking,215,9006,8.7,51.0,4.65,17,Fixed,22.03,429
+642,Customer Support,Freelancer,Intermediate,Europe,Crypto,165,2775,76.32,66.1,4.61,58,Hourly,46.27,95
+643,Data Entry,PeoplePerHour,Intermediate,Australia,PayPal,259,3418,95.17,60.57,4.11,58,Hourly,24.98,260
+644,Web Development,PeoplePerHour,Expert,Canada,Mobile Banking,63,3547,38.12,66.37,4.04,57,Fixed,29.83,120
+645,Customer Support,Upwork,Intermediate,Europe,Crypto,118,8224,22.08,55.99,3.29,7,Hourly,38.02,365
+646,Web Development,Toptal,Beginner,Asia,PayPal,164,9914,56.3,94.53,4.55,39,Fixed,66.83,272
+647,Data Entry,Freelancer,Intermediate,Europe,Crypto,224,5692,71.97,79.68,3.54,78,Fixed,10.97,331
+648,App Development,Freelancer,Beginner,Australia,Bank Transfer,173,8824,69.5,83.96,3.99,58,Fixed,55.46,51
+649,Graphic Design,Upwork,Beginner,Australia,PayPal,16,4816,63.15,89.46,3.57,56,Hourly,56.82,395
+650,SEO,Toptal,Expert,UK,Bank Transfer,246,4683,18.89,74.92,3.27,15,Fixed,65.91,317
+651,SEO,Freelancer,Intermediate,UK,PayPal,143,1871,84.5,54.35,4.26,44,Hourly,75.29,162
+652,SEO,Freelancer,Expert,Europe,PayPal,101,1235,45.43,76.86,3.11,12,Fixed,11.41,189
+653,Data Entry,Freelancer,Intermediate,Middle East,Mobile Banking,151,1687,26.04,79.34,4.5,8,Fixed,20.76,276
+654,Digital Marketing,Toptal,Intermediate,Middle East,Bank Transfer,186,7286,13.2,87.27,3.64,80,Hourly,72.03,84
+655,Digital Marketing,Upwork,Intermediate,UK,Bank Transfer,61,8430,44.59,71.58,3.0,41,Fixed,42.1,193
+656,Digital Marketing,Freelancer,Intermediate,Canada,Bank Transfer,46,1796,63.71,56.38,4.02,34,Hourly,49.52,180
+657,Content Writing,PeoplePerHour,Intermediate,USA,PayPal,203,5847,68.21,64.19,3.09,46,Fixed,56.41,20
+658,Graphic Design,Toptal,Beginner,Europe,Bank Transfer,35,8139,96.46,68.15,3.55,88,Fixed,57.53,398
+659,Graphic Design,Fiverr,Beginner,USA,Bank Transfer,184,2670,19.55,82.3,4.41,29,Fixed,75.22,202
+660,App Development,Upwork,Intermediate,UK,Mobile Banking,6,7647,98.65,78.54,3.13,16,Fixed,79.79,201
+661,App Development,PeoplePerHour,Beginner,Australia,Crypto,292,8052,67.19,67.8,4.68,5,Fixed,60.41,465
+662,Content Writing,Freelancer,Expert,Asia,Crypto,142,6157,48.15,99.33,3.01,5,Fixed,30.11,150
+663,Web Development,Fiverr,Expert,Europe,Bank Transfer,109,9426,89.38,80.29,3.49,30,Fixed,71.58,383
+664,Customer Support,Upwork,Expert,UK,Bank Transfer,222,2843,70.98,61.86,4.48,50,Fixed,13.45,158
+665,App Development,Toptal,Intermediate,Canada,Bank Transfer,226,2550,38.13,55.09,3.63,5,Hourly,26.18,309
+666,SEO,Fiverr,Intermediate,Asia,Bank Transfer,109,8411,88.99,57.64,3.2,13,Hourly,72.82,438
+667,Digital Marketing,Fiverr,Beginner,Europe,Crypto,131,4975,68.33,62.3,3.72,49,Hourly,27.93,25
+668,SEO,PeoplePerHour,Beginner,Europe,Mobile Banking,269,1130,71.39,58.03,3.54,89,Fixed,25.45,308
+669,Digital Marketing,Upwork,Beginner,Middle East,PayPal,204,9505,90.16,59.33,4.69,50,Hourly,19.67,65
+670,SEO,PeoplePerHour,Expert,Australia,Bank Transfer,256,4914,47.6,64.25,3.63,14,Hourly,70.14,422
+671,Web Development,PeoplePerHour,Expert,Europe,Bank Transfer,19,4503,67.41,58.67,4.58,46,Fixed,45.0,262
+672,Customer Support,Freelancer,Expert,Australia,Crypto,230,2298,75.75,94.84,4.78,82,Hourly,57.24,471
+673,SEO,Toptal,Expert,UK,Bank Transfer,109,1375,48.12,54.01,3.87,84,Fixed,26.73,166
+674,SEO,Fiverr,Beginner,Canada,Mobile Banking,237,3923,12.93,76.23,4.82,34,Hourly,63.06,287
+675,Data Entry,Upwork,Intermediate,Asia,Mobile Banking,223,1738,78.29,70.52,3.75,71,Hourly,63.2,153
+676,Customer Support,Toptal,Intermediate,Asia,Bank Transfer,281,3035,9.54,99.12,4.93,47,Hourly,31.88,342
+677,SEO,Toptal,Expert,Canada,Crypto,265,2126,73.2,55.6,3.18,60,Hourly,38.75,205
+678,Data Entry,Upwork,Intermediate,Europe,Bank Transfer,194,9771,91.53,69.89,4.37,74,Hourly,24.68,412
+679,Graphic Design,Toptal,Intermediate,Europe,Bank Transfer,202,1511,37.96,98.47,3.99,79,Fixed,78.36,152
+680,Customer Support,Freelancer,Intermediate,UK,Crypto,281,9644,14.7,93.28,3.78,81,Hourly,55.19,183
+681,Content Writing,Toptal,Expert,Middle East,Mobile Banking,43,122,27.12,90.85,4.27,11,Fixed,75.42,158
+682,Customer Support,Freelancer,Beginner,Middle East,PayPal,166,6080,58.42,62.9,4.41,85,Hourly,31.24,193
+683,Customer Support,Fiverr,Beginner,Middle East,Bank Transfer,125,4661,94.55,58.54,3.01,50,Fixed,64.73,1
+684,SEO,Fiverr,Intermediate,Australia,Mobile Banking,266,2846,53.67,83.43,3.33,4,Hourly,63.61,214
+685,Graphic Design,PeoplePerHour,Beginner,Middle East,Bank Transfer,220,7767,15.71,96.47,4.43,41,Hourly,58.42,174
+686,Customer Support,Freelancer,Beginner,Canada,PayPal,53,4566,64.64,77.84,4.33,59,Hourly,77.59,74
+687,App Development,Fiverr,Expert,Asia,Crypto,96,2543,74.62,78.58,4.93,60,Hourly,37.55,284
+688,App Development,Toptal,Expert,Asia,Mobile Banking,133,4281,42.36,64.0,4.52,81,Hourly,19.15,126
+689,Data Entry,Upwork,Intermediate,Australia,PayPal,32,3626,73.54,88.47,4.9,62,Fixed,57.02,489
+690,SEO,Upwork,Intermediate,UK,Bank Transfer,152,8150,35.86,59.35,4.41,84,Hourly,61.05,482
+691,SEO,Freelancer,Intermediate,Canada,PayPal,69,5778,79.96,66.18,3.6,25,Hourly,50.25,48
+692,Customer Support,PeoplePerHour,Expert,Asia,Mobile Banking,222,82,37.4,71.27,3.21,87,Fixed,24.48,456
+693,Web Development,Toptal,Beginner,Canada,Crypto,55,4423,29.33,75.38,4.56,79,Hourly,45.31,31
+694,Graphic Design,Freelancer,Expert,Asia,Bank Transfer,78,3648,88.52,62.12,4.29,33,Hourly,31.85,157
+695,Digital Marketing,Upwork,Expert,USA,Crypto,203,2442,57.1,55.74,3.1,19,Hourly,39.92,14
+696,Digital Marketing,Freelancer,Beginner,UK,Crypto,196,6755,32.09,80.53,3.72,57,Hourly,55.17,317
+697,Web Development,Toptal,Beginner,UK,PayPal,193,6840,93.83,64.43,4.91,15,Hourly,62.17,333
+698,Data Entry,Fiverr,Intermediate,USA,PayPal,16,2727,70.63,79.06,4.0,41,Fixed,26.26,242
+699,Digital Marketing,Toptal,Beginner,Australia,Mobile Banking,243,1451,25.97,57.72,3.87,69,Hourly,38.37,16
+700,Customer Support,Fiverr,Beginner,Asia,Mobile Banking,85,867,63.39,74.06,3.92,80,Fixed,28.84,21
+701,Digital Marketing,Fiverr,Beginner,Asia,Crypto,274,6253,87.68,76.63,3.42,60,Hourly,23.9,243
+702,App Development,Fiverr,Beginner,Asia,Mobile Banking,294,9902,71.13,52.59,3.74,22,Hourly,64.84,413
+703,App Development,Freelancer,Intermediate,Middle East,Crypto,52,4612,28.25,66.83,3.74,43,Fixed,73.65,80
+704,Content Writing,Upwork,Intermediate,Middle East,Bank Transfer,213,4773,66.64,56.72,3.1,32,Hourly,35.92,143
+705,Graphic Design,Freelancer,Beginner,Middle East,Crypto,39,2488,63.82,53.17,4.54,13,Hourly,62.59,435
+706,Data Entry,Upwork,Beginner,Middle East,Mobile Banking,123,6878,82.98,99.5,3.83,38,Fixed,72.79,7
+707,SEO,Toptal,Intermediate,Middle East,Mobile Banking,69,1260,21.92,66.12,4.64,26,Hourly,69.23,447
+708,Graphic Design,PeoplePerHour,Intermediate,USA,Crypto,246,6691,71.47,90.49,4.7,81,Hourly,22.8,166
+709,Data Entry,Toptal,Beginner,UK,PayPal,40,649,7.6,62.73,3.42,5,Fixed,76.94,286
+710,Digital Marketing,Freelancer,Expert,Australia,Crypto,256,5530,71.14,84.08,4.31,49,Fixed,36.37,267
+711,Content Writing,Freelancer,Intermediate,Canada,Crypto,247,1896,96.24,88.01,3.94,5,Hourly,33.75,288
+712,Graphic Design,Upwork,Intermediate,Middle East,PayPal,46,6642,21.57,79.78,4.76,71,Hourly,14.37,185
+713,Digital Marketing,Freelancer,Intermediate,USA,Bank Transfer,73,7911,34.57,73.58,3.43,48,Hourly,44.03,11
+714,Data Entry,Fiverr,Beginner,Asia,PayPal,111,1937,60.37,70.59,4.36,18,Fixed,17.63,280
+715,Graphic Design,Freelancer,Beginner,Australia,Mobile Banking,43,729,74.58,67.44,4.22,6,Fixed,27.4,421
+716,SEO,Upwork,Intermediate,Australia,PayPal,73,3302,37.72,96.48,3.59,66,Hourly,32.19,303
+717,Graphic Design,Upwork,Beginner,Australia,Mobile Banking,184,1885,68.1,91.53,3.27,77,Hourly,66.62,465
+718,Digital Marketing,Fiverr,Beginner,USA,Mobile Banking,16,2227,90.43,98.25,4.3,42,Hourly,71.28,82
+719,Customer Support,Upwork,Intermediate,Canada,Crypto,208,8192,74.02,56.21,4.48,52,Fixed,31.17,54
+720,Customer Support,PeoplePerHour,Beginner,Middle East,Crypto,40,198,72.55,86.54,3.63,11,Fixed,70.11,130
+721,Graphic Design,Toptal,Expert,Australia,Bank Transfer,130,1545,41.29,96.92,4.29,26,Fixed,70.01,124
+722,SEO,Freelancer,Beginner,USA,Mobile Banking,67,1794,91.59,59.06,3.79,21,Hourly,63.53,482
+723,Content Writing,PeoplePerHour,Beginner,Asia,Crypto,86,1696,31.35,53.32,4.43,66,Hourly,20.27,324
+724,Content Writing,Freelancer,Intermediate,UK,Mobile Banking,38,3045,24.5,87.06,3.4,40,Hourly,58.32,418
+725,Customer Support,PeoplePerHour,Intermediate,Asia,Bank Transfer,244,6693,39.6,78.72,4.78,56,Fixed,76.15,50
+726,Digital Marketing,Freelancer,Expert,USA,Mobile Banking,101,9914,66.76,92.09,3.57,51,Hourly,57.78,26
+727,Data Entry,Fiverr,Beginner,USA,Bank Transfer,53,7428,86.86,56.99,3.74,20,Fixed,33.21,164
+728,Digital Marketing,Upwork,Expert,USA,Bank Transfer,150,8899,17.55,89.76,3.12,81,Hourly,45.04,493
+729,Content Writing,Upwork,Expert,Australia,Bank Transfer,129,3717,82.31,60.08,3.22,80,Fixed,55.2,468
+730,Web Development,Fiverr,Intermediate,USA,Crypto,193,9295,82.22,58.18,4.03,57,Hourly,45.74,399
+731,Web Development,PeoplePerHour,Beginner,UK,PayPal,61,626,60.76,58.21,3.54,5,Hourly,18.4,475
+732,Graphic Design,Toptal,Intermediate,Australia,PayPal,113,4829,77.26,90.73,4.67,14,Fixed,31.84,280
+733,SEO,PeoplePerHour,Expert,Asia,Crypto,9,8237,22.28,83.26,3.03,24,Hourly,66.17,32
+734,Customer Support,Upwork,Expert,UK,Mobile Banking,28,3022,21.11,76.15,3.76,68,Fixed,70.3,61
+735,App Development,Toptal,Intermediate,Europe,Crypto,225,7806,86.97,67.94,3.67,52,Hourly,19.61,144
+736,App Development,Freelancer,Intermediate,Asia,Mobile Banking,298,3998,52.32,93.86,3.04,48,Hourly,76.67,170
+737,App Development,Toptal,Intermediate,USA,Bank Transfer,14,6594,28.36,69.62,3.25,88,Hourly,33.02,285
+738,Graphic Design,PeoplePerHour,Intermediate,Middle East,Crypto,169,2095,70.43,90.83,3.83,47,Fixed,56.36,296
+739,Web Development,Fiverr,Intermediate,Middle East,PayPal,219,1677,89.73,71.96,3.99,60,Hourly,62.63,116
+740,Content Writing,Freelancer,Expert,Australia,Mobile Banking,130,1538,65.07,68.85,3.81,73,Fixed,66.84,3
+741,Graphic Design,PeoplePerHour,Intermediate,Middle East,Crypto,271,9177,38.0,73.13,4.06,3,Hourly,76.2,65
+742,App Development,Freelancer,Beginner,Asia,Crypto,284,3613,50.91,65.07,4.19,9,Hourly,31.9,59
+743,App Development,Toptal,Expert,Australia,Mobile Banking,92,9956,76.47,87.38,3.02,82,Fixed,70.1,392
+744,Customer Support,Upwork,Expert,Asia,Bank Transfer,118,1852,11.41,75.14,3.93,83,Hourly,19.22,286
+745,Digital Marketing,PeoplePerHour,Beginner,USA,Bank Transfer,25,9662,25.63,61.61,4.93,24,Hourly,59.35,344
+746,App Development,Fiverr,Beginner,Canada,Bank Transfer,152,3641,48.95,94.98,4.04,4,Fixed,61.94,228
+747,SEO,Toptal,Expert,Canada,Bank Transfer,249,3570,62.4,69.19,4.36,9,Fixed,57.44,99
+748,App Development,PeoplePerHour,Intermediate,UK,Mobile Banking,270,5946,37.22,77.18,3.62,1,Hourly,27.66,118
+749,Digital Marketing,Fiverr,Expert,USA,PayPal,221,7693,33.35,95.32,4.55,35,Fixed,71.11,68
+750,App Development,PeoplePerHour,Expert,Middle East,Crypto,244,7091,8.93,81.21,4.55,74,Fixed,21.82,151
+751,SEO,Toptal,Beginner,USA,Crypto,236,3361,8.1,55.84,4.04,12,Hourly,13.75,279
+752,Content Writing,PeoplePerHour,Expert,Europe,Bank Transfer,236,2355,31.48,96.99,4.95,18,Fixed,60.22,220
+753,Graphic Design,Freelancer,Intermediate,Canada,Mobile Banking,246,7925,55.4,81.39,3.25,78,Fixed,43.28,497
+754,SEO,Toptal,Beginner,Middle East,PayPal,194,2017,57.86,66.75,3.03,10,Hourly,69.44,428
+755,Digital Marketing,PeoplePerHour,Expert,Asia,PayPal,233,8059,51.93,56.96,4.54,74,Fixed,36.84,222
+756,Graphic Design,Upwork,Expert,Asia,Crypto,70,5512,43.94,89.7,4.61,18,Fixed,21.78,164
+757,Graphic Design,PeoplePerHour,Intermediate,Canada,Bank Transfer,283,6947,28.97,81.0,3.24,24,Hourly,68.55,441
+758,Digital Marketing,Freelancer,Expert,USA,Crypto,273,3508,43.07,76.67,3.53,1,Hourly,48.42,210
+759,Customer Support,Fiverr,Expert,Middle East,Crypto,213,8635,18.18,94.69,3.04,79,Fixed,23.24,278
+760,Web Development,Fiverr,Expert,UK,PayPal,20,4828,15.95,89.43,3.59,72,Hourly,60.43,418
+761,App Development,Fiverr,Expert,Asia,Mobile Banking,224,3780,33.49,57.58,4.55,82,Fixed,45.78,62
+762,SEO,Upwork,Intermediate,USA,PayPal,261,4415,99.56,65.59,4.04,16,Fixed,52.3,373
+763,Digital Marketing,Freelancer,Expert,UK,Crypto,272,7597,36.02,62.42,3.7,85,Fixed,42.26,369
+764,Content Writing,Toptal,Expert,Middle East,Bank Transfer,233,77,93.96,87.2,3.74,15,Fixed,68.01,261
+765,Data Entry,Fiverr,Expert,Canada,Bank Transfer,123,3541,42.26,51.68,3.0,62,Hourly,68.07,5
+766,Digital Marketing,Freelancer,Beginner,Europe,Mobile Banking,182,6473,46.71,78.49,3.6,5,Hourly,59.66,247
+767,App Development,PeoplePerHour,Intermediate,Australia,Mobile Banking,24,5351,80.72,88.12,4.29,45,Fixed,17.38,228
+768,App Development,Upwork,Beginner,Canada,Mobile Banking,40,6210,13.9,93.84,4.95,52,Hourly,68.72,285
+769,Graphic Design,Freelancer,Beginner,UK,Crypto,112,1223,22.32,67.1,4.69,71,Fixed,56.97,256
+770,Graphic Design,Freelancer,Intermediate,USA,Crypto,193,388,97.51,91.06,3.05,7,Fixed,58.79,62
+771,Digital Marketing,Toptal,Beginner,Asia,Mobile Banking,182,9310,53.06,55.53,4.8,27,Hourly,35.41,391
+772,Data Entry,Freelancer,Beginner,Middle East,Bank Transfer,100,891,9.21,92.32,4.57,89,Hourly,71.55,27
+773,Customer Support,Toptal,Beginner,Canada,Bank Transfer,24,343,9.5,56.37,4.56,86,Fixed,60.78,344
+774,Digital Marketing,Upwork,Intermediate,Asia,Bank Transfer,168,9564,91.19,69.86,3.92,13,Hourly,17.88,416
+775,Data Entry,Upwork,Expert,Asia,Crypto,101,6608,87.97,89.86,3.8,17,Fixed,38.54,52
+776,Customer Support,PeoplePerHour,Intermediate,Europe,PayPal,147,1697,48.55,57.5,3.61,44,Hourly,72.05,251
+777,Data Entry,Toptal,Intermediate,Middle East,Bank Transfer,66,4948,20.51,61.46,3.13,13,Hourly,13.3,37
+778,App Development,Toptal,Intermediate,UK,Bank Transfer,246,4576,83.88,86.11,3.46,73,Fixed,77.3,307
+779,App Development,Fiverr,Beginner,Middle East,Bank Transfer,242,5664,35.84,86.0,3.49,5,Hourly,57.54,333
+780,App Development,Fiverr,Expert,Middle East,Mobile Banking,135,3851,44.81,82.06,3.97,33,Hourly,54.2,138
+781,Content Writing,PeoplePerHour,Intermediate,USA,Crypto,97,8330,69.84,84.7,4.49,4,Fixed,28.94,385
+782,App Development,Upwork,Intermediate,Australia,Mobile Banking,95,7426,38.57,77.14,3.95,26,Fixed,27.42,52
+783,SEO,Fiverr,Expert,Asia,Mobile Banking,137,949,64.72,62.59,3.12,68,Fixed,75.94,93
+784,Graphic Design,Freelancer,Expert,UK,PayPal,127,3527,89.1,67.28,4.92,16,Fixed,30.88,93
+785,Graphic Design,Upwork,Expert,USA,Mobile Banking,122,1794,80.75,59.08,4.89,22,Fixed,64.29,451
+786,Data Entry,Freelancer,Beginner,Asia,PayPal,202,6146,41.25,95.42,4.57,36,Fixed,37.52,460
+787,Graphic Design,Toptal,Expert,Australia,Mobile Banking,286,2303,32.35,79.17,4.98,58,Hourly,19.75,262
+788,Web Development,Upwork,Beginner,USA,Bank Transfer,5,1683,32.12,70.04,4.09,55,Fixed,10.75,485
+789,Customer Support,PeoplePerHour,Intermediate,Australia,Crypto,215,7051,38.12,73.1,4.93,35,Fixed,48.1,322
+790,Data Entry,Toptal,Beginner,Australia,Mobile Banking,267,7070,51.88,97.36,3.15,25,Fixed,78.3,136
+791,Graphic Design,Toptal,Expert,Australia,PayPal,216,9103,44.58,57.67,3.73,72,Hourly,35.84,461
+792,Web Development,Freelancer,Beginner,USA,Crypto,91,8199,17.64,79.31,3.45,81,Fixed,35.0,371
+793,Customer Support,Toptal,Expert,Middle East,PayPal,157,4751,20.53,75.29,3.39,61,Fixed,34.09,446
+794,Content Writing,Fiverr,Beginner,Australia,Bank Transfer,191,6785,37.58,80.57,3.28,18,Hourly,46.44,255
+795,Graphic Design,Upwork,Intermediate,Middle East,Mobile Banking,65,1063,58.4,50.91,4.24,58,Hourly,40.85,394
+796,Web Development,Fiverr,Beginner,Asia,Crypto,289,3349,61.3,93.61,4.56,76,Fixed,71.59,36
+797,Digital Marketing,Freelancer,Intermediate,Asia,Bank Transfer,99,1556,51.19,96.61,4.16,57,Hourly,45.39,141
+798,SEO,Freelancer,Expert,UK,Mobile Banking,278,4853,75.18,78.26,3.29,87,Hourly,45.54,146
+799,Digital Marketing,Upwork,Intermediate,Europe,Mobile Banking,45,1027,75.04,84.83,4.62,63,Fixed,19.69,7
+800,Web Development,Toptal,Expert,Middle East,PayPal,151,1867,45.62,96.12,4.27,12,Fixed,78.79,250
+801,Data Entry,PeoplePerHour,Expert,Asia,PayPal,250,4951,16.82,85.36,3.78,11,Fixed,27.5,134
+802,App Development,Freelancer,Intermediate,Europe,Bank Transfer,136,9190,55.37,57.63,4.35,13,Hourly,15.14,58
+803,App Development,Upwork,Intermediate,Australia,PayPal,127,6848,41.24,78.81,3.52,35,Fixed,56.42,122
+804,App Development,PeoplePerHour,Beginner,Europe,Bank Transfer,147,523,18.1,80.34,3.69,27,Hourly,51.68,446
+805,Customer Support,Toptal,Beginner,Europe,Bank Transfer,186,617,98.27,71.21,4.83,89,Fixed,39.06,262
+806,Data Entry,Freelancer,Intermediate,Australia,Bank Transfer,196,8016,40.13,86.82,3.58,67,Hourly,39.55,119
+807,Customer Support,Upwork,Intermediate,Middle East,PayPal,211,2308,64.45,96.72,3.94,89,Fixed,64.95,438
+808,Graphic Design,Upwork,Intermediate,Australia,Crypto,235,8170,51.56,96.28,4.78,45,Hourly,23.7,258
+809,App Development,Upwork,Intermediate,UK,Bank Transfer,26,4360,18.57,72.54,4.42,74,Fixed,67.42,322
+810,Digital Marketing,Freelancer,Expert,Canada,Crypto,84,2032,10.28,55.66,3.12,81,Fixed,55.41,17
+811,Data Entry,PeoplePerHour,Intermediate,USA,Mobile Banking,134,1146,64.45,99.24,3.29,67,Fixed,39.33,300
+812,Data Entry,Upwork,Intermediate,Australia,PayPal,296,6660,28.47,91.94,3.02,22,Hourly,42.06,352
+813,App Development,Toptal,Intermediate,Australia,PayPal,280,3620,28.15,56.23,4.26,78,Hourly,27.97,484
+814,Digital Marketing,Upwork,Intermediate,Europe,Crypto,59,6547,95.91,96.04,3.9,42,Fixed,62.65,91
+815,Content Writing,PeoplePerHour,Expert,UK,Mobile Banking,70,3696,48.87,93.49,3.27,20,Hourly,45.9,163
+816,Data Entry,Freelancer,Beginner,Asia,Mobile Banking,231,2469,7.8,75.94,4.92,48,Fixed,32.46,143
+817,App Development,Upwork,Beginner,Asia,Bank Transfer,30,4329,37.29,79.56,4.06,18,Hourly,51.72,334
+818,SEO,Upwork,Beginner,Europe,PayPal,257,723,60.53,69.95,3.48,77,Fixed,79.7,412
+819,Web Development,Toptal,Beginner,Middle East,Mobile Banking,201,2852,36.21,52.74,4.0,70,Hourly,40.47,314
+820,Customer Support,Toptal,Beginner,Australia,Mobile Banking,134,7362,7.55,66.76,4.36,74,Hourly,74.45,401
+821,Graphic Design,Upwork,Expert,Australia,Bank Transfer,247,2419,47.21,90.14,3.15,6,Hourly,34.15,432
+822,Data Entry,Upwork,Beginner,Europe,Bank Transfer,216,4580,15.06,50.23,3.55,39,Hourly,13.83,237
+823,SEO,Toptal,Expert,Australia,Crypto,194,1116,63.82,66.67,4.61,11,Hourly,24.3,173
+824,SEO,PeoplePerHour,Expert,Middle East,PayPal,294,5482,63.86,69.91,3.92,25,Fixed,39.31,82
+825,Data Entry,Fiverr,Beginner,Canada,Mobile Banking,230,8123,8.59,76.87,4.09,55,Hourly,25.37,156
+826,Content Writing,Fiverr,Beginner,USA,Crypto,250,737,32.61,95.99,3.87,84,Hourly,10.02,453
+827,Web Development,Upwork,Beginner,USA,PayPal,60,118,44.3,67.32,3.09,58,Hourly,74.05,108
+828,Graphic Design,Toptal,Intermediate,USA,Crypto,59,6824,57.28,67.35,3.33,37,Hourly,69.07,177
+829,Data Entry,Freelancer,Expert,Canada,PayPal,280,469,33.13,86.88,3.89,16,Fixed,61.96,249
+830,Customer Support,Freelancer,Beginner,Australia,PayPal,157,6941,32.34,72.61,3.42,70,Hourly,21.75,494
+831,Graphic Design,Fiverr,Intermediate,Europe,Mobile Banking,57,5643,98.39,61.23,3.1,73,Hourly,18.43,252
+832,Digital Marketing,PeoplePerHour,Expert,Asia,PayPal,115,6154,8.98,72.62,4.69,37,Fixed,14.73,54
+833,SEO,Fiverr,Intermediate,UK,Bank Transfer,208,3942,98.96,57.04,4.96,53,Fixed,60.68,154
+834,SEO,Upwork,Intermediate,Australia,Mobile Banking,116,489,9.54,58.82,4.59,87,Hourly,75.02,390
+835,Data Entry,PeoplePerHour,Beginner,Canada,Bank Transfer,262,9528,32.39,74.92,4.71,16,Fixed,40.14,90
+836,Data Entry,Freelancer,Expert,Middle East,Crypto,20,1258,51.9,70.95,3.48,18,Hourly,18.34,338
+837,Customer Support,Toptal,Intermediate,Canada,Crypto,170,9320,18.61,95.74,4.92,19,Hourly,45.87,125
+838,Digital Marketing,Toptal,Expert,Asia,PayPal,284,2613,17.81,68.12,3.39,44,Fixed,34.42,336
+839,Content Writing,Upwork,Beginner,USA,PayPal,162,7516,29.35,79.03,4.9,2,Hourly,36.24,168
+840,Data Entry,Fiverr,Expert,Australia,Bank Transfer,253,1303,97.48,81.61,4.99,58,Fixed,53.49,138
+841,SEO,Upwork,Intermediate,Asia,Bank Transfer,185,3259,41.11,50.65,4.42,10,Fixed,60.31,4
+842,Graphic Design,Toptal,Intermediate,USA,Bank Transfer,195,3599,58.77,83.18,4.96,76,Hourly,17.74,65
+843,Web Development,Freelancer,Expert,UK,Crypto,143,664,71.91,58.9,4.14,46,Hourly,12.49,110
+844,App Development,Toptal,Intermediate,Middle East,Bank Transfer,82,3128,75.51,98.05,3.52,82,Fixed,79.6,183
+845,Graphic Design,PeoplePerHour,Intermediate,USA,Mobile Banking,54,3540,70.36,57.43,3.87,19,Hourly,26.29,267
+846,Content Writing,Toptal,Intermediate,UK,Mobile Banking,89,3593,37.01,70.73,4.19,38,Fixed,13.77,169
+847,Web Development,Toptal,Beginner,Canada,Crypto,187,8152,15.61,54.27,3.15,37,Fixed,23.29,361
+848,Graphic Design,PeoplePerHour,Beginner,USA,Bank Transfer,187,1950,31.76,99.84,4.24,78,Fixed,12.73,243
+849,Graphic Design,Fiverr,Intermediate,USA,Bank Transfer,8,5730,24.98,75.11,4.96,45,Fixed,37.43,330
+850,Digital Marketing,Toptal,Expert,Europe,PayPal,115,6801,17.95,79.77,3.38,34,Hourly,66.17,137
+851,App Development,Upwork,Beginner,Middle East,Mobile Banking,255,5912,7.33,53.35,4.59,2,Hourly,33.89,27
+852,Customer Support,Toptal,Expert,Middle East,Crypto,137,1762,93.89,87.5,4.82,44,Hourly,41.09,6
+853,Content Writing,Upwork,Intermediate,Asia,Bank Transfer,104,2379,92.5,60.5,4.89,83,Hourly,57.29,397
+854,SEO,PeoplePerHour,Intermediate,Canada,PayPal,176,1244,9.79,94.9,4.92,27,Hourly,45.62,332
+855,Digital Marketing,Toptal,Expert,Europe,Crypto,291,6831,21.44,60.26,4.04,48,Hourly,70.3,452
+856,Web Development,PeoplePerHour,Beginner,Asia,Crypto,123,8212,18.25,59.53,4.95,7,Fixed,70.62,316
+857,App Development,PeoplePerHour,Expert,UK,Mobile Banking,179,4956,31.72,51.83,4.51,27,Hourly,10.69,50
+858,SEO,Fiverr,Expert,Asia,Bank Transfer,34,1428,24.39,73.6,3.32,85,Fixed,64.46,425
+859,Digital Marketing,Toptal,Intermediate,UK,Crypto,59,9554,94.86,78.24,3.95,71,Fixed,42.25,135
+860,App Development,Upwork,Beginner,Canada,PayPal,200,799,13.0,53.29,4.44,89,Fixed,79.22,177
+861,Customer Support,Upwork,Expert,Middle East,PayPal,45,5342,25.11,88.78,3.49,18,Hourly,43.83,128
+862,Content Writing,Toptal,Beginner,UK,Crypto,177,350,12.67,72.66,4.28,33,Fixed,79.08,196
+863,Data Entry,Fiverr,Intermediate,Canada,PayPal,223,4745,98.14,76.22,4.33,33,Hourly,62.82,266
+864,Customer Support,Fiverr,Beginner,Asia,Crypto,212,4674,92.25,72.04,3.33,25,Fixed,27.4,499
+865,Data Entry,Fiverr,Intermediate,UK,PayPal,162,3887,73.08,70.04,4.13,14,Hourly,47.69,106
+866,Web Development,Upwork,Beginner,Australia,Crypto,232,327,45.47,77.98,4.54,38,Hourly,79.45,47
+867,Data Entry,PeoplePerHour,Expert,USA,Crypto,89,3967,23.07,57.76,4.0,38,Hourly,70.03,137
+868,Digital Marketing,Fiverr,Intermediate,Asia,Crypto,177,7357,26.04,59.1,3.02,4,Hourly,16.82,398
+869,Web Development,Upwork,Expert,Middle East,PayPal,249,2211,47.09,93.09,3.02,62,Hourly,59.45,102
+870,SEO,Upwork,Intermediate,Asia,Crypto,177,1439,77.98,97.31,3.71,82,Fixed,34.19,46
+871,Customer Support,PeoplePerHour,Beginner,Australia,Mobile Banking,216,8932,30.15,68.67,4.85,10,Hourly,10.49,476
+872,Customer Support,Toptal,Beginner,Canada,Crypto,88,4782,34.53,63.54,3.46,35,Hourly,38.24,152
+873,Content Writing,Toptal,Intermediate,Canada,Bank Transfer,177,3518,61.99,82.2,4.27,23,Fixed,26.43,367
+874,Web Development,Fiverr,Intermediate,Asia,Bank Transfer,187,6191,27.58,70.44,3.44,89,Hourly,67.32,5
+875,SEO,Fiverr,Intermediate,Australia,Mobile Banking,137,6019,60.5,51.27,3.64,65,Hourly,33.61,10
+876,Customer Support,PeoplePerHour,Beginner,Asia,Crypto,292,3866,41.78,57.81,4.7,82,Hourly,67.93,16
+877,Web Development,Fiverr,Intermediate,USA,Bank Transfer,266,9181,8.26,85.8,4.46,79,Hourly,10.04,142
+878,Graphic Design,PeoplePerHour,Intermediate,USA,Crypto,286,5087,43.26,82.95,3.19,25,Hourly,31.55,271
+879,Graphic Design,Upwork,Expert,Europe,Bank Transfer,297,6044,92.35,51.35,3.86,53,Fixed,26.88,311
+880,Web Development,Fiverr,Intermediate,UK,PayPal,273,9988,32.85,61.1,3.06,84,Hourly,26.35,65
+881,Customer Support,Upwork,Expert,Europe,PayPal,201,2501,35.67,61.55,3.96,17,Fixed,14.77,419
+882,App Development,Freelancer,Expert,USA,Mobile Banking,29,74,11.26,83.59,4.32,57,Hourly,23.1,338
+883,Data Entry,PeoplePerHour,Expert,Australia,Mobile Banking,145,6012,63.43,50.99,3.24,75,Fixed,48.89,421
+884,Graphic Design,Freelancer,Beginner,UK,Crypto,227,2606,85.68,55.21,3.58,77,Fixed,30.4,497
+885,App Development,Fiverr,Expert,Australia,Mobile Banking,24,7682,38.53,90.0,3.8,89,Fixed,39.22,468
+886,App Development,Upwork,Intermediate,Europe,Crypto,251,110,27.82,58.93,4.84,20,Hourly,36.38,330
+887,Content Writing,Fiverr,Beginner,Canada,PayPal,205,7725,95.88,82.64,4.99,25,Hourly,71.31,255
+888,SEO,Freelancer,Beginner,Australia,PayPal,119,172,75.78,61.91,3.09,42,Fixed,73.37,488
+889,Digital Marketing,Fiverr,Beginner,Europe,Bank Transfer,193,5666,58.88,54.97,4.52,45,Hourly,44.51,126
+890,Graphic Design,Toptal,Beginner,Europe,Crypto,30,1236,34.03,62.16,3.74,31,Hourly,33.11,130
+891,Web Development,Freelancer,Beginner,Europe,PayPal,58,5208,25.98,86.11,3.78,65,Fixed,17.48,481
+892,Data Entry,Fiverr,Beginner,Canada,PayPal,174,7914,73.0,92.78,4.51,52,Hourly,76.74,17
+893,Digital Marketing,Upwork,Beginner,Canada,Crypto,15,9972,54.57,91.51,4.84,80,Fixed,14.22,206
+894,SEO,Fiverr,Expert,Asia,Bank Transfer,31,4139,54.46,69.86,4.9,21,Hourly,30.84,88
+895,App Development,Upwork,Intermediate,Canada,Bank Transfer,87,2522,12.0,83.4,4.15,30,Fixed,30.86,437
+896,SEO,Toptal,Intermediate,UK,Bank Transfer,294,7500,53.66,60.25,3.71,3,Hourly,32.43,497
+897,Customer Support,Fiverr,Expert,Canada,Bank Transfer,42,3014,83.16,64.66,4.58,70,Hourly,21.5,242
+898,Graphic Design,Toptal,Expert,Canada,PayPal,91,8154,94.95,94.82,3.5,43,Fixed,64.82,462
+899,SEO,Freelancer,Beginner,Canada,Crypto,160,1360,15.13,50.65,4.13,29,Fixed,18.57,349
+900,SEO,Upwork,Beginner,Australia,Crypto,290,8396,64.96,54.28,3.72,3,Hourly,54.44,16
+901,Data Entry,Freelancer,Expert,Canada,PayPal,190,2262,58.99,60.39,4.31,58,Fixed,18.67,465
+902,Customer Support,Upwork,Beginner,UK,PayPal,186,9504,89.58,51.33,3.48,33,Fixed,14.94,222
+903,Customer Support,Toptal,Intermediate,Europe,PayPal,147,6842,76.37,59.07,3.38,75,Fixed,73.66,369
+904,App Development,PeoplePerHour,Intermediate,Australia,Mobile Banking,210,9604,96.7,79.15,4.84,45,Fixed,23.31,362
+905,Data Entry,Fiverr,Beginner,USA,Crypto,146,9179,96.2,71.07,3.2,69,Fixed,67.49,209
+906,Data Entry,Toptal,Beginner,Canada,Crypto,189,8753,26.44,94.63,4.01,32,Hourly,48.12,98
+907,Web Development,Upwork,Beginner,Asia,Crypto,245,8428,73.91,90.87,3.44,82,Fixed,15.45,12
+908,SEO,Upwork,Intermediate,Asia,Bank Transfer,12,1895,55.4,67.09,3.08,84,Fixed,76.88,318
+909,SEO,Upwork,Beginner,Europe,PayPal,76,7710,25.39,62.97,3.07,52,Fixed,27.29,269
+910,Customer Support,Upwork,Expert,Europe,PayPal,292,1752,23.51,68.98,3.35,64,Fixed,70.18,186
+911,SEO,Fiverr,Beginner,Australia,PayPal,99,440,12.7,79.51,4.73,40,Hourly,21.82,419
+912,Content Writing,Freelancer,Expert,Asia,Mobile Banking,161,704,80.58,63.4,3.56,13,Fixed,69.78,273
+913,Data Entry,PeoplePerHour,Beginner,USA,Crypto,45,5885,35.83,81.21,4.9,80,Hourly,10.93,132
+914,Digital Marketing,Fiverr,Beginner,Middle East,PayPal,273,4321,86.41,70.47,4.16,89,Hourly,45.82,13
+915,Customer Support,Upwork,Intermediate,Asia,Mobile Banking,159,9005,62.79,77.6,3.87,74,Fixed,63.86,280
+916,Graphic Design,Fiverr,Expert,Asia,PayPal,279,3450,69.0,71.81,4.16,29,Fixed,75.44,43
+917,Customer Support,Toptal,Expert,UK,Bank Transfer,158,5369,32.71,64.72,4.03,63,Hourly,73.64,376
+918,App Development,Upwork,Expert,Middle East,Crypto,57,6782,48.44,97.42,4.52,84,Hourly,67.37,294
+919,Digital Marketing,PeoplePerHour,Intermediate,Europe,Mobile Banking,183,6724,44.17,88.18,3.56,26,Hourly,72.17,395
+920,App Development,Upwork,Expert,Middle East,PayPal,244,1135,27.39,57.01,3.71,59,Fixed,23.95,103
+921,Web Development,PeoplePerHour,Intermediate,Asia,Crypto,141,5496,84.09,93.42,4.79,49,Hourly,29.89,444
+922,Web Development,PeoplePerHour,Beginner,Europe,Mobile Banking,259,4426,64.1,74.37,4.89,53,Fixed,30.23,61
+923,App Development,Freelancer,Beginner,Middle East,Crypto,228,2013,8.56,94.73,4.79,88,Hourly,36.39,52
+924,SEO,Freelancer,Expert,Europe,Crypto,184,5227,82.89,89.99,3.84,31,Hourly,37.53,308
+925,Digital Marketing,Fiverr,Beginner,Europe,Bank Transfer,186,4622,15.07,71.26,4.56,12,Fixed,48.12,411
+926,SEO,Fiverr,Beginner,Australia,Crypto,263,7593,43.35,51.12,3.95,58,Fixed,21.19,418
+927,Customer Support,PeoplePerHour,Expert,USA,Mobile Banking,247,8957,59.27,63.43,4.0,36,Hourly,58.39,117
+928,Content Writing,Upwork,Beginner,Europe,Crypto,100,292,5.73,77.08,3.41,10,Fixed,21.73,320
+929,Web Development,Toptal,Expert,UK,Mobile Banking,201,6560,67.03,81.67,4.18,6,Fixed,31.72,130
+930,Web Development,Toptal,Expert,Asia,Crypto,18,3965,67.67,62.89,3.37,7,Hourly,45.23,298
+931,Digital Marketing,Upwork,Beginner,Asia,PayPal,124,9765,66.99,56.97,3.66,31,Fixed,65.75,305
+932,Web Development,Upwork,Beginner,UK,Bank Transfer,273,887,20.53,91.75,4.71,72,Fixed,61.76,198
+933,Content Writing,Freelancer,Beginner,Canada,PayPal,175,3373,29.29,99.22,3.41,3,Hourly,55.19,392
+934,Content Writing,Toptal,Beginner,Europe,Bank Transfer,76,3003,28.5,76.28,3.14,47,Hourly,20.9,35
+935,Content Writing,PeoplePerHour,Beginner,Europe,Mobile Banking,183,9587,96.21,58.58,3.14,85,Fixed,48.29,278
+936,Graphic Design,Fiverr,Intermediate,Europe,Bank Transfer,174,1482,11.42,63.62,4.88,1,Fixed,16.12,215
+937,Content Writing,Freelancer,Beginner,Middle East,Crypto,163,6904,45.73,50.92,4.01,45,Fixed,36.42,73
+938,Content Writing,Toptal,Intermediate,Europe,Crypto,158,7705,87.77,95.71,3.82,54,Hourly,38.95,305
+939,Graphic Design,Upwork,Expert,Europe,PayPal,86,8481,78.1,55.89,4.62,50,Hourly,12.79,54
+940,SEO,Toptal,Beginner,UK,Bank Transfer,61,8380,83.13,78.83,4.67,79,Fixed,29.18,495
+941,Customer Support,PeoplePerHour,Beginner,USA,Mobile Banking,11,8661,97.37,63.7,3.66,7,Fixed,76.9,380
+942,Data Entry,Freelancer,Beginner,USA,Mobile Banking,116,353,41.79,77.71,4.39,63,Fixed,76.75,11
+943,Web Development,Upwork,Expert,Canada,Crypto,52,2212,34.42,82.57,4.54,15,Hourly,34.66,82
+944,Content Writing,PeoplePerHour,Intermediate,UK,Mobile Banking,84,6536,7.91,91.49,4.31,89,Hourly,13.02,31
+945,Web Development,Fiverr,Intermediate,Europe,Crypto,37,4152,19.25,60.32,3.3,67,Fixed,22.54,407
+946,Digital Marketing,Freelancer,Beginner,USA,Crypto,119,6924,58.39,50.55,4.75,30,Fixed,37.46,85
+947,Web Development,PeoplePerHour,Beginner,Australia,Crypto,7,1218,19.98,56.84,4.08,78,Fixed,76.34,450
+948,App Development,PeoplePerHour,Beginner,Australia,PayPal,8,465,74.95,95.0,3.56,68,Fixed,19.88,231
+949,SEO,Upwork,Beginner,Australia,PayPal,264,5293,8.54,93.69,3.85,36,Hourly,63.45,410
+950,Customer Support,Fiverr,Expert,Europe,Crypto,46,199,29.65,79.87,3.08,67,Fixed,17.61,444
+951,Graphic Design,PeoplePerHour,Beginner,Europe,Crypto,13,6574,71.07,80.03,3.26,5,Fixed,78.69,274
+952,Web Development,Freelancer,Expert,Canada,Crypto,149,5949,29.27,83.25,4.53,25,Hourly,36.71,200
+953,Web Development,PeoplePerHour,Beginner,Asia,Mobile Banking,101,888,74.23,58.77,3.0,11,Fixed,64.27,50
+954,Web Development,Toptal,Intermediate,Canada,Crypto,280,6194,99.61,95.72,3.83,72,Fixed,33.98,319
+955,Data Entry,Freelancer,Intermediate,Canada,Crypto,146,9938,80.72,70.94,4.05,66,Fixed,53.94,255
+956,Data Entry,Freelancer,Beginner,Middle East,Bank Transfer,282,9663,37.47,69.16,3.11,28,Fixed,23.44,240
+957,Digital Marketing,PeoplePerHour,Beginner,Australia,Bank Transfer,31,7516,90.56,75.95,4.95,60,Fixed,20.22,204
+958,Graphic Design,Upwork,Expert,Europe,Bank Transfer,47,1370,9.86,52.35,3.45,10,Fixed,75.66,385
+959,Web Development,Freelancer,Beginner,Australia,Bank Transfer,135,1573,73.88,58.31,3.61,50,Hourly,74.24,419
+960,Web Development,Toptal,Beginner,Canada,Crypto,220,5284,7.22,86.9,3.61,39,Fixed,72.12,476
+961,Web Development,Upwork,Beginner,Europe,Bank Transfer,98,6194,21.58,54.14,3.46,37,Hourly,53.78,383
+962,Web Development,Upwork,Intermediate,UK,Mobile Banking,12,602,98.82,80.16,3.0,63,Hourly,66.58,394
+963,Data Entry,Upwork,Expert,USA,Mobile Banking,90,3806,39.28,62.27,4.46,61,Hourly,14.83,481
+964,SEO,Freelancer,Intermediate,USA,Bank Transfer,142,3721,82.95,69.46,4.93,85,Hourly,33.44,195
+965,SEO,Upwork,Expert,Canada,PayPal,250,531,40.73,64.43,3.45,38,Fixed,31.96,451
+966,Digital Marketing,PeoplePerHour,Intermediate,Asia,Mobile Banking,25,649,84.8,67.78,4.33,33,Fixed,54.5,243
+967,App Development,Upwork,Beginner,Australia,Mobile Banking,269,7727,96.72,85.95,4.48,75,Fixed,34.92,319
+968,Content Writing,Toptal,Intermediate,UK,Bank Transfer,152,9406,46.38,64.86,4.7,45,Fixed,20.4,0
+969,Graphic Design,Fiverr,Intermediate,Europe,Bank Transfer,188,9245,58.14,78.32,3.85,44,Hourly,51.75,88
+970,SEO,Toptal,Expert,Asia,Crypto,231,2032,64.72,73.8,3.61,1,Hourly,67.01,281
+971,App Development,Freelancer,Expert,Australia,Mobile Banking,296,1684,93.81,83.18,3.65,53,Hourly,36.75,138
+972,Customer Support,Upwork,Intermediate,Canada,Bank Transfer,40,7880,29.39,96.84,4.43,47,Fixed,19.26,86
+973,Customer Support,Upwork,Expert,Australia,Bank Transfer,250,3047,63.07,86.63,4.63,33,Hourly,23.77,1
+974,Web Development,PeoplePerHour,Expert,Canada,Crypto,77,736,35.85,60.75,3.36,67,Fixed,26.62,466
+975,Customer Support,Upwork,Expert,Middle East,Mobile Banking,154,5579,25.61,51.56,3.74,15,Hourly,30.99,348
+976,SEO,Toptal,Expert,USA,Bank Transfer,5,1809,13.07,63.11,4.8,14,Fixed,55.0,167
+977,Digital Marketing,Freelancer,Expert,Asia,Crypto,73,7073,63.97,79.75,4.61,23,Hourly,52.07,118
+978,Content Writing,Fiverr,Intermediate,USA,Bank Transfer,297,6258,88.8,52.57,4.97,54,Hourly,58.73,499
+979,SEO,Upwork,Expert,Australia,PayPal,234,7284,38.38,74.82,4.51,8,Fixed,35.38,387
+980,Digital Marketing,Fiverr,Beginner,UK,PayPal,215,2530,57.5,79.84,3.79,54,Hourly,67.68,79
+981,Customer Support,Upwork,Intermediate,Europe,Bank Transfer,76,9579,66.0,66.71,4.18,36,Hourly,24.29,110
+982,Data Entry,Freelancer,Intermediate,Canada,Mobile Banking,100,7526,44.39,88.55,4.32,84,Fixed,42.83,164
+983,Content Writing,Toptal,Intermediate,Europe,PayPal,88,7820,90.82,55.33,3.16,52,Hourly,66.07,381
+984,Digital Marketing,Freelancer,Expert,USA,Crypto,232,164,39.46,53.76,4.09,6,Hourly,22.61,444
+985,App Development,Fiverr,Beginner,UK,Bank Transfer,240,618,16.88,86.41,4.42,28,Hourly,17.69,218
+986,SEO,Upwork,Expert,UK,Crypto,297,9795,18.68,74.77,3.33,50,Hourly,71.86,4
+987,Data Entry,Fiverr,Intermediate,Europe,PayPal,226,8001,89.63,84.42,4.56,38,Fixed,34.01,398
+988,App Development,Toptal,Intermediate,USA,Mobile Banking,227,2739,98.86,71.74,4.17,30,Fixed,57.87,214
+989,Digital Marketing,Freelancer,Intermediate,Europe,Crypto,285,4640,32.45,62.32,4.9,81,Hourly,11.77,496
+990,Digital Marketing,Fiverr,Intermediate,Australia,PayPal,225,3390,18.64,90.96,3.08,73,Fixed,58.3,194
+991,Customer Support,Fiverr,Expert,UK,PayPal,220,3038,50.81,89.97,3.53,54,Hourly,32.13,465
+992,App Development,Toptal,Beginner,UK,PayPal,235,3201,72.41,84.73,4.2,71,Fixed,13.9,490
+993,SEO,Upwork,Beginner,Australia,Crypto,173,3065,63.18,63.61,3.59,46,Hourly,52.69,281
+994,Content Writing,Fiverr,Intermediate,USA,PayPal,46,9063,95.36,79.51,4.43,28,Hourly,26.86,5
+995,Data Entry,Toptal,Beginner,UK,Bank Transfer,262,6395,82.69,68.05,4.52,17,Fixed,37.08,378
+996,Customer Support,Upwork,Intermediate,Asia,PayPal,200,3624,87.55,54.58,3.21,48,Hourly,15.64,299
+997,Web Development,Upwork,Intermediate,Middle East,Bank Transfer,100,7888,56.46,95.87,4.03,44,Hourly,20.3,57
+998,Graphic Design,Freelancer,Beginner,Middle East,Mobile Banking,18,1658,36.09,56.84,4.02,60,Hourly,30.86,336
+999,Content Writing,Toptal,Intermediate,Middle East,Bank Transfer,117,609,71.66,97.51,3.74,60,Hourly,16.28,301
+1000,Customer Support,Upwork,Beginner,Canada,Mobile Banking,81,6671,46.71,72.3,4.87,5,Fixed,73.76,101
+1001,Data Entry,Freelancer,Intermediate,Asia,Mobile Banking,281,7176,32.34,59.26,4.66,69,Fixed,10.42,425
+1002,App Development,PeoplePerHour,Beginner,Canada,Bank Transfer,164,5615,19.47,77.1,4.39,78,Fixed,43.87,47
+1003,Digital Marketing,Toptal,Intermediate,USA,Mobile Banking,123,4485,55.15,93.65,4.43,70,Fixed,18.63,369
+1004,App Development,PeoplePerHour,Beginner,Australia,Bank Transfer,165,5700,61.45,86.61,3.92,7,Hourly,31.54,410
+1005,Customer Support,Upwork,Intermediate,Europe,Crypto,150,8853,59.03,90.33,4.84,53,Hourly,74.82,275
+1006,Data Entry,Toptal,Intermediate,Asia,Mobile Banking,167,1931,16.07,82.94,4.39,17,Hourly,21.32,453
+1007,App Development,Freelancer,Intermediate,USA,Bank Transfer,183,4219,59.15,84.61,4.46,59,Hourly,77.61,370
+1008,App Development,Upwork,Beginner,Europe,Mobile Banking,93,3913,21.0,92.46,4.72,9,Fixed,24.41,162
+1009,Graphic Design,Toptal,Expert,USA,PayPal,227,7486,68.05,62.48,3.55,22,Fixed,61.91,331
+1010,SEO,Toptal,Intermediate,Canada,Bank Transfer,270,3758,45.79,74.47,4.61,45,Fixed,48.27,431
+1011,Customer Support,PeoplePerHour,Intermediate,Middle East,PayPal,243,1759,85.63,61.06,3.39,73,Hourly,71.91,450
+1012,Graphic Design,Upwork,Beginner,Australia,Mobile Banking,38,7910,78.94,99.38,3.69,59,Hourly,48.78,495
+1013,Customer Support,Freelancer,Intermediate,Canada,Mobile Banking,171,1742,73.82,97.2,3.67,80,Hourly,47.42,195
+1014,Web Development,Freelancer,Intermediate,Australia,Crypto,129,9487,71.57,51.97,4.96,13,Hourly,23.68,376
+1015,Web Development,Upwork,Intermediate,Asia,Bank Transfer,228,175,58.25,85.28,4.71,83,Fixed,21.64,435
+1016,Graphic Design,Upwork,Intermediate,Europe,PayPal,154,1249,10.81,96.26,4.4,12,Fixed,74.15,364
+1017,Content Writing,Fiverr,Expert,USA,Crypto,193,6142,67.27,59.03,4.45,36,Fixed,32.95,323
+1018,Content Writing,PeoplePerHour,Expert,UK,Mobile Banking,47,2761,49.36,78.4,4.12,10,Hourly,36.05,131
+1019,App Development,Upwork,Intermediate,UK,Mobile Banking,33,9232,49.61,95.77,4.89,16,Fixed,63.19,422
+1020,App Development,Upwork,Intermediate,Australia,Crypto,124,9763,41.01,51.7,3.99,19,Hourly,33.72,404
+1021,Digital Marketing,Fiverr,Intermediate,Middle East,PayPal,35,6278,93.26,84.87,3.76,6,Fixed,76.64,491
+1022,Web Development,Fiverr,Expert,Middle East,Mobile Banking,185,6045,28.7,64.87,3.33,4,Fixed,61.65,65
+1023,Customer Support,Toptal,Expert,Australia,Mobile Banking,166,8232,35.08,96.22,4.57,30,Hourly,51.82,399
+1024,Digital Marketing,Freelancer,Beginner,Canada,Bank Transfer,132,5552,96.49,98.55,4.47,46,Hourly,71.66,390
+1025,Web Development,PeoplePerHour,Beginner,UK,Crypto,259,5810,81.96,97.21,3.77,27,Hourly,13.47,82
+1026,Graphic Design,Toptal,Intermediate,Canada,Mobile Banking,298,5632,6.34,73.71,3.05,45,Fixed,27.99,490
+1027,Content Writing,Upwork,Intermediate,Europe,PayPal,258,2548,91.08,93.1,4.68,85,Fixed,42.55,480
+1028,App Development,Fiverr,Expert,UK,Bank Transfer,134,2615,26.53,92.23,3.02,37,Fixed,25.89,264
+1029,Content Writing,Freelancer,Intermediate,Europe,Crypto,16,7039,72.06,65.96,4.41,9,Fixed,62.07,228
+1030,Graphic Design,Toptal,Intermediate,USA,PayPal,39,4840,57.54,91.45,4.94,61,Hourly,74.34,272
+1031,Digital Marketing,Freelancer,Expert,Canada,Mobile Banking,202,5074,56.0,51.85,3.88,35,Fixed,39.66,218
+1032,Digital Marketing,Fiverr,Expert,Australia,Crypto,252,8357,73.2,79.81,3.47,47,Hourly,33.95,224
+1033,Data Entry,Toptal,Expert,UK,Crypto,114,1081,24.68,61.5,4.41,21,Fixed,77.31,112
+1034,App Development,Toptal,Expert,Canada,PayPal,249,1291,20.11,56.03,4.63,17,Hourly,41.14,139
+1035,App Development,Freelancer,Beginner,Australia,Crypto,254,1792,66.93,53.85,4.09,55,Hourly,44.23,184
+1036,Customer Support,Fiverr,Expert,USA,PayPal,167,5759,32.61,84.81,4.93,88,Fixed,34.62,172
+1037,App Development,Upwork,Expert,UK,Mobile Banking,52,6049,97.53,66.99,3.1,6,Fixed,73.67,375
+1038,Web Development,Toptal,Intermediate,Europe,Bank Transfer,75,4140,47.89,86.24,4.01,35,Hourly,49.83,10
+1039,Digital Marketing,Upwork,Intermediate,USA,PayPal,138,8210,15.6,53.27,4.44,50,Fixed,63.35,396
+1040,Graphic Design,Fiverr,Intermediate,Middle East,Bank Transfer,243,6933,70.15,65.76,4.73,37,Hourly,66.83,158
+1041,Digital Marketing,Toptal,Beginner,Australia,Crypto,72,5179,34.09,76.97,3.36,13,Fixed,33.93,204
+1042,Content Writing,Toptal,Expert,UK,PayPal,282,4453,19.12,89.54,4.6,25,Fixed,40.36,229
+1043,Web Development,Upwork,Expert,UK,Mobile Banking,36,6627,45.17,65.94,4.11,1,Fixed,69.39,25
+1044,App Development,PeoplePerHour,Beginner,Asia,PayPal,127,4947,96.6,81.29,3.79,49,Fixed,35.43,318
+1045,Customer Support,Upwork,Expert,Asia,PayPal,26,213,44.09,94.3,3.26,35,Fixed,65.58,158
+1046,Customer Support,Upwork,Intermediate,USA,PayPal,159,3360,38.0,80.79,4.73,83,Hourly,75.87,277
+1047,Customer Support,PeoplePerHour,Beginner,UK,Bank Transfer,114,3438,47.23,61.65,3.31,53,Fixed,53.62,389
+1048,SEO,Fiverr,Expert,Australia,Bank Transfer,275,1045,6.15,51.22,3.62,52,Hourly,61.91,147
+1049,Data Entry,Fiverr,Beginner,USA,Crypto,119,6211,17.64,93.5,3.58,54,Hourly,66.36,468
+1050,Web Development,Toptal,Beginner,Europe,Crypto,224,1927,85.72,51.06,4.74,76,Hourly,69.15,265
+1051,Content Writing,Freelancer,Expert,USA,Crypto,234,8153,97.91,93.74,4.35,47,Fixed,37.65,82
+1052,App Development,Freelancer,Intermediate,USA,Crypto,256,3314,20.0,76.45,4.59,43,Hourly,13.59,418
+1053,Content Writing,Toptal,Expert,Europe,PayPal,253,1398,55.87,96.95,3.5,20,Hourly,38.13,25
+1054,Content Writing,Freelancer,Expert,Middle East,Bank Transfer,13,2301,96.8,89.94,4.25,33,Hourly,57.16,70
+1055,App Development,Upwork,Intermediate,Asia,Bank Transfer,38,7340,19.88,99.9,4.14,16,Hourly,41.52,36
+1056,Content Writing,Upwork,Expert,Australia,Bank Transfer,232,9835,22.7,67.54,4.67,78,Hourly,62.43,391
+1057,Customer Support,PeoplePerHour,Expert,Middle East,Bank Transfer,77,8068,93.05,88.36,4.81,7,Hourly,34.99,132
+1058,Graphic Design,PeoplePerHour,Expert,Middle East,Crypto,216,6640,72.04,70.1,3.02,70,Fixed,54.43,427
+1059,Data Entry,Toptal,Beginner,Middle East,PayPal,76,7708,19.44,73.99,4.35,21,Hourly,23.05,483
+1060,SEO,Toptal,Beginner,Asia,Bank Transfer,62,482,42.38,81.38,3.1,36,Hourly,62.46,125
+1061,Content Writing,Toptal,Beginner,Canada,Mobile Banking,224,5793,10.35,93.68,4.1,86,Fixed,48.2,114
+1062,Content Writing,Upwork,Expert,Asia,PayPal,279,5297,46.1,99.2,3.58,54,Hourly,24.28,91
+1063,Digital Marketing,Freelancer,Intermediate,Middle East,Mobile Banking,253,7765,78.9,88.41,3.61,19,Fixed,30.43,241
+1064,Data Entry,Toptal,Beginner,Canada,PayPal,20,3867,57.63,70.89,3.71,25,Fixed,62.4,450
+1065,Web Development,Toptal,Intermediate,Europe,PayPal,79,1120,66.51,71.07,4.24,67,Hourly,43.78,486
+1066,Data Entry,Upwork,Expert,Asia,PayPal,110,4650,36.05,86.88,3.67,53,Hourly,25.12,199
+1067,Data Entry,Upwork,Beginner,Australia,Mobile Banking,140,8356,20.33,61.94,4.47,75,Fixed,77.71,206
+1068,App Development,Upwork,Expert,Middle East,Bank Transfer,78,9681,6.25,55.52,3.81,48,Fixed,60.06,116
+1069,App Development,Freelancer,Intermediate,UK,Bank Transfer,258,1044,83.02,67.73,3.14,42,Fixed,77.0,218
+1070,App Development,Toptal,Beginner,Europe,Mobile Banking,22,4368,65.48,64.36,4.57,47,Fixed,39.9,304
+1071,SEO,Fiverr,Beginner,Canada,Bank Transfer,47,4781,26.79,64.82,3.57,42,Hourly,43.26,242
+1072,Customer Support,Fiverr,Beginner,Asia,Crypto,54,6118,44.75,61.68,3.87,2,Fixed,72.86,291
+1073,Data Entry,Toptal,Beginner,Australia,Bank Transfer,7,7720,81.14,52.1,4.37,6,Fixed,46.75,463
+1074,SEO,Toptal,Intermediate,USA,Crypto,236,4817,56.18,50.89,3.66,46,Fixed,59.51,281
+1075,Content Writing,Toptal,Beginner,Australia,Crypto,223,1007,33.52,99.39,3.11,66,Hourly,27.65,300
+1076,App Development,Toptal,Expert,Australia,Crypto,63,8337,30.38,71.39,3.75,81,Fixed,41.27,316
+1077,Content Writing,Freelancer,Beginner,Middle East,Mobile Banking,288,2204,25.67,69.22,4.89,40,Fixed,18.64,171
+1078,App Development,Fiverr,Intermediate,Middle East,Bank Transfer,68,681,83.25,83.98,4.28,58,Hourly,24.42,387
+1079,Graphic Design,PeoplePerHour,Beginner,Asia,Bank Transfer,74,9943,60.28,60.91,4.34,78,Hourly,10.07,75
+1080,SEO,Fiverr,Intermediate,Asia,Mobile Banking,146,6095,72.37,97.5,4.26,74,Fixed,12.75,208
+1081,SEO,Fiverr,Intermediate,Canada,Mobile Banking,206,747,86.71,89.32,3.4,33,Fixed,78.41,313
+1082,Customer Support,Upwork,Expert,Asia,Bank Transfer,211,81,98.75,54.47,3.84,62,Fixed,26.96,104
+1083,Web Development,Toptal,Beginner,Canada,Mobile Banking,225,6259,28.7,70.88,4.5,12,Hourly,56.43,491
+1084,Digital Marketing,Toptal,Beginner,Middle East,Mobile Banking,250,4924,22.19,93.96,3.2,49,Hourly,68.74,25
+1085,Data Entry,Toptal,Beginner,Middle East,Crypto,85,5612,48.89,97.24,3.56,88,Fixed,48.55,350
+1086,Web Development,Upwork,Expert,UK,Mobile Banking,255,8790,8.33,73.37,3.55,78,Fixed,20.72,78
+1087,SEO,Freelancer,Expert,UK,Crypto,55,2298,80.21,80.67,3.86,5,Fixed,60.97,499
+1088,Web Development,Freelancer,Intermediate,Europe,PayPal,289,6242,88.96,58.35,4.96,51,Hourly,52.02,481
+1089,Graphic Design,PeoplePerHour,Intermediate,Middle East,Crypto,208,9945,70.17,99.56,3.14,69,Fixed,61.19,127
+1090,Digital Marketing,Freelancer,Intermediate,USA,Crypto,29,6456,30.46,61.58,4.04,32,Fixed,63.88,412
+1091,Customer Support,Freelancer,Expert,UK,Mobile Banking,45,1206,16.7,97.14,3.36,49,Hourly,78.28,136
+1092,SEO,Toptal,Expert,Canada,Bank Transfer,73,8585,41.3,82.48,4.94,60,Fixed,50.15,333
+1093,SEO,Fiverr,Expert,Australia,PayPal,8,5345,84.17,80.39,3.23,46,Hourly,33.91,35
+1094,Data Entry,Freelancer,Intermediate,Asia,PayPal,244,6204,38.04,75.63,3.81,68,Hourly,55.39,387
+1095,Customer Support,Freelancer,Expert,Asia,PayPal,35,2298,8.25,61.53,4.48,41,Fixed,14.79,58
+1096,Customer Support,Upwork,Intermediate,Europe,Bank Transfer,121,9186,31.06,58.83,4.41,81,Hourly,72.82,229
+1097,App Development,PeoplePerHour,Intermediate,UK,PayPal,199,3335,99.04,61.02,3.85,67,Hourly,18.36,420
+1098,Digital Marketing,Upwork,Beginner,Australia,PayPal,94,9572,69.28,59.32,3.69,13,Fixed,32.95,123
+1099,Graphic Design,Toptal,Beginner,Australia,Bank Transfer,182,2053,90.58,88.98,3.8,18,Hourly,67.1,87
+1100,Content Writing,Fiverr,Beginner,UK,PayPal,149,3665,78.61,67.51,3.53,87,Hourly,51.81,336
+1101,Web Development,PeoplePerHour,Intermediate,USA,Mobile Banking,206,3722,56.27,52.89,3.41,51,Fixed,37.55,140
+1102,Customer Support,Upwork,Beginner,USA,Mobile Banking,207,7508,19.13,98.46,3.97,36,Fixed,43.14,403
+1103,Data Entry,Freelancer,Beginner,Europe,Crypto,28,2205,38.12,94.19,3.54,81,Fixed,69.82,272
+1104,SEO,Freelancer,Beginner,USA,Crypto,109,3529,60.46,96.39,3.57,34,Fixed,33.8,50
+1105,Content Writing,PeoplePerHour,Expert,Europe,Crypto,279,101,87.71,99.75,4.31,12,Fixed,70.88,474
+1106,Graphic Design,Freelancer,Intermediate,Canada,Mobile Banking,64,2209,30.52,58.69,4.94,5,Hourly,16.17,54
+1107,Digital Marketing,Upwork,Beginner,UK,Mobile Banking,19,4440,16.52,69.81,4.21,48,Hourly,64.38,416
+1108,Customer Support,Upwork,Expert,Australia,Mobile Banking,89,3701,58.09,87.91,3.15,40,Hourly,69.33,404
+1109,Web Development,Freelancer,Expert,Europe,Crypto,201,7406,21.77,84.8,3.15,13,Hourly,22.73,336
+1110,Customer Support,Freelancer,Expert,Asia,Crypto,239,2162,62.98,57.69,4.9,26,Hourly,40.12,149
+1111,Data Entry,Toptal,Beginner,USA,Crypto,267,5815,30.03,90.79,3.59,14,Fixed,21.58,152
+1112,Customer Support,Fiverr,Expert,Asia,Crypto,10,1404,26.94,61.22,3.18,11,Fixed,59.46,450
+1113,Customer Support,PeoplePerHour,Intermediate,Europe,Crypto,293,5670,42.92,61.19,4.2,38,Fixed,47.47,218
+1114,Customer Support,Upwork,Expert,Middle East,Crypto,62,3804,61.35,76.85,4.25,80,Fixed,54.47,218
+1115,SEO,PeoplePerHour,Expert,Europe,Mobile Banking,149,259,56.81,79.65,4.3,57,Hourly,23.75,365
+1116,SEO,Toptal,Expert,USA,Bank Transfer,46,6282,28.25,79.0,3.53,22,Fixed,24.82,395
+1117,Content Writing,Upwork,Expert,Middle East,Bank Transfer,204,7896,89.66,54.57,3.03,16,Fixed,12.9,398
+1118,Content Writing,Toptal,Intermediate,Middle East,Crypto,178,6221,15.44,93.87,4.93,77,Hourly,32.54,485
+1119,Web Development,Toptal,Beginner,USA,Bank Transfer,99,287,8.75,63.28,3.5,76,Hourly,49.18,467
+1120,Digital Marketing,Freelancer,Intermediate,Middle East,Bank Transfer,221,8577,62.26,56.48,4.35,82,Fixed,70.06,341
+1121,Graphic Design,PeoplePerHour,Intermediate,UK,Mobile Banking,115,8125,16.72,94.44,4.41,29,Hourly,56.68,257
+1122,App Development,PeoplePerHour,Beginner,Australia,Crypto,184,1626,52.96,97.78,4.22,82,Hourly,40.48,387
+1123,Digital Marketing,Freelancer,Expert,Asia,Crypto,167,8741,95.42,93.11,3.63,2,Fixed,76.72,44
+1124,Digital Marketing,PeoplePerHour,Beginner,UK,Bank Transfer,123,9806,71.37,90.48,3.54,54,Hourly,60.35,268
+1125,Digital Marketing,Freelancer,Beginner,UK,Crypto,232,9032,63.66,82.76,4.2,2,Fixed,75.11,310
+1126,App Development,Upwork,Intermediate,USA,Crypto,149,3590,59.61,77.54,4.73,3,Hourly,46.93,159
+1127,Web Development,Toptal,Beginner,USA,Crypto,146,9377,22.06,54.35,4.89,56,Hourly,28.12,277
+1128,App Development,Toptal,Expert,Asia,Crypto,126,7307,46.1,70.42,3.21,72,Hourly,13.7,344
+1129,Web Development,PeoplePerHour,Intermediate,Australia,Bank Transfer,289,199,37.54,68.63,3.31,11,Hourly,60.83,474
+1130,App Development,Fiverr,Expert,Europe,PayPal,230,1674,95.54,62.99,4.89,76,Fixed,18.49,54
+1131,Graphic Design,Toptal,Intermediate,UK,Bank Transfer,261,7711,28.02,86.17,4.47,32,Hourly,31.19,144
+1132,Customer Support,Freelancer,Expert,Middle East,Mobile Banking,289,2624,49.79,74.79,4.77,4,Fixed,47.27,453
+1133,Digital Marketing,Fiverr,Beginner,Australia,PayPal,169,4478,94.12,54.05,3.41,9,Fixed,49.51,234
+1134,Customer Support,Fiverr,Beginner,UK,PayPal,225,7579,79.97,61.01,4.18,88,Hourly,52.04,178
+1135,Web Development,Toptal,Beginner,Europe,PayPal,73,4319,96.63,84.16,4.4,56,Hourly,21.64,207
+1136,App Development,Toptal,Expert,Middle East,Bank Transfer,228,7819,62.79,53.81,4.36,16,Fixed,36.58,135
+1137,Graphic Design,Toptal,Intermediate,UK,Mobile Banking,128,2158,36.71,92.56,3.82,81,Hourly,53.2,444
+1138,App Development,Freelancer,Intermediate,Canada,Bank Transfer,16,3997,83.53,74.76,3.03,86,Hourly,77.89,352
+1139,Customer Support,Fiverr,Intermediate,Asia,Mobile Banking,56,7949,32.69,74.03,4.17,71,Fixed,60.93,393
+1140,SEO,PeoplePerHour,Beginner,Australia,Bank Transfer,133,4964,20.65,79.62,3.51,10,Hourly,74.58,481
+1141,Graphic Design,Freelancer,Expert,Asia,Bank Transfer,139,6717,72.1,91.23,3.9,36,Fixed,63.35,274
+1142,Digital Marketing,Upwork,Intermediate,USA,Bank Transfer,149,2313,65.7,67.39,4.92,24,Hourly,51.42,383
+1143,Data Entry,Toptal,Expert,UK,PayPal,131,9854,88.5,83.9,3.8,64,Hourly,23.44,397
+1144,Digital Marketing,Fiverr,Intermediate,Middle East,Bank Transfer,230,3865,96.38,78.29,4.68,56,Hourly,56.67,322
+1145,Data Entry,Freelancer,Beginner,Middle East,Mobile Banking,75,627,86.43,63.35,3.38,78,Hourly,53.64,182
+1146,Graphic Design,Upwork,Expert,Australia,Mobile Banking,277,472,10.7,93.93,4.34,78,Hourly,52.17,60
+1147,SEO,Freelancer,Intermediate,Australia,Mobile Banking,191,2813,68.13,89.87,4.95,89,Hourly,44.29,439
+1148,Customer Support,Freelancer,Intermediate,Asia,PayPal,7,1279,79.55,82.92,3.2,22,Fixed,47.01,62
+1149,SEO,PeoplePerHour,Intermediate,Middle East,Bank Transfer,289,3226,98.28,92.53,3.02,52,Fixed,33.41,360
+1150,Web Development,PeoplePerHour,Intermediate,Middle East,Bank Transfer,26,8995,40.59,93.36,3.87,50,Hourly,46.35,214
+1151,SEO,Freelancer,Beginner,Middle East,Crypto,170,737,21.14,85.42,3.19,47,Hourly,23.83,359
+1152,Content Writing,Upwork,Intermediate,UK,PayPal,250,772,86.03,91.85,4.5,23,Fixed,66.36,138
+1153,Graphic Design,Fiverr,Intermediate,Middle East,Mobile Banking,238,796,35.16,84.87,4.83,76,Fixed,23.0,430
+1154,Customer Support,Fiverr,Beginner,USA,Mobile Banking,162,4387,61.83,84.01,3.87,83,Fixed,15.95,133
+1155,Customer Support,Toptal,Intermediate,Middle East,Bank Transfer,155,2762,42.04,80.93,3.52,19,Hourly,40.54,33
+1156,Web Development,Toptal,Expert,USA,Mobile Banking,217,757,43.22,87.64,3.87,52,Hourly,56.08,192
+1157,Customer Support,Fiverr,Expert,UK,Bank Transfer,222,8676,74.58,57.93,4.45,34,Hourly,40.64,354
+1158,SEO,Freelancer,Intermediate,Australia,Bank Transfer,250,533,39.34,94.04,3.02,29,Fixed,29.37,472
+1159,Graphic Design,Freelancer,Beginner,USA,Crypto,280,1583,70.84,93.59,4.18,61,Fixed,49.07,319
+1160,Digital Marketing,PeoplePerHour,Beginner,UK,PayPal,155,219,6.36,51.46,4.23,85,Hourly,34.29,476
+1161,SEO,PeoplePerHour,Beginner,Middle East,Bank Transfer,200,1070,35.84,91.29,4.28,35,Fixed,75.3,86
+1162,App Development,Toptal,Intermediate,UK,Bank Transfer,25,7143,35.31,56.44,3.48,5,Hourly,74.59,209
+1163,Data Entry,Fiverr,Intermediate,Middle East,Bank Transfer,261,6516,76.14,66.76,4.43,76,Hourly,45.17,461
+1164,Graphic Design,Freelancer,Expert,Asia,Crypto,21,897,34.88,87.18,3.18,7,Fixed,32.95,80
+1165,Customer Support,Fiverr,Beginner,UK,Bank Transfer,55,8937,65.17,58.04,3.4,41,Hourly,61.6,321
+1166,Web Development,Upwork,Intermediate,Australia,PayPal,274,3396,70.41,90.9,4.75,2,Fixed,12.57,414
+1167,Digital Marketing,Fiverr,Intermediate,USA,PayPal,87,4063,67.55,91.61,4.48,89,Fixed,43.23,338
+1168,Content Writing,Upwork,Intermediate,Asia,Mobile Banking,128,8128,62.31,75.37,3.03,10,Hourly,33.54,479
+1169,Digital Marketing,PeoplePerHour,Beginner,Australia,PayPal,294,81,44.29,50.32,3.5,44,Hourly,74.44,189
+1170,SEO,PeoplePerHour,Beginner,Canada,Mobile Banking,266,8418,40.46,64.35,3.43,70,Fixed,10.84,437
+1171,Data Entry,Toptal,Expert,Middle East,PayPal,53,7927,58.64,80.85,3.54,35,Hourly,48.7,347
+1172,Digital Marketing,Fiverr,Beginner,USA,Mobile Banking,10,6220,11.05,99.06,3.5,62,Fixed,61.85,232
+1173,Content Writing,Fiverr,Intermediate,Australia,Bank Transfer,121,7880,88.2,81.59,3.13,74,Hourly,43.95,391
+1174,App Development,Upwork,Expert,USA,Crypto,122,9744,83.4,62.99,3.92,73,Fixed,15.98,425
+1175,Web Development,PeoplePerHour,Beginner,Canada,Crypto,267,2365,37.91,81.7,4.47,20,Fixed,78.07,168
+1176,Graphic Design,Upwork,Beginner,Europe,Crypto,133,115,58.85,77.0,4.21,35,Hourly,46.26,442
+1177,Data Entry,PeoplePerHour,Beginner,Middle East,Bank Transfer,175,1978,93.56,88.99,4.35,37,Hourly,52.99,250
+1178,Content Writing,Upwork,Beginner,Middle East,Crypto,31,5061,30.81,55.35,3.16,72,Fixed,26.56,167
+1179,Customer Support,PeoplePerHour,Intermediate,UK,PayPal,203,7583,75.53,88.05,4.9,54,Fixed,43.84,230
+1180,SEO,Upwork,Beginner,Middle East,Mobile Banking,101,6275,12.86,77.06,4.68,80,Fixed,40.04,149
+1181,SEO,PeoplePerHour,Intermediate,Middle East,Bank Transfer,21,5497,54.72,98.15,4.61,28,Fixed,15.24,151
+1182,SEO,Upwork,Intermediate,Australia,Crypto,177,634,88.98,67.09,4.65,70,Hourly,17.43,37
+1183,Customer Support,Fiverr,Intermediate,Asia,PayPal,105,6520,57.41,81.63,4.87,32,Hourly,68.62,385
+1184,Customer Support,Toptal,Expert,Middle East,PayPal,190,6735,63.54,96.6,4.09,11,Hourly,26.79,380
+1185,Data Entry,Upwork,Intermediate,Middle East,Bank Transfer,188,5294,91.23,55.13,3.4,42,Fixed,23.65,296
+1186,Digital Marketing,Toptal,Beginner,Canada,Bank Transfer,219,8204,72.96,96.86,4.23,23,Hourly,45.34,488
+1187,Data Entry,Fiverr,Expert,Asia,Crypto,255,8001,71.11,84.39,4.49,30,Fixed,63.81,274
+1188,SEO,Fiverr,Beginner,Canada,Mobile Banking,220,1798,60.71,53.39,4.48,9,Fixed,14.34,104
+1189,App Development,PeoplePerHour,Intermediate,USA,Crypto,33,7720,65.13,65.05,4.04,88,Hourly,50.38,385
+1190,Content Writing,Toptal,Beginner,USA,Crypto,106,2254,81.35,85.41,3.14,59,Hourly,18.34,347
+1191,Graphic Design,Freelancer,Expert,Middle East,Bank Transfer,127,1942,98.03,53.37,3.74,28,Fixed,12.55,351
+1192,Graphic Design,PeoplePerHour,Expert,Middle East,Crypto,58,7068,80.56,79.11,4.84,88,Fixed,13.69,61
+1193,Data Entry,Toptal,Beginner,UK,Crypto,287,3143,72.22,67.29,4.17,79,Hourly,68.39,466
+1194,SEO,Upwork,Beginner,USA,Mobile Banking,106,1023,17.88,81.05,4.08,33,Fixed,18.26,15
+1195,Customer Support,Upwork,Beginner,Australia,PayPal,121,4074,82.62,52.29,3.54,47,Hourly,13.16,349
+1196,Web Development,Fiverr,Expert,Middle East,PayPal,108,9684,74.92,93.58,3.74,22,Hourly,40.65,149
+1197,App Development,Freelancer,Intermediate,Australia,Mobile Banking,49,6665,78.19,98.67,4.79,29,Fixed,69.08,141
+1198,Data Entry,Upwork,Beginner,Middle East,PayPal,118,4379,26.95,98.44,4.33,34,Fixed,28.37,115
+1199,SEO,Toptal,Intermediate,Australia,Crypto,35,6765,90.83,87.48,4.57,42,Fixed,39.52,311
+1200,Digital Marketing,Toptal,Expert,Europe,Mobile Banking,168,1527,14.24,56.5,3.91,52,Fixed,12.79,64
+1201,Graphic Design,Upwork,Beginner,Australia,Mobile Banking,193,5739,29.09,87.91,4.26,47,Fixed,41.44,428
+1202,Graphic Design,Toptal,Beginner,Asia,Bank Transfer,297,9012,67.99,51.23,3.5,74,Hourly,50.43,309
+1203,App Development,Toptal,Expert,USA,PayPal,199,7379,69.0,51.11,4.41,51,Hourly,49.96,193
+1204,Graphic Design,Fiverr,Beginner,Middle East,Bank Transfer,296,6494,34.77,66.18,3.86,45,Hourly,33.27,341
+1205,Web Development,Freelancer,Intermediate,USA,Crypto,265,8547,71.64,74.43,3.89,75,Hourly,32.09,429
+1206,SEO,Fiverr,Expert,Asia,Mobile Banking,211,51,41.85,88.52,4.3,34,Fixed,17.46,160
+1207,SEO,Freelancer,Expert,Asia,Crypto,56,8512,5.02,84.16,4.87,21,Hourly,35.68,462
+1208,App Development,Toptal,Beginner,Australia,PayPal,53,6893,20.45,72.3,3.13,13,Fixed,16.96,305
+1209,SEO,Freelancer,Expert,Canada,Bank Transfer,10,9105,88.85,63.68,4.65,54,Fixed,63.66,360
+1210,Customer Support,Toptal,Beginner,Canada,PayPal,228,6022,26.16,99.86,3.58,25,Fixed,77.64,277
+1211,App Development,Toptal,Beginner,Asia,Crypto,27,7953,15.73,71.31,3.89,21,Fixed,77.91,295
+1212,SEO,Fiverr,Expert,Canada,Bank Transfer,149,5155,69.81,72.57,3.04,1,Fixed,70.55,38
+1213,Web Development,Fiverr,Beginner,Middle East,PayPal,114,7752,46.87,58.18,3.6,58,Hourly,52.06,360
+1214,Content Writing,PeoplePerHour,Intermediate,UK,Crypto,216,2964,80.68,89.74,4.01,69,Fixed,59.06,168
+1215,Data Entry,Upwork,Intermediate,Europe,PayPal,45,5206,86.84,84.68,3.11,86,Fixed,29.96,458
+1216,Data Entry,PeoplePerHour,Beginner,Australia,Mobile Banking,176,8348,85.37,61.04,3.98,71,Hourly,54.15,67
+1217,SEO,PeoplePerHour,Intermediate,UK,Bank Transfer,190,3218,34.74,54.12,4.85,13,Hourly,41.9,6
+1218,Digital Marketing,Freelancer,Beginner,Canada,Bank Transfer,218,2649,53.03,84.02,3.21,52,Hourly,43.74,84
+1219,Graphic Design,Toptal,Intermediate,Australia,Bank Transfer,56,5766,66.76,82.73,4.53,23,Fixed,63.04,198
+1220,Web Development,Toptal,Expert,UK,Mobile Banking,74,2285,35.59,63.66,3.82,21,Fixed,29.73,131
+1221,Digital Marketing,Toptal,Beginner,USA,Bank Transfer,200,2849,8.9,97.54,4.31,6,Fixed,32.26,75
+1222,Customer Support,Upwork,Beginner,Canada,Mobile Banking,155,7063,52.09,57.55,3.52,20,Fixed,74.72,249
+1223,Digital Marketing,Freelancer,Beginner,UK,Bank Transfer,113,9753,6.22,71.62,3.32,76,Hourly,13.94,346
+1224,SEO,Freelancer,Beginner,Middle East,PayPal,122,5523,95.31,97.18,3.32,40,Hourly,43.99,442
+1225,Web Development,Toptal,Beginner,USA,PayPal,99,68,80.68,70.99,3.14,9,Hourly,73.9,208
+1226,Data Entry,PeoplePerHour,Beginner,Canada,PayPal,260,908,23.24,81.93,3.37,50,Hourly,52.73,83
+1227,Graphic Design,Upwork,Expert,Europe,PayPal,48,9658,32.32,69.88,4.33,28,Hourly,48.25,222
+1228,Data Entry,PeoplePerHour,Expert,Asia,Mobile Banking,71,5430,98.37,63.71,4.76,11,Hourly,27.48,252
+1229,Digital Marketing,Fiverr,Intermediate,Canada,Crypto,160,3082,40.49,99.2,4.63,75,Fixed,34.03,409
+1230,Customer Support,Freelancer,Beginner,Middle East,Crypto,210,4555,79.45,70.47,4.37,88,Fixed,69.64,30
+1231,Graphic Design,Freelancer,Intermediate,Europe,PayPal,278,9668,47.45,94.7,3.22,56,Hourly,49.15,354
+1232,Content Writing,PeoplePerHour,Intermediate,Europe,Crypto,159,5839,87.09,61.5,3.58,79,Hourly,46.03,200
+1233,Digital Marketing,Upwork,Expert,Europe,Crypto,183,2581,71.86,60.66,3.62,35,Hourly,16.97,452
+1234,Data Entry,Freelancer,Intermediate,Australia,Bank Transfer,64,7521,7.18,51.56,3.5,81,Hourly,11.12,51
+1235,Data Entry,PeoplePerHour,Expert,Australia,Mobile Banking,78,4769,32.97,82.58,4.03,25,Fixed,77.46,367
+1236,SEO,Upwork,Intermediate,Asia,PayPal,53,4913,58.01,68.43,4.07,19,Fixed,36.39,71
+1237,Data Entry,PeoplePerHour,Beginner,Europe,Crypto,275,4088,92.99,93.22,3.71,31,Fixed,52.22,20
+1238,Web Development,Upwork,Intermediate,Asia,Crypto,77,2502,14.69,73.66,3.71,81,Hourly,15.58,15
+1239,Digital Marketing,Toptal,Expert,USA,PayPal,200,2896,62.11,98.41,4.66,50,Hourly,57.82,434
+1240,App Development,Upwork,Expert,Europe,Bank Transfer,183,8114,33.71,59.28,4.58,87,Hourly,75.28,15
+1241,App Development,Fiverr,Expert,UK,PayPal,52,6672,89.49,93.43,3.62,63,Fixed,50.3,401
+1242,Customer Support,Toptal,Intermediate,Europe,Bank Transfer,76,8946,77.69,88.83,4.83,47,Fixed,18.83,174
+1243,Graphic Design,PeoplePerHour,Intermediate,Australia,Crypto,117,9583,40.12,88.55,4.91,1,Fixed,50.72,311
+1244,Data Entry,Toptal,Expert,Australia,Mobile Banking,249,3512,20.87,92.24,3.65,58,Hourly,63.64,411
+1245,SEO,Toptal,Beginner,UK,Bank Transfer,163,1209,6.09,88.05,3.71,10,Fixed,38.45,337
+1246,SEO,PeoplePerHour,Beginner,UK,Bank Transfer,278,4676,64.01,81.31,4.01,8,Fixed,71.59,77
+1247,Data Entry,PeoplePerHour,Intermediate,Canada,PayPal,272,7106,43.58,56.56,4.88,26,Hourly,55.41,439
+1248,Web Development,Fiverr,Intermediate,USA,Crypto,34,3772,34.9,51.63,4.75,34,Fixed,72.95,239
+1249,SEO,PeoplePerHour,Expert,USA,Mobile Banking,101,3610,98.62,96.04,3.21,19,Hourly,53.65,36
+1250,App Development,Freelancer,Intermediate,USA,PayPal,255,6167,49.28,80.83,3.79,78,Hourly,19.19,231
+1251,Graphic Design,Freelancer,Intermediate,Middle East,PayPal,11,6639,76.23,89.83,4.11,72,Hourly,31.68,399
+1252,Digital Marketing,Fiverr,Expert,Australia,Mobile Banking,96,9957,21.85,74.08,4.01,1,Fixed,24.13,212
+1253,Content Writing,Upwork,Expert,USA,Crypto,117,6899,6.28,55.87,3.39,48,Fixed,73.62,192
+1254,Web Development,Upwork,Intermediate,Canada,Mobile Banking,263,2293,44.67,56.26,4.72,25,Hourly,63.23,59
+1255,Customer Support,Freelancer,Beginner,Canada,PayPal,111,8227,68.24,84.28,4.35,24,Fixed,57.35,188
+1256,Customer Support,PeoplePerHour,Intermediate,USA,PayPal,67,1810,53.13,71.52,4.68,47,Hourly,31.07,266
+1257,SEO,Fiverr,Beginner,UK,Bank Transfer,275,5492,89.59,60.03,4.72,84,Fixed,22.88,125
+1258,Digital Marketing,Upwork,Beginner,Canada,Mobile Banking,203,7729,46.23,74.58,4.5,69,Hourly,62.95,202
+1259,Content Writing,Upwork,Beginner,Asia,Mobile Banking,150,2725,34.55,53.21,3.88,67,Hourly,43.19,321
+1260,Customer Support,Toptal,Expert,UK,Mobile Banking,65,7174,92.02,79.1,4.22,32,Fixed,25.81,381
+1261,Data Entry,Freelancer,Expert,Asia,PayPal,124,5831,43.65,63.45,3.32,17,Hourly,53.16,31
+1262,Data Entry,PeoplePerHour,Expert,Australia,Crypto,65,3286,30.62,89.88,4.35,61,Hourly,12.82,402
+1263,Graphic Design,Fiverr,Intermediate,Middle East,PayPal,30,5948,14.28,65.52,3.36,69,Hourly,32.83,311
+1264,Content Writing,Upwork,Expert,Canada,Bank Transfer,119,8285,80.36,72.76,4.39,11,Hourly,42.8,260
+1265,Data Entry,Toptal,Expert,UK,PayPal,44,8730,83.38,50.58,3.46,38,Hourly,20.36,386
+1266,Customer Support,Freelancer,Intermediate,Asia,PayPal,120,4326,8.16,53.62,3.24,68,Fixed,78.93,411
+1267,Data Entry,Freelancer,Intermediate,USA,PayPal,140,4773,39.07,69.62,3.33,19,Fixed,24.64,345
+1268,App Development,Fiverr,Beginner,Asia,Bank Transfer,281,9198,76.24,74.0,3.0,87,Hourly,19.12,470
+1269,SEO,Upwork,Intermediate,Asia,Mobile Banking,25,5694,94.91,80.0,4.44,17,Fixed,24.25,93
+1270,Customer Support,Fiverr,Intermediate,Australia,Crypto,35,1165,40.89,64.58,4.46,13,Hourly,63.83,327
+1271,Customer Support,Fiverr,Expert,Europe,Crypto,251,1831,87.85,84.75,4.03,1,Hourly,39.79,99
+1272,Customer Support,Toptal,Beginner,Europe,Bank Transfer,31,8892,42.4,93.01,3.32,2,Hourly,49.58,284
+1273,Graphic Design,Freelancer,Beginner,USA,Mobile Banking,77,1926,22.05,88.99,3.17,82,Hourly,11.47,460
+1274,Digital Marketing,PeoplePerHour,Intermediate,Australia,Mobile Banking,101,5413,5.33,51.98,3.04,66,Hourly,12.41,314
+1275,Customer Support,Freelancer,Expert,Australia,Bank Transfer,165,8582,36.37,74.03,3.33,68,Fixed,41.21,24
+1276,Data Entry,Freelancer,Expert,Australia,PayPal,291,3425,40.96,55.25,4.78,16,Fixed,67.17,405
+1277,App Development,Toptal,Expert,Australia,Mobile Banking,216,2800,94.79,62.1,3.48,4,Fixed,71.97,493
+1278,Customer Support,PeoplePerHour,Expert,Europe,Crypto,80,9596,24.58,99.33,3.71,57,Fixed,16.07,352
+1279,Web Development,Upwork,Intermediate,UK,Bank Transfer,147,3326,41.31,57.12,3.21,73,Fixed,47.69,356
+1280,Web Development,PeoplePerHour,Expert,Australia,Crypto,38,498,7.39,74.94,3.44,85,Fixed,73.93,116
+1281,Digital Marketing,Upwork,Beginner,UK,PayPal,8,5587,77.54,80.91,4.04,23,Hourly,37.16,198
+1282,Content Writing,PeoplePerHour,Beginner,Asia,Bank Transfer,102,4222,91.94,85.12,4.22,2,Fixed,68.07,278
+1283,Graphic Design,Fiverr,Intermediate,Asia,Crypto,221,9039,27.59,77.98,3.49,67,Hourly,19.36,69
+1284,App Development,PeoplePerHour,Expert,Australia,Crypto,32,3546,45.75,50.49,3.12,87,Hourly,75.48,334
+1285,SEO,Toptal,Expert,Canada,PayPal,205,2232,16.6,66.32,3.78,26,Fixed,62.6,78
+1286,App Development,Upwork,Expert,Middle East,Bank Transfer,277,3376,48.4,75.89,3.47,7,Fixed,75.89,423
+1287,Web Development,Freelancer,Expert,Canada,Mobile Banking,131,8887,17.67,54.39,3.44,44,Hourly,57.36,353
+1288,Web Development,Toptal,Intermediate,Asia,Mobile Banking,206,769,54.72,67.53,4.92,33,Hourly,35.44,13
+1289,Digital Marketing,Upwork,Expert,Middle East,Crypto,13,1572,74.79,51.66,4.23,64,Hourly,75.67,28
+1290,Content Writing,Upwork,Intermediate,Canada,PayPal,291,6806,57.57,53.93,4.11,36,Hourly,29.29,143
+1291,Content Writing,Freelancer,Expert,Australia,Crypto,92,6677,28.3,69.85,3.83,4,Hourly,33.25,476
+1292,Digital Marketing,Fiverr,Expert,UK,PayPal,23,1119,38.61,56.64,3.86,23,Fixed,59.06,342
+1293,Customer Support,Toptal,Beginner,Middle East,Mobile Banking,85,5612,65.66,78.38,4.08,25,Fixed,63.57,9
+1294,App Development,Freelancer,Intermediate,Europe,Crypto,111,7799,61.03,84.47,4.39,85,Hourly,75.06,46
+1295,Web Development,Freelancer,Beginner,USA,Crypto,234,4937,17.99,90.03,4.4,74,Hourly,24.34,259
+1296,App Development,Fiverr,Intermediate,Middle East,PayPal,116,4724,85.27,60.01,3.34,27,Hourly,65.86,11
+1297,App Development,Toptal,Expert,Middle East,Bank Transfer,224,2206,50.14,58.37,4.0,51,Hourly,61.7,297
+1298,Graphic Design,Freelancer,Expert,Europe,PayPal,127,7994,20.43,55.23,3.82,79,Hourly,14.47,225
+1299,Web Development,Fiverr,Intermediate,Australia,Bank Transfer,248,4189,16.67,81.82,4.74,81,Hourly,37.11,259
+1300,Content Writing,Toptal,Beginner,Canada,Mobile Banking,182,5679,96.73,85.32,4.26,69,Hourly,29.79,83
+1301,SEO,PeoplePerHour,Intermediate,Canada,Crypto,69,7137,31.75,51.58,4.07,80,Hourly,31.31,347
+1302,App Development,Upwork,Intermediate,Asia,Crypto,7,5128,91.32,96.81,3.23,23,Fixed,78.81,347
+1303,Web Development,Fiverr,Expert,UK,PayPal,211,6455,44.01,52.6,4.21,9,Hourly,54.99,5
+1304,App Development,Upwork,Beginner,Australia,PayPal,25,6921,41.66,77.06,3.23,33,Hourly,60.24,397
+1305,Graphic Design,PeoplePerHour,Intermediate,Europe,Mobile Banking,297,682,71.59,85.45,3.67,35,Fixed,78.36,246
+1306,Customer Support,Freelancer,Beginner,Australia,Mobile Banking,19,2249,5.94,93.55,3.29,50,Hourly,36.4,34
+1307,Data Entry,Freelancer,Beginner,Australia,Bank Transfer,210,5403,37.12,85.7,4.38,24,Hourly,66.13,174
+1308,Web Development,Toptal,Intermediate,Canada,Mobile Banking,206,2960,33.75,90.09,3.41,88,Hourly,40.42,441
+1309,Digital Marketing,Fiverr,Beginner,Europe,Mobile Banking,124,672,87.47,66.97,3.78,24,Hourly,70.87,64
+1310,Data Entry,Fiverr,Expert,USA,Mobile Banking,141,6123,55.27,90.74,4.79,19,Fixed,22.65,146
+1311,App Development,Toptal,Expert,Middle East,Mobile Banking,299,410,39.63,54.01,3.41,39,Hourly,76.34,56
+1312,Digital Marketing,Upwork,Expert,Canada,Bank Transfer,29,6415,30.28,94.74,4.02,61,Hourly,25.31,192
+1313,Digital Marketing,Freelancer,Expert,Europe,Mobile Banking,238,8451,61.1,77.38,3.84,25,Hourly,32.84,12
+1314,Digital Marketing,Freelancer,Beginner,UK,Bank Transfer,125,9172,19.41,90.86,3.04,25,Fixed,62.93,391
+1315,Web Development,Fiverr,Expert,Middle East,PayPal,94,3993,28.39,72.62,4.59,27,Hourly,37.56,17
+1316,Content Writing,Fiverr,Intermediate,Middle East,Crypto,204,4919,32.89,82.18,3.14,32,Hourly,52.57,245
+1317,App Development,Toptal,Expert,Canada,PayPal,184,8178,62.75,76.32,3.95,11,Fixed,41.12,162
+1318,Data Entry,PeoplePerHour,Intermediate,Asia,Mobile Banking,80,927,40.46,86.58,4.12,69,Fixed,61.97,342
+1319,Graphic Design,Upwork,Intermediate,UK,Crypto,141,4845,53.05,54.08,4.26,33,Fixed,25.98,113
+1320,Content Writing,PeoplePerHour,Expert,Canada,Mobile Banking,142,7841,66.79,53.02,4.38,19,Fixed,14.09,499
+1321,App Development,PeoplePerHour,Expert,Australia,Mobile Banking,14,2573,95.85,62.36,3.51,16,Hourly,31.0,281
+1322,Customer Support,Fiverr,Beginner,Asia,PayPal,205,6320,77.66,57.98,3.02,11,Fixed,43.2,232
+1323,Customer Support,Fiverr,Intermediate,Europe,Mobile Banking,223,8633,43.5,93.59,4.45,75,Fixed,21.76,165
+1324,Web Development,Fiverr,Expert,UK,PayPal,64,6673,76.09,60.96,4.07,74,Fixed,34.84,467
+1325,Digital Marketing,PeoplePerHour,Beginner,Middle East,Mobile Banking,151,5138,95.22,98.79,4.67,69,Hourly,38.0,321
+1326,Graphic Design,Upwork,Expert,Canada,Bank Transfer,111,7614,52.44,66.84,4.64,87,Fixed,14.02,25
+1327,App Development,Fiverr,Expert,Middle East,Crypto,42,7116,44.0,59.11,4.69,55,Hourly,50.83,125
+1328,Data Entry,Freelancer,Expert,UK,PayPal,138,6595,12.41,89.48,3.97,25,Hourly,71.9,312
+1329,App Development,Upwork,Intermediate,Middle East,PayPal,225,2371,89.78,82.94,3.67,77,Fixed,20.62,483
+1330,Content Writing,Freelancer,Expert,Canada,Crypto,137,8199,28.41,74.91,4.58,34,Hourly,51.85,280
+1331,Customer Support,Upwork,Beginner,Asia,PayPal,57,8175,11.08,77.77,3.9,12,Fixed,56.53,285
+1332,SEO,Fiverr,Expert,Canada,Crypto,66,8380,56.03,85.96,3.37,88,Fixed,39.35,465
+1333,Content Writing,Toptal,Expert,USA,Bank Transfer,27,8344,85.36,61.42,4.71,21,Hourly,59.08,390
+1334,App Development,Fiverr,Beginner,Middle East,Mobile Banking,48,5383,43.63,99.82,4.77,29,Hourly,38.75,282
+1335,Graphic Design,PeoplePerHour,Beginner,USA,Bank Transfer,50,8725,79.39,98.74,3.93,51,Hourly,45.32,138
+1336,App Development,PeoplePerHour,Intermediate,Asia,Mobile Banking,151,7908,84.46,82.52,3.15,23,Hourly,10.51,100
+1337,App Development,Upwork,Intermediate,USA,Crypto,220,4369,48.17,59.98,3.78,33,Fixed,58.42,391
+1338,Web Development,PeoplePerHour,Intermediate,Middle East,Bank Transfer,51,5439,61.14,84.01,4.61,8,Hourly,56.29,10
+1339,Data Entry,Fiverr,Intermediate,UK,Mobile Banking,28,1898,55.72,53.61,4.8,42,Hourly,12.69,381
+1340,Graphic Design,Freelancer,Beginner,Australia,Crypto,149,3255,94.22,51.53,3.41,77,Hourly,35.78,215
+1341,App Development,Fiverr,Expert,Asia,Mobile Banking,93,2211,73.92,62.88,3.13,69,Hourly,78.53,29
+1342,Digital Marketing,Upwork,Expert,Canada,PayPal,178,1514,92.91,73.13,4.75,41,Fixed,39.45,93
+1343,Data Entry,PeoplePerHour,Expert,Europe,PayPal,68,693,25.9,93.41,3.78,74,Fixed,45.14,115
+1344,Content Writing,Freelancer,Intermediate,Asia,Crypto,123,5401,34.47,86.36,4.08,63,Hourly,73.7,499
+1345,Graphic Design,Toptal,Beginner,USA,Mobile Banking,227,4603,11.74,87.14,4.94,14,Hourly,60.21,270
+1346,Content Writing,Freelancer,Beginner,UK,PayPal,160,6568,52.49,71.27,3.13,88,Fixed,50.74,439
+1347,Customer Support,Freelancer,Beginner,Middle East,Bank Transfer,182,5773,88.02,67.3,4.3,62,Fixed,65.85,290
+1348,App Development,Fiverr,Expert,UK,Mobile Banking,60,7996,36.05,68.55,3.15,75,Fixed,70.51,38
+1349,Content Writing,Toptal,Intermediate,UK,Mobile Banking,63,660,17.19,99.38,3.75,46,Fixed,41.98,23
+1350,Content Writing,Upwork,Beginner,Middle East,PayPal,224,4352,11.5,52.01,4.61,67,Hourly,43.26,263
+1351,Web Development,Upwork,Intermediate,Europe,PayPal,189,1593,47.51,93.35,3.87,53,Hourly,37.02,42
+1352,Content Writing,Freelancer,Beginner,Middle East,Crypto,51,1516,20.58,78.93,4.99,52,Fixed,77.67,169
+1353,Digital Marketing,Freelancer,Intermediate,Europe,Mobile Banking,106,9158,37.88,71.93,4.12,7,Fixed,58.8,339
+1354,Digital Marketing,PeoplePerHour,Beginner,Middle East,Bank Transfer,48,6286,82.9,86.26,3.64,81,Hourly,15.83,168
+1355,Data Entry,Toptal,Intermediate,USA,PayPal,19,1231,41.48,74.33,3.44,84,Hourly,70.41,302
+1356,App Development,Freelancer,Beginner,Europe,Mobile Banking,240,2196,62.94,93.67,3.7,54,Fixed,43.64,25
+1357,SEO,PeoplePerHour,Beginner,USA,PayPal,55,2322,52.71,95.04,3.75,11,Hourly,14.81,179
+1358,Customer Support,Toptal,Intermediate,Asia,Crypto,38,9093,73.26,71.09,3.14,25,Fixed,48.48,471
+1359,Content Writing,Upwork,Intermediate,Europe,Mobile Banking,128,4586,19.84,63.84,3.74,59,Hourly,39.2,149
+1360,Content Writing,PeoplePerHour,Expert,Europe,Mobile Banking,81,769,92.44,79.62,3.93,88,Hourly,71.44,132
+1361,Graphic Design,Toptal,Intermediate,Middle East,Crypto,127,4730,66.15,95.62,4.45,66,Fixed,24.28,142
+1362,Web Development,PeoplePerHour,Beginner,Europe,Bank Transfer,209,3522,30.74,60.53,4.31,27,Hourly,67.85,163
+1363,SEO,Freelancer,Beginner,USA,PayPal,232,3692,16.71,81.15,4.42,83,Fixed,49.04,100
+1364,Data Entry,Fiverr,Intermediate,Asia,Crypto,74,113,19.22,81.58,3.02,58,Hourly,13.82,62
+1365,Customer Support,Upwork,Expert,Middle East,Mobile Banking,234,609,79.35,86.66,3.44,11,Fixed,78.03,92
+1366,SEO,Freelancer,Intermediate,Canada,Crypto,25,7496,60.87,56.58,4.32,55,Fixed,45.88,206
+1367,Content Writing,Freelancer,Beginner,Asia,Mobile Banking,112,1783,41.17,85.79,3.97,19,Fixed,30.36,474
+1368,Graphic Design,Toptal,Beginner,Asia,Crypto,245,8911,36.63,95.45,3.01,39,Hourly,42.86,432
+1369,App Development,PeoplePerHour,Expert,USA,Bank Transfer,255,3944,86.3,58.98,4.61,85,Fixed,70.05,310
+1370,Web Development,Upwork,Intermediate,Asia,Mobile Banking,139,1592,88.1,61.88,4.55,86,Fixed,31.34,71
+1371,App Development,Freelancer,Beginner,Canada,Crypto,94,9513,60.22,98.57,4.1,70,Hourly,23.49,59
+1372,Data Entry,Toptal,Beginner,UK,Bank Transfer,83,2465,54.83,59.05,3.13,11,Hourly,19.03,440
+1373,SEO,Upwork,Beginner,Middle East,Bank Transfer,181,6140,82.56,92.72,4.53,14,Fixed,30.85,28
+1374,Data Entry,PeoplePerHour,Intermediate,UK,PayPal,106,5267,76.19,74.61,4.17,60,Fixed,64.6,18
+1375,Content Writing,Freelancer,Intermediate,Middle East,Mobile Banking,116,5437,43.03,62.36,4.56,36,Hourly,43.01,478
+1376,Data Entry,Freelancer,Expert,Asia,PayPal,185,5229,12.86,93.54,4.5,41,Hourly,25.92,72
+1377,App Development,Freelancer,Beginner,Middle East,Bank Transfer,108,8237,78.01,72.27,4.61,2,Hourly,21.63,393
+1378,Graphic Design,Upwork,Beginner,USA,PayPal,20,6693,21.03,75.74,4.04,57,Fixed,33.29,356
+1379,Data Entry,Upwork,Expert,Canada,PayPal,100,7710,6.56,67.96,3.28,60,Hourly,75.79,393
+1380,Digital Marketing,Upwork,Beginner,Middle East,Crypto,297,2508,85.11,79.65,4.34,20,Fixed,34.01,245
+1381,Graphic Design,Upwork,Expert,Canada,PayPal,150,9405,59.93,58.18,4.24,22,Fixed,79.17,480
+1382,SEO,Toptal,Expert,Middle East,Bank Transfer,6,6078,89.71,69.55,4.48,4,Fixed,43.97,472
+1383,Web Development,Fiverr,Beginner,Canada,PayPal,123,5497,51.04,98.47,3.34,56,Hourly,22.54,312
+1384,Web Development,Toptal,Intermediate,UK,Mobile Banking,98,4609,93.02,62.91,3.39,58,Hourly,72.38,437
+1385,Content Writing,Freelancer,Intermediate,USA,Crypto,195,2799,38.63,82.84,4.78,88,Hourly,42.22,439
+1386,Content Writing,Toptal,Intermediate,Middle East,Bank Transfer,7,1998,73.83,66.26,4.5,65,Fixed,59.68,323
+1387,Digital Marketing,PeoplePerHour,Intermediate,Australia,PayPal,115,6356,33.59,88.67,4.82,88,Fixed,78.86,452
+1388,SEO,Upwork,Beginner,Canada,Mobile Banking,181,8301,5.11,56.54,4.52,58,Hourly,13.51,86
+1389,App Development,PeoplePerHour,Expert,Canada,Bank Transfer,261,8142,41.08,98.49,4.19,30,Hourly,16.77,358
+1390,Web Development,PeoplePerHour,Expert,Australia,PayPal,26,8574,75.09,72.69,4.31,76,Fixed,60.43,182
+1391,Web Development,Freelancer,Beginner,USA,Crypto,224,239,19.25,61.8,4.78,19,Fixed,29.73,196
+1392,Web Development,Upwork,Intermediate,Canada,PayPal,177,6058,52.96,53.67,4.16,62,Fixed,22.9,243
+1393,App Development,PeoplePerHour,Expert,USA,Bank Transfer,228,7532,25.17,58.49,4.26,68,Fixed,12.76,327
+1394,Web Development,Freelancer,Beginner,Canada,Bank Transfer,69,345,12.09,75.99,3.31,79,Hourly,11.53,464
+1395,Data Entry,Upwork,Beginner,Asia,Bank Transfer,281,8418,63.66,66.85,3.95,84,Fixed,64.21,384
+1396,SEO,Fiverr,Intermediate,Europe,Mobile Banking,253,8218,95.44,91.44,4.43,44,Fixed,19.41,117
+1397,Graphic Design,Freelancer,Beginner,Asia,PayPal,264,849,34.52,71.54,3.54,84,Hourly,42.74,497
+1398,Graphic Design,Toptal,Expert,Canada,PayPal,135,9047,60.16,62.44,3.4,61,Hourly,52.41,395
+1399,Digital Marketing,Upwork,Expert,Europe,PayPal,117,7053,95.59,80.86,3.63,21,Hourly,39.98,418
+1400,Data Entry,PeoplePerHour,Beginner,Middle East,Crypto,290,9984,66.8,85.34,3.48,10,Hourly,11.9,371
+1401,Web Development,PeoplePerHour,Expert,USA,Mobile Banking,291,8456,68.95,58.35,3.43,30,Fixed,64.85,461
+1402,Web Development,Toptal,Beginner,Canada,Mobile Banking,215,2750,22.0,58.38,3.85,24,Fixed,10.74,495
+1403,Content Writing,Toptal,Expert,UK,Crypto,24,8838,51.8,51.83,4.82,48,Fixed,63.33,81
+1404,Content Writing,PeoplePerHour,Intermediate,UK,Mobile Banking,219,9959,39.87,86.82,4.01,55,Fixed,72.53,457
+1405,Digital Marketing,Upwork,Expert,Australia,Crypto,255,9597,49.74,83.19,3.38,52,Fixed,40.3,246
+1406,Web Development,Freelancer,Intermediate,UK,Bank Transfer,275,9534,81.08,73.73,3.15,38,Hourly,47.49,462
+1407,Digital Marketing,Toptal,Intermediate,Europe,Bank Transfer,184,5923,48.77,92.21,4.39,67,Hourly,43.39,233
+1408,Data Entry,Toptal,Beginner,UK,Mobile Banking,198,4764,10.97,90.28,3.77,8,Fixed,37.24,416
+1409,Graphic Design,Toptal,Intermediate,UK,Bank Transfer,83,6541,91.03,79.27,4.64,29,Hourly,72.12,466
+1410,Web Development,Fiverr,Expert,UK,Bank Transfer,184,8383,56.76,93.41,4.32,10,Fixed,72.58,481
+1411,SEO,Upwork,Expert,Canada,Bank Transfer,167,2889,92.83,60.29,4.59,69,Fixed,33.51,364
+1412,App Development,Upwork,Intermediate,Australia,PayPal,206,3563,59.37,55.6,3.54,75,Fixed,53.05,152
+1413,Data Entry,Upwork,Beginner,USA,Bank Transfer,18,9956,11.62,63.49,4.38,68,Fixed,74.88,271
+1414,Web Development,Upwork,Intermediate,Australia,PayPal,250,1185,57.52,52.85,3.53,49,Fixed,77.34,391
+1415,App Development,Upwork,Expert,Europe,Crypto,18,6407,59.7,76.56,4.88,58,Hourly,45.63,34
+1416,SEO,PeoplePerHour,Expert,Canada,Crypto,103,2297,25.36,96.83,4.27,35,Hourly,41.7,212
+1417,Content Writing,Toptal,Intermediate,Middle East,Crypto,37,6598,49.75,51.97,3.65,50,Fixed,29.51,210
+1418,Digital Marketing,PeoplePerHour,Intermediate,Canada,Crypto,261,4566,48.65,56.11,3.54,40,Fixed,77.12,429
+1419,Content Writing,Fiverr,Intermediate,Asia,Crypto,38,4152,64.17,72.61,3.38,12,Hourly,20.0,138
+1420,Graphic Design,Freelancer,Expert,UK,Bank Transfer,23,1598,29.66,96.69,4.39,85,Fixed,50.59,188
+1421,Content Writing,Toptal,Expert,UK,Bank Transfer,156,6582,60.27,65.81,3.44,16,Fixed,29.78,299
+1422,Web Development,Fiverr,Expert,Europe,Bank Transfer,264,4561,27.89,75.36,4.19,78,Fixed,29.53,394
+1423,SEO,PeoplePerHour,Beginner,Middle East,Crypto,168,2881,47.41,52.08,3.53,85,Hourly,38.35,251
+1424,Content Writing,Freelancer,Expert,Asia,Crypto,81,9248,16.66,57.42,4.32,48,Fixed,79.92,394
+1425,Web Development,Fiverr,Expert,Canada,PayPal,141,3112,8.54,99.33,4.63,1,Fixed,13.85,149
+1426,Graphic Design,Freelancer,Beginner,Middle East,Mobile Banking,212,8025,35.46,98.26,4.56,65,Hourly,50.5,340
+1427,App Development,Fiverr,Beginner,USA,Bank Transfer,246,3102,31.08,50.25,4.52,22,Fixed,15.78,218
+1428,SEO,PeoplePerHour,Beginner,Australia,Mobile Banking,71,7260,43.66,97.59,3.38,15,Fixed,20.82,81
+1429,Content Writing,Freelancer,Beginner,Canada,Crypto,120,3589,96.39,81.96,3.18,84,Hourly,40.77,189
+1430,Digital Marketing,Fiverr,Beginner,Middle East,Crypto,206,576,54.61,93.4,4.4,67,Hourly,45.73,233
+1431,Digital Marketing,PeoplePerHour,Beginner,USA,Crypto,254,2857,57.55,72.74,3.74,14,Fixed,28.12,175
+1432,SEO,Toptal,Intermediate,USA,Mobile Banking,282,9437,94.45,75.78,3.86,73,Hourly,32.15,231
+1433,Digital Marketing,PeoplePerHour,Intermediate,Asia,PayPal,116,1803,92.51,74.44,3.06,19,Fixed,16.09,357
+1434,Content Writing,PeoplePerHour,Intermediate,Asia,Crypto,238,9914,88.99,83.34,3.52,40,Fixed,31.23,477
+1435,Content Writing,Toptal,Intermediate,Australia,PayPal,180,6932,14.31,56.98,3.07,4,Hourly,77.66,62
+1436,SEO,PeoplePerHour,Expert,USA,PayPal,147,1704,65.26,51.5,4.76,33,Fixed,76.13,434
+1437,Content Writing,Toptal,Beginner,Europe,Bank Transfer,36,4891,81.77,65.4,3.49,43,Hourly,33.44,428
+1438,App Development,Toptal,Expert,USA,Mobile Banking,185,4091,84.38,85.23,4.11,37,Hourly,49.96,494
+1439,Web Development,Toptal,Beginner,Middle East,Crypto,71,5074,59.9,60.09,3.08,66,Hourly,73.67,236
+1440,Graphic Design,Fiverr,Beginner,Asia,PayPal,8,9089,6.66,83.67,4.33,27,Fixed,10.43,32
+1441,App Development,Freelancer,Expert,Europe,Mobile Banking,290,9109,97.5,98.5,3.65,45,Hourly,66.75,212
+1442,App Development,Fiverr,Intermediate,Asia,Mobile Banking,273,9015,49.86,54.7,4.8,81,Fixed,76.39,59
+1443,Digital Marketing,Toptal,Expert,Asia,Crypto,240,8784,42.39,83.63,4.78,50,Hourly,16.39,378
+1444,Web Development,Freelancer,Expert,Asia,Bank Transfer,281,4467,42.52,72.19,3.65,63,Hourly,21.3,1
+1445,SEO,Freelancer,Beginner,USA,Bank Transfer,45,9027,45.29,93.41,4.8,6,Fixed,77.25,396
+1446,Customer Support,Toptal,Beginner,UK,PayPal,125,4685,28.01,58.86,4.99,67,Fixed,47.63,449
+1447,Digital Marketing,Freelancer,Beginner,USA,Bank Transfer,279,2933,36.1,84.63,4.65,67,Hourly,10.99,56
+1448,Web Development,Freelancer,Intermediate,Asia,Bank Transfer,235,5934,98.61,91.91,4.69,59,Fixed,28.03,426
+1449,Content Writing,Fiverr,Expert,Europe,Bank Transfer,90,498,39.98,97.23,3.5,13,Fixed,41.5,300
+1450,SEO,Freelancer,Expert,USA,Mobile Banking,67,3360,55.04,84.16,4.15,21,Hourly,58.5,286
+1451,Customer Support,Toptal,Intermediate,Asia,Crypto,196,4635,85.59,74.86,3.13,64,Hourly,61.32,137
+1452,SEO,Upwork,Expert,Asia,Mobile Banking,297,8158,55.11,80.89,3.19,37,Fixed,79.68,278
+1453,Customer Support,Upwork,Expert,USA,Mobile Banking,35,4459,35.82,93.45,5.0,80,Hourly,30.13,213
+1454,Customer Support,Upwork,Beginner,USA,Crypto,150,7923,54.76,78.53,3.65,85,Hourly,47.68,238
+1455,Digital Marketing,Toptal,Intermediate,Europe,Mobile Banking,111,6101,15.84,51.52,4.5,48,Hourly,47.33,284
+1456,Content Writing,Upwork,Beginner,USA,PayPal,114,8626,17.35,96.55,4.61,56,Fixed,38.4,480
+1457,Digital Marketing,Fiverr,Intermediate,Australia,PayPal,280,344,70.94,84.48,4.72,44,Fixed,21.84,30
+1458,Customer Support,Toptal,Beginner,Middle East,Mobile Banking,214,1288,92.16,83.83,5.0,13,Fixed,78.42,205
+1459,Customer Support,Toptal,Expert,Australia,Bank Transfer,143,8091,73.94,60.78,3.48,4,Hourly,69.73,457
+1460,Data Entry,Toptal,Intermediate,Europe,Mobile Banking,90,2866,12.09,82.94,3.08,73,Fixed,44.88,273
+1461,Web Development,Freelancer,Intermediate,UK,Bank Transfer,48,1148,43.28,69.69,3.82,33,Hourly,52.23,10
+1462,Data Entry,Freelancer,Beginner,Australia,Mobile Banking,86,1787,5.24,82.56,3.26,37,Hourly,25.91,358
+1463,Web Development,Freelancer,Intermediate,Asia,PayPal,68,2239,53.56,55.33,3.04,53,Hourly,48.07,46
+1464,Graphic Design,PeoplePerHour,Expert,Middle East,Bank Transfer,59,2815,23.35,82.89,3.72,24,Hourly,58.65,2
+1465,App Development,Fiverr,Expert,Canada,PayPal,78,1272,87.47,99.97,4.57,89,Fixed,46.06,129
+1466,SEO,Toptal,Expert,Middle East,Mobile Banking,133,6599,14.91,52.41,4.13,51,Hourly,79.32,437
+1467,Digital Marketing,Toptal,Beginner,Australia,Crypto,260,460,5.14,98.86,3.63,41,Hourly,52.79,71
+1468,Graphic Design,Freelancer,Intermediate,Canada,Bank Transfer,235,2995,47.86,70.35,4.31,29,Fixed,35.97,158
+1469,Graphic Design,Toptal,Beginner,Europe,Bank Transfer,141,8152,19.77,93.54,3.46,59,Hourly,64.05,391
+1470,SEO,Toptal,Expert,Middle East,Mobile Banking,116,4836,75.11,89.12,3.03,40,Fixed,21.93,426
+1471,SEO,Upwork,Intermediate,UK,Mobile Banking,150,9119,92.39,78.35,4.53,51,Fixed,36.92,431
+1472,Web Development,Toptal,Expert,Canada,Bank Transfer,37,836,8.98,86.92,4.25,50,Fixed,34.29,129
+1473,Data Entry,PeoplePerHour,Intermediate,Canada,Crypto,264,2159,42.58,93.93,4.52,36,Hourly,40.23,21
+1474,Content Writing,Freelancer,Intermediate,Middle East,Mobile Banking,91,5496,99.7,70.21,3.08,79,Fixed,64.72,379
+1475,Web Development,Fiverr,Beginner,Australia,Mobile Banking,269,5885,74.6,66.35,4.67,60,Hourly,43.89,388
+1476,Content Writing,Fiverr,Intermediate,Canada,Mobile Banking,34,2036,95.55,83.38,4.24,18,Fixed,65.58,134
+1477,Graphic Design,Upwork,Expert,Europe,Crypto,236,8176,20.59,90.39,4.13,20,Fixed,50.35,19
+1478,Content Writing,Fiverr,Intermediate,Middle East,Bank Transfer,80,9120,26.03,88.11,4.25,5,Fixed,33.94,219
+1479,Data Entry,Fiverr,Expert,Europe,PayPal,133,7350,19.71,89.89,4.73,18,Fixed,66.7,332
+1480,Web Development,Freelancer,Beginner,Middle East,Mobile Banking,275,9849,33.73,71.78,4.17,40,Hourly,26.68,129
+1481,Customer Support,Freelancer,Expert,Europe,Crypto,93,5759,73.82,90.89,4.16,1,Hourly,25.71,31
+1482,SEO,PeoplePerHour,Intermediate,Australia,Bank Transfer,174,2453,20.67,56.01,4.98,19,Fixed,45.32,89
+1483,Customer Support,Upwork,Expert,Middle East,Bank Transfer,132,8312,54.8,77.22,4.51,87,Fixed,28.26,258
+1484,Data Entry,Fiverr,Expert,Asia,Crypto,178,4451,30.57,50.29,3.88,26,Fixed,10.64,424
+1485,App Development,PeoplePerHour,Intermediate,UK,Mobile Banking,30,6751,83.77,66.23,4.41,29,Hourly,55.38,297
+1486,Data Entry,Upwork,Expert,Australia,PayPal,65,3345,5.63,68.32,3.78,59,Fixed,45.78,332
+1487,App Development,Fiverr,Intermediate,Europe,Mobile Banking,71,9003,26.2,69.81,3.46,63,Fixed,41.19,248
+1488,Web Development,Fiverr,Beginner,Middle East,Bank Transfer,30,2171,62.5,84.77,4.19,83,Hourly,77.69,468
+1489,SEO,Freelancer,Expert,Australia,PayPal,87,3632,14.19,69.43,4.86,62,Fixed,49.98,172
+1490,Data Entry,Toptal,Beginner,Europe,Mobile Banking,64,4247,49.3,72.43,4.86,48,Fixed,70.44,356
+1491,Customer Support,Upwork,Expert,USA,PayPal,43,9871,46.44,61.88,3.68,62,Fixed,19.76,470
+1492,App Development,Fiverr,Expert,USA,Crypto,127,5750,85.99,68.66,4.06,18,Fixed,49.84,454
+1493,SEO,Upwork,Beginner,Canada,Mobile Banking,296,7282,64.41,61.36,3.42,66,Hourly,70.76,400
+1494,Digital Marketing,PeoplePerHour,Expert,UK,Bank Transfer,281,4338,65.77,53.66,4.99,27,Hourly,50.82,475
+1495,Digital Marketing,PeoplePerHour,Expert,USA,Bank Transfer,286,1135,95.42,80.17,4.96,6,Hourly,60.26,383
+1496,Digital Marketing,Toptal,Beginner,Asia,PayPal,195,8695,98.32,83.41,4.3,70,Fixed,36.04,46
+1497,Content Writing,Fiverr,Expert,Europe,Crypto,296,2671,67.07,80.97,4.61,59,Fixed,16.47,477
+1498,Data Entry,Freelancer,Intermediate,Australia,Mobile Banking,156,8860,54.59,73.17,4.43,6,Hourly,42.05,196
+1499,Web Development,Fiverr,Expert,Middle East,Crypto,237,8878,62.75,68.99,4.19,31,Fixed,37.61,407
+1500,Customer Support,Upwork,Expert,Australia,Crypto,150,2398,41.33,93.17,3.11,56,Fixed,70.69,454
+1501,Web Development,PeoplePerHour,Expert,Canada,PayPal,275,4924,98.81,75.95,3.91,54,Hourly,27.08,378
+1502,Content Writing,Upwork,Beginner,Australia,PayPal,138,3086,71.98,73.96,4.35,85,Hourly,77.67,33
+1503,Web Development,Toptal,Intermediate,USA,Mobile Banking,175,2399,32.65,51.28,4.36,41,Fixed,77.07,253
+1504,App Development,PeoplePerHour,Intermediate,Australia,Bank Transfer,32,5793,10.49,67.06,3.75,18,Hourly,27.33,247
+1505,Digital Marketing,Freelancer,Expert,USA,Mobile Banking,140,4482,9.25,69.01,4.88,87,Fixed,34.36,433
+1506,Customer Support,PeoplePerHour,Beginner,USA,Crypto,245,6225,24.47,69.94,3.33,23,Hourly,72.69,41
+1507,Data Entry,Fiverr,Beginner,UK,PayPal,232,7315,27.13,79.01,4.0,36,Hourly,77.66,288
+1508,Web Development,Fiverr,Intermediate,Canada,Crypto,291,6153,44.43,76.68,4.38,25,Fixed,41.04,122
+1509,Web Development,PeoplePerHour,Beginner,Asia,PayPal,38,7408,25.41,80.4,4.39,7,Fixed,32.47,26
+1510,Graphic Design,Toptal,Expert,Asia,Bank Transfer,6,9313,64.94,88.24,4.3,82,Hourly,46.83,461
+1511,Graphic Design,Fiverr,Expert,Europe,Crypto,199,2081,25.07,90.65,3.55,20,Fixed,58.14,58
+1512,Graphic Design,Fiverr,Beginner,Asia,PayPal,98,1299,22.85,85.91,3.31,5,Fixed,29.14,146
+1513,Data Entry,Freelancer,Expert,USA,Mobile Banking,139,9537,49.77,97.78,4.27,18,Fixed,61.55,495
+1514,Digital Marketing,PeoplePerHour,Intermediate,Middle East,Mobile Banking,208,6858,89.42,50.91,4.2,33,Hourly,13.62,114
+1515,SEO,Fiverr,Expert,Canada,Mobile Banking,254,3606,49.49,59.79,3.36,79,Fixed,13.45,485
+1516,Digital Marketing,Toptal,Beginner,Europe,Crypto,151,8569,44.32,50.38,4.41,35,Fixed,37.04,459
+1517,Customer Support,Upwork,Intermediate,Asia,PayPal,258,9038,59.92,82.37,3.91,65,Hourly,34.74,386
+1518,Digital Marketing,PeoplePerHour,Expert,Asia,PayPal,180,5349,29.44,94.9,4.34,63,Hourly,32.09,198
+1519,Data Entry,Freelancer,Intermediate,Middle East,PayPal,129,3144,38.58,62.17,4.67,85,Hourly,44.37,127
+1520,App Development,Fiverr,Beginner,Australia,Crypto,255,3027,25.31,96.35,3.34,72,Hourly,32.45,375
+1521,App Development,Toptal,Expert,Canada,PayPal,135,1012,59.32,53.01,3.04,71,Fixed,23.46,482
+1522,Data Entry,PeoplePerHour,Expert,Middle East,Bank Transfer,54,5775,71.25,96.72,4.56,41,Fixed,31.66,152
+1523,Graphic Design,Toptal,Intermediate,Asia,Crypto,97,5539,69.0,67.58,4.22,50,Hourly,78.24,368
+1524,Web Development,Toptal,Expert,Canada,Bank Transfer,224,1318,29.21,55.07,4.4,30,Hourly,38.78,270
+1525,Content Writing,Freelancer,Expert,Canada,Bank Transfer,24,5329,79.07,74.29,4.68,38,Fixed,41.13,338
+1526,Content Writing,PeoplePerHour,Expert,Asia,Mobile Banking,209,422,29.32,62.84,4.61,35,Fixed,50.36,443
+1527,SEO,Fiverr,Expert,Australia,Crypto,95,4430,19.28,64.24,4.92,66,Hourly,78.83,82
+1528,Web Development,Freelancer,Beginner,Australia,PayPal,177,7667,38.23,65.36,4.07,46,Fixed,26.91,22
+1529,SEO,Fiverr,Expert,Asia,Bank Transfer,193,9846,61.79,90.15,3.98,8,Fixed,57.69,10
+1530,Graphic Design,Upwork,Intermediate,Canada,Crypto,6,6329,18.49,76.96,3.8,68,Hourly,60.12,186
+1531,SEO,Toptal,Beginner,Middle East,PayPal,172,145,66.57,65.57,3.31,37,Hourly,52.51,468
+1532,Web Development,Upwork,Intermediate,UK,Mobile Banking,28,4419,86.99,80.52,4.15,85,Hourly,16.2,115
+1533,Customer Support,Toptal,Intermediate,USA,Crypto,72,3991,32.85,85.81,3.55,13,Hourly,57.38,161
+1534,Web Development,Freelancer,Intermediate,Australia,Crypto,198,7071,47.77,63.63,4.84,73,Fixed,14.49,102
+1535,Content Writing,Fiverr,Beginner,Asia,Crypto,88,9442,26.69,70.68,4.17,45,Hourly,51.73,242
+1536,App Development,Fiverr,Beginner,UK,PayPal,211,3994,39.32,56.09,4.19,29,Fixed,61.77,6
+1537,Graphic Design,Freelancer,Beginner,Australia,Bank Transfer,53,5918,7.09,59.06,3.71,41,Fixed,24.77,361
+1538,Customer Support,PeoplePerHour,Expert,Canada,Bank Transfer,36,5446,95.61,84.06,3.1,56,Fixed,68.91,171
+1539,Data Entry,Upwork,Intermediate,Asia,Crypto,174,8091,44.51,59.07,3.06,88,Hourly,12.12,255
+1540,Customer Support,Upwork,Beginner,UK,Crypto,133,181,79.94,76.26,3.85,16,Fixed,69.07,246
+1541,Customer Support,Fiverr,Intermediate,Asia,PayPal,106,7340,18.55,85.45,3.17,12,Hourly,42.22,474
+1542,SEO,Fiverr,Beginner,Middle East,Mobile Banking,39,9632,82.17,55.34,4.21,66,Hourly,25.23,191
+1543,Content Writing,Fiverr,Beginner,Middle East,Crypto,203,6566,86.71,78.37,4.76,62,Hourly,19.36,113
+1544,SEO,Freelancer,Beginner,Europe,Crypto,81,9391,72.97,62.83,4.77,19,Fixed,76.73,22
+1545,SEO,PeoplePerHour,Intermediate,USA,Mobile Banking,18,5956,90.8,98.15,4.32,30,Hourly,15.09,357
+1546,Data Entry,Upwork,Expert,USA,Crypto,135,857,20.88,74.18,3.42,16,Hourly,23.94,313
+1547,Graphic Design,Toptal,Beginner,Australia,Bank Transfer,242,100,50.27,90.3,4.73,88,Fixed,34.35,275
+1548,Web Development,Freelancer,Beginner,USA,Crypto,284,5327,63.91,77.51,4.77,13,Hourly,53.42,410
+1549,Digital Marketing,Upwork,Beginner,Asia,Bank Transfer,69,105,61.64,52.17,3.39,69,Fixed,48.14,372
+1550,SEO,PeoplePerHour,Expert,Asia,PayPal,142,3714,86.8,81.66,4.47,23,Fixed,18.8,443
+1551,Digital Marketing,Freelancer,Intermediate,Europe,PayPal,273,793,25.49,97.57,3.57,62,Hourly,30.28,135
+1552,Graphic Design,Upwork,Intermediate,Middle East,Bank Transfer,232,6080,21.69,80.08,4.61,31,Hourly,26.71,356
+1553,Digital Marketing,Freelancer,Intermediate,UK,Bank Transfer,205,8181,29.07,90.96,4.99,53,Hourly,24.95,194
+1554,SEO,Upwork,Intermediate,UK,Mobile Banking,146,129,89.7,94.21,3.06,17,Hourly,38.78,257
+1555,Data Entry,Upwork,Beginner,Middle East,Bank Transfer,104,3016,94.4,61.4,4.79,49,Fixed,59.28,277
+1556,Digital Marketing,PeoplePerHour,Expert,Canada,Bank Transfer,142,3778,59.11,60.6,4.25,49,Hourly,25.22,69
+1557,Graphic Design,Toptal,Beginner,Middle East,Crypto,172,4586,52.63,80.55,4.95,67,Hourly,35.67,358
+1558,Graphic Design,PeoplePerHour,Expert,UK,Mobile Banking,103,175,62.51,70.55,3.93,26,Fixed,37.36,359
+1559,App Development,Upwork,Intermediate,Australia,Bank Transfer,70,5863,63.55,91.99,4.69,13,Hourly,78.35,35
+1560,App Development,Freelancer,Expert,Europe,Bank Transfer,51,8460,21.18,95.0,3.12,38,Hourly,76.83,107
+1561,Data Entry,PeoplePerHour,Beginner,Middle East,Bank Transfer,235,997,70.21,67.67,3.67,22,Hourly,66.01,23
+1562,Digital Marketing,Toptal,Beginner,Canada,Crypto,150,644,47.97,61.84,3.13,85,Hourly,26.92,139
+1563,Digital Marketing,Upwork,Intermediate,Australia,Crypto,211,5080,54.15,89.03,4.95,29,Hourly,14.76,464
+1564,App Development,PeoplePerHour,Beginner,Middle East,Crypto,150,190,7.88,63.74,4.63,45,Fixed,32.18,21
+1565,Web Development,PeoplePerHour,Beginner,Australia,PayPal,156,3105,77.63,91.13,4.71,46,Hourly,28.68,338
+1566,Content Writing,PeoplePerHour,Expert,Middle East,Crypto,283,9872,84.37,71.19,4.88,39,Fixed,45.41,328
+1567,Graphic Design,PeoplePerHour,Beginner,Australia,Bank Transfer,144,9118,63.85,83.38,3.17,69,Fixed,64.44,203
+1568,Web Development,Freelancer,Intermediate,Asia,Crypto,155,4255,76.13,54.78,3.77,78,Fixed,70.08,379
+1569,Graphic Design,Toptal,Intermediate,USA,Crypto,25,5221,54.66,81.19,3.14,82,Fixed,69.14,223
+1570,Customer Support,Toptal,Beginner,Australia,Mobile Banking,258,7832,63.74,72.59,3.42,68,Hourly,35.18,222
+1571,Customer Support,Upwork,Intermediate,Asia,Bank Transfer,68,2710,42.48,79.33,3.46,39,Hourly,58.11,80
+1572,Web Development,Fiverr,Expert,USA,Crypto,222,6906,80.23,58.4,3.94,20,Fixed,31.9,406
+1573,Customer Support,Freelancer,Expert,UK,PayPal,76,6139,49.49,86.84,3.54,77,Hourly,14.26,329
+1574,App Development,Upwork,Beginner,USA,Mobile Banking,166,5368,69.62,93.14,3.2,68,Hourly,59.11,190
+1575,App Development,Upwork,Beginner,Australia,Crypto,134,2602,64.04,60.84,3.33,35,Fixed,10.69,285
+1576,Content Writing,PeoplePerHour,Expert,Europe,Mobile Banking,73,3661,71.72,54.79,3.29,8,Hourly,38.64,146
+1577,Web Development,Fiverr,Intermediate,Europe,Mobile Banking,229,8112,79.6,51.18,4.95,52,Fixed,33.06,281
+1578,Graphic Design,Fiverr,Beginner,UK,PayPal,250,1090,53.71,82.1,4.52,40,Fixed,58.54,473
+1579,Digital Marketing,Freelancer,Beginner,Australia,PayPal,72,8556,82.24,80.35,4.94,36,Hourly,63.64,383
+1580,Graphic Design,Fiverr,Intermediate,USA,PayPal,111,7653,52.24,77.33,3.88,6,Hourly,31.29,10
+1581,SEO,Upwork,Beginner,Europe,Bank Transfer,113,4222,95.88,61.6,3.56,86,Hourly,66.81,275
+1582,App Development,Fiverr,Intermediate,Middle East,Mobile Banking,107,2996,76.5,69.55,4.6,70,Fixed,30.57,373
+1583,Data Entry,Fiverr,Intermediate,Canada,Crypto,145,3286,21.26,79.72,3.65,73,Fixed,41.24,55
+1584,Data Entry,Toptal,Intermediate,Australia,PayPal,69,3730,83.81,74.84,3.6,16,Hourly,60.89,172
+1585,App Development,Upwork,Intermediate,Asia,PayPal,138,4857,57.4,99.39,3.47,46,Fixed,58.5,451
+1586,SEO,Fiverr,Intermediate,Asia,Mobile Banking,203,1587,98.52,56.82,3.26,59,Hourly,79.12,302
+1587,Data Entry,Fiverr,Expert,Middle East,Mobile Banking,159,3922,73.29,84.76,3.51,38,Hourly,25.76,203
+1588,Customer Support,PeoplePerHour,Intermediate,Middle East,Mobile Banking,83,1917,13.02,70.22,3.71,18,Hourly,56.36,344
+1589,App Development,Fiverr,Expert,Australia,Crypto,254,1211,42.52,71.41,4.35,12,Hourly,52.68,247
+1590,Data Entry,Fiverr,Intermediate,Canada,Bank Transfer,91,3970,54.14,85.88,3.13,54,Fixed,74.06,313
+1591,App Development,Toptal,Beginner,Europe,Bank Transfer,245,5743,84.71,84.62,3.42,47,Hourly,20.95,265
+1592,Content Writing,Upwork,Expert,Canada,PayPal,92,3932,74.29,99.56,4.62,1,Fixed,62.63,21
+1593,Digital Marketing,Freelancer,Beginner,UK,Bank Transfer,176,7788,40.09,56.42,3.29,15,Fixed,49.78,326
+1594,Digital Marketing,Upwork,Intermediate,USA,Crypto,21,8506,67.08,55.21,3.69,80,Fixed,29.23,23
+1595,Graphic Design,PeoplePerHour,Intermediate,USA,Bank Transfer,227,6381,59.81,86.22,4.73,21,Fixed,43.21,193
+1596,SEO,Upwork,Beginner,Middle East,Crypto,298,5232,16.97,78.92,3.31,1,Fixed,33.36,95
+1597,App Development,Fiverr,Intermediate,Europe,PayPal,223,9544,27.31,63.71,3.17,67,Fixed,50.55,468
+1598,Web Development,PeoplePerHour,Beginner,Canada,Mobile Banking,238,9436,37.41,53.97,3.97,12,Hourly,72.23,444
+1599,Graphic Design,Upwork,Intermediate,Middle East,Crypto,252,1576,23.57,54.28,3.6,28,Fixed,49.85,262
+1600,Graphic Design,PeoplePerHour,Intermediate,Australia,Mobile Banking,56,8181,19.26,94.71,4.13,39,Hourly,54.22,71
+1601,App Development,Freelancer,Expert,Middle East,PayPal,19,4444,10.53,59.59,4.61,37,Fixed,46.31,242
+1602,App Development,Upwork,Beginner,Australia,Crypto,116,1208,87.94,66.17,3.27,60,Hourly,13.58,382
+1603,Graphic Design,Fiverr,Intermediate,Australia,Crypto,188,4417,32.45,61.33,4.16,31,Hourly,26.3,37
+1604,Graphic Design,PeoplePerHour,Beginner,UK,Bank Transfer,11,4680,32.58,67.75,4.01,58,Fixed,44.44,404
+1605,Digital Marketing,Toptal,Expert,UK,Crypto,55,3563,24.59,53.47,3.29,11,Hourly,31.72,391
+1606,Web Development,PeoplePerHour,Beginner,Australia,PayPal,245,1194,50.16,75.95,4.25,29,Hourly,22.72,376
+1607,Customer Support,Toptal,Expert,Europe,Mobile Banking,249,118,53.85,53.38,3.55,89,Fixed,45.29,88
+1608,Graphic Design,Fiverr,Beginner,UK,Crypto,190,3767,24.79,90.02,3.98,13,Fixed,32.6,27
+1609,Customer Support,Freelancer,Beginner,UK,PayPal,291,9068,62.81,61.69,3.16,51,Fixed,28.07,91
+1610,Digital Marketing,Toptal,Expert,USA,PayPal,96,9411,73.68,77.0,3.92,54,Fixed,42.48,53
+1611,Graphic Design,Freelancer,Intermediate,Middle East,Crypto,110,9225,40.51,94.0,3.61,19,Fixed,19.33,158
+1612,Data Entry,PeoplePerHour,Intermediate,USA,Bank Transfer,17,9694,60.62,82.54,4.64,58,Fixed,74.94,371
+1613,Graphic Design,Fiverr,Intermediate,Europe,Crypto,150,9281,52.72,76.65,3.11,36,Fixed,70.74,227
+1614,App Development,Toptal,Beginner,UK,Crypto,123,4773,23.58,66.22,3.84,28,Fixed,59.53,472
+1615,SEO,PeoplePerHour,Beginner,Asia,Bank Transfer,207,4263,74.35,66.65,3.92,68,Hourly,17.43,371
+1616,SEO,Upwork,Intermediate,UK,PayPal,145,6463,81.14,83.47,4.45,3,Fixed,64.31,375
+1617,Graphic Design,PeoplePerHour,Beginner,Canada,Crypto,119,3516,66.64,99.71,4.15,89,Hourly,66.56,40
+1618,Content Writing,Freelancer,Beginner,Europe,Bank Transfer,156,3076,35.77,83.09,4.33,41,Fixed,63.74,36
+1619,Data Entry,Fiverr,Intermediate,Asia,Mobile Banking,61,7048,93.05,77.89,4.55,35,Fixed,17.98,124
+1620,Web Development,Fiverr,Expert,Middle East,Mobile Banking,161,2797,48.26,86.53,4.72,76,Fixed,55.07,421
+1621,Graphic Design,PeoplePerHour,Beginner,Middle East,Bank Transfer,137,7321,30.26,73.26,3.63,84,Fixed,68.4,178
+1622,Customer Support,Upwork,Beginner,Asia,PayPal,167,6221,43.78,53.01,4.08,81,Hourly,50.41,331
+1623,Web Development,Freelancer,Beginner,Middle East,Bank Transfer,279,3905,70.75,78.11,4.68,76,Hourly,55.25,36
+1624,Data Entry,PeoplePerHour,Beginner,Asia,PayPal,187,8803,85.36,97.88,4.98,50,Fixed,42.09,100
+1625,Graphic Design,PeoplePerHour,Expert,Europe,Mobile Banking,81,2253,38.87,58.77,4.78,74,Hourly,47.01,30
+1626,Content Writing,Fiverr,Intermediate,Asia,Crypto,48,3469,27.1,84.5,3.74,82,Fixed,12.41,189
+1627,Digital Marketing,Freelancer,Beginner,Asia,Bank Transfer,210,1194,64.52,60.05,3.39,30,Hourly,54.73,145
+1628,Content Writing,Upwork,Intermediate,Canada,Mobile Banking,42,2749,92.52,76.79,3.98,72,Fixed,15.7,89
+1629,App Development,Fiverr,Beginner,Canada,Crypto,26,9793,22.41,54.83,4.48,77,Hourly,40.45,5
+1630,Content Writing,PeoplePerHour,Expert,USA,Mobile Banking,77,610,81.29,72.52,3.99,70,Hourly,30.49,392
+1631,Customer Support,Fiverr,Intermediate,Europe,Bank Transfer,245,1237,50.28,87.81,3.97,54,Hourly,48.18,138
+1632,Digital Marketing,Fiverr,Expert,Europe,Bank Transfer,158,3183,80.95,67.38,4.68,71,Fixed,19.34,94
+1633,App Development,Toptal,Beginner,Canada,Crypto,241,3461,53.03,83.25,3.72,85,Hourly,58.42,118
+1634,Digital Marketing,Fiverr,Expert,Australia,Bank Transfer,9,1739,40.85,89.77,4.72,51,Fixed,65.65,365
+1635,SEO,Fiverr,Expert,Australia,Mobile Banking,225,4457,71.19,96.36,3.81,28,Hourly,21.43,119
+1636,Digital Marketing,Freelancer,Beginner,USA,Crypto,90,2473,90.56,61.73,3.66,64,Fixed,17.3,385
+1637,Graphic Design,Fiverr,Beginner,Australia,Crypto,181,1419,35.42,69.97,3.91,85,Fixed,20.19,122
+1638,Web Development,Upwork,Intermediate,Australia,Mobile Banking,263,6057,48.77,57.62,4.52,21,Fixed,71.4,284
+1639,SEO,PeoplePerHour,Beginner,Australia,PayPal,224,6778,26.79,99.62,3.25,88,Hourly,46.97,365
+1640,SEO,Freelancer,Intermediate,UK,Crypto,42,8822,22.42,96.35,3.39,27,Hourly,42.71,376
+1641,Web Development,Fiverr,Expert,USA,PayPal,146,1026,78.9,77.0,4.9,27,Fixed,17.47,178
+1642,Customer Support,Upwork,Expert,Canada,Mobile Banking,239,4322,24.06,92.1,3.35,77,Fixed,55.47,489
+1643,SEO,PeoplePerHour,Intermediate,Australia,Mobile Banking,207,6547,80.37,76.05,4.14,50,Fixed,70.76,324
+1644,Digital Marketing,Freelancer,Beginner,Middle East,Crypto,298,168,45.78,81.18,4.16,29,Hourly,67.97,406
+1645,Content Writing,Upwork,Beginner,Asia,Bank Transfer,176,1592,99.53,54.46,3.98,39,Hourly,53.82,483
+1646,Data Entry,Fiverr,Expert,UK,Crypto,129,4912,23.75,87.76,4.29,57,Hourly,15.27,6
+1647,Customer Support,Toptal,Intermediate,Australia,Bank Transfer,69,3093,13.83,56.39,3.46,37,Hourly,17.87,383
+1648,Digital Marketing,Toptal,Expert,Asia,PayPal,285,1022,12.17,91.3,4.11,64,Hourly,13.45,311
+1649,App Development,Freelancer,Expert,Asia,Bank Transfer,276,965,84.36,89.1,3.74,48,Fixed,28.02,126
+1650,App Development,Upwork,Beginner,UK,Crypto,248,6671,46.59,85.44,4.32,22,Fixed,19.5,76
+1651,Content Writing,PeoplePerHour,Intermediate,USA,Bank Transfer,19,9679,5.3,51.81,3.28,30,Fixed,28.2,233
+1652,Customer Support,Upwork,Expert,Middle East,Mobile Banking,230,636,88.1,65.16,4.14,28,Fixed,36.95,317
+1653,Customer Support,Toptal,Beginner,Middle East,PayPal,135,8592,88.31,63.16,3.37,23,Hourly,76.01,73
+1654,Content Writing,Freelancer,Expert,Middle East,Mobile Banking,199,5675,81.61,68.01,3.56,4,Hourly,52.73,483
+1655,Customer Support,Fiverr,Expert,Australia,Mobile Banking,297,7404,28.59,54.38,3.44,3,Fixed,68.45,463
+1656,SEO,Upwork,Beginner,UK,Mobile Banking,213,4641,40.41,96.85,3.37,61,Hourly,59.72,270
+1657,Graphic Design,Toptal,Beginner,Middle East,Mobile Banking,117,2612,75.77,77.69,4.65,4,Fixed,17.88,308
+1658,Graphic Design,PeoplePerHour,Intermediate,Asia,Bank Transfer,248,6889,51.49,65.28,3.57,65,Hourly,61.51,426
+1659,Customer Support,Freelancer,Expert,Asia,Mobile Banking,170,8514,19.61,69.85,4.85,12,Hourly,29.26,466
+1660,SEO,Fiverr,Intermediate,Europe,Bank Transfer,195,2977,28.07,72.36,4.94,13,Fixed,54.74,468
+1661,SEO,Upwork,Beginner,Europe,Mobile Banking,261,6245,97.4,80.03,4.14,34,Fixed,33.87,119
+1662,Web Development,PeoplePerHour,Beginner,UK,Crypto,222,6326,19.35,75.78,3.29,59,Fixed,79.84,34
+1663,Web Development,Fiverr,Expert,Australia,Mobile Banking,279,4340,73.98,95.97,3.75,73,Hourly,28.45,206
+1664,Data Entry,Toptal,Intermediate,Australia,Crypto,56,5932,50.41,74.85,4.6,31,Hourly,29.54,495
+1665,Data Entry,Toptal,Intermediate,USA,Bank Transfer,162,6496,76.12,99.61,3.73,71,Hourly,75.15,269
+1666,Data Entry,PeoplePerHour,Expert,USA,PayPal,59,5217,67.81,92.57,3.17,13,Fixed,11.73,92
+1667,Data Entry,Toptal,Expert,Middle East,Bank Transfer,18,1572,46.72,60.43,4.11,54,Fixed,58.77,452
+1668,Content Writing,Freelancer,Intermediate,Canada,PayPal,273,9073,38.62,96.53,4.69,2,Fixed,60.77,377
+1669,Content Writing,PeoplePerHour,Beginner,Asia,PayPal,94,611,76.66,55.82,4.59,33,Hourly,68.55,176
+1670,Web Development,Toptal,Beginner,USA,Mobile Banking,31,3590,35.7,90.87,3.35,50,Hourly,78.21,273
+1671,Graphic Design,Upwork,Expert,Australia,PayPal,93,1529,79.84,69.03,4.35,7,Fixed,78.29,178
+1672,SEO,Toptal,Intermediate,Asia,Bank Transfer,45,6727,69.59,93.9,3.44,18,Fixed,14.57,128
+1673,App Development,Freelancer,Intermediate,Canada,Mobile Banking,272,1255,59.88,93.4,3.44,51,Fixed,67.53,124
+1674,Graphic Design,Fiverr,Intermediate,USA,PayPal,142,6710,40.04,90.3,4.75,8,Hourly,55.24,26
+1675,Digital Marketing,Fiverr,Beginner,UK,Bank Transfer,10,8898,24.48,89.5,3.5,55,Hourly,55.31,63
+1676,Content Writing,Toptal,Beginner,Europe,PayPal,246,639,72.49,65.23,3.53,76,Fixed,18.98,59
+1677,Data Entry,Fiverr,Intermediate,USA,PayPal,166,4376,13.68,54.05,3.0,43,Fixed,55.51,218
+1678,Data Entry,Toptal,Intermediate,USA,Mobile Banking,184,4954,97.2,70.15,4.74,59,Fixed,78.77,216
+1679,Digital Marketing,Freelancer,Expert,UK,Mobile Banking,10,9613,97.98,58.68,4.59,30,Hourly,73.83,168
+1680,Graphic Design,Fiverr,Expert,Australia,Bank Transfer,275,6471,17.37,84.75,4.25,59,Hourly,40.74,148
+1681,Data Entry,Upwork,Intermediate,Middle East,Mobile Banking,276,3809,14.87,67.3,4.5,9,Hourly,12.8,269
+1682,Graphic Design,Toptal,Intermediate,UK,Mobile Banking,160,8989,44.21,98.78,3.3,68,Fixed,35.36,115
+1683,SEO,Fiverr,Beginner,Middle East,Crypto,89,8705,96.55,82.05,3.92,39,Fixed,67.85,244
+1684,Digital Marketing,Freelancer,Intermediate,USA,Crypto,204,8995,43.03,91.12,3.7,81,Fixed,59.1,147
+1685,App Development,Freelancer,Expert,Australia,Bank Transfer,14,5986,39.56,56.63,3.19,11,Fixed,42.15,91
+1686,Graphic Design,Upwork,Beginner,Canada,Mobile Banking,142,8824,71.84,93.1,3.97,2,Fixed,13.86,84
+1687,SEO,Freelancer,Expert,USA,Bank Transfer,246,2255,21.98,96.14,4.84,23,Fixed,39.88,86
+1688,Customer Support,Freelancer,Expert,UK,Crypto,205,4164,39.52,74.35,3.08,63,Fixed,42.83,394
+1689,Customer Support,Fiverr,Beginner,Canada,Crypto,160,4077,32.67,80.31,3.58,22,Fixed,75.0,119
+1690,Graphic Design,Toptal,Expert,Europe,Crypto,279,4866,62.15,88.24,3.42,61,Fixed,54.88,449
+1691,Customer Support,PeoplePerHour,Intermediate,Canada,Bank Transfer,229,7238,20.46,58.74,3.48,26,Fixed,31.82,339
+1692,Graphic Design,Freelancer,Expert,UK,Mobile Banking,72,2858,57.13,75.13,4.82,12,Fixed,46.77,23
+1693,Data Entry,Freelancer,Beginner,Asia,PayPal,188,3653,86.47,69.93,3.94,32,Hourly,14.62,374
+1694,Web Development,PeoplePerHour,Beginner,Canada,Mobile Banking,199,3963,53.85,57.32,3.93,9,Fixed,78.08,88
+1695,Customer Support,Freelancer,Beginner,UK,Bank Transfer,46,1469,69.93,68.38,4.52,69,Fixed,35.2,36
+1696,Content Writing,Fiverr,Expert,Asia,Crypto,155,2217,12.15,53.41,3.31,71,Hourly,43.45,341
+1697,Graphic Design,Fiverr,Intermediate,USA,PayPal,88,2194,47.66,51.29,3.97,33,Fixed,34.87,382
+1698,Graphic Design,PeoplePerHour,Beginner,Asia,Bank Transfer,138,2217,14.01,56.76,3.86,24,Hourly,57.78,407
+1699,Graphic Design,Freelancer,Intermediate,Australia,Crypto,34,9802,61.95,98.16,4.19,89,Hourly,56.36,270
+1700,Web Development,Freelancer,Beginner,Europe,Bank Transfer,13,9418,31.7,77.48,5.0,69,Fixed,60.07,11
+1701,SEO,Toptal,Intermediate,Asia,PayPal,174,9510,32.29,98.29,4.54,38,Fixed,28.77,493
+1702,Customer Support,Freelancer,Intermediate,Australia,Crypto,294,5941,12.29,71.62,3.8,11,Hourly,32.1,94
+1703,App Development,Fiverr,Intermediate,Australia,Mobile Banking,172,6586,34.47,65.59,4.66,32,Fixed,18.77,490
+1704,App Development,Upwork,Beginner,Australia,Bank Transfer,149,1216,53.13,75.31,3.34,64,Fixed,55.89,447
+1705,Digital Marketing,Upwork,Expert,Asia,PayPal,232,3625,60.54,71.98,3.06,72,Fixed,12.79,30
+1706,Data Entry,Upwork,Expert,UK,Mobile Banking,80,2891,11.33,55.28,3.41,20,Hourly,51.84,436
+1707,Web Development,Upwork,Expert,UK,PayPal,227,1920,66.89,82.04,3.68,34,Hourly,70.88,349
+1708,SEO,Freelancer,Intermediate,Europe,Bank Transfer,181,2936,51.44,60.8,4.02,42,Fixed,72.36,232
+1709,Graphic Design,Freelancer,Beginner,UK,PayPal,193,209,56.01,80.98,4.23,8,Fixed,41.43,339
+1710,SEO,Toptal,Intermediate,Middle East,Crypto,50,7293,84.12,82.51,4.82,66,Hourly,42.15,327
+1711,Web Development,Freelancer,Beginner,UK,PayPal,21,3813,37.51,57.6,4.02,21,Hourly,15.39,299
+1712,Web Development,Upwork,Intermediate,UK,Bank Transfer,70,1105,21.53,53.07,4.0,79,Fixed,56.95,285
+1713,Web Development,PeoplePerHour,Beginner,UK,Crypto,265,383,57.42,89.04,3.1,70,Fixed,67.49,34
+1714,Digital Marketing,PeoplePerHour,Beginner,USA,PayPal,127,3646,94.78,72.99,3.07,5,Fixed,27.13,20
+1715,Content Writing,Fiverr,Beginner,Europe,PayPal,235,7657,54.2,52.91,4.1,67,Hourly,39.49,110
+1716,Data Entry,Fiverr,Intermediate,Middle East,Crypto,129,9133,84.03,99.74,3.88,43,Hourly,68.72,487
+1717,Digital Marketing,Freelancer,Expert,UK,Mobile Banking,116,1412,76.92,52.89,4.68,16,Fixed,71.4,318
+1718,Digital Marketing,PeoplePerHour,Intermediate,Europe,Mobile Banking,276,975,54.24,84.75,3.32,73,Hourly,27.02,347
+1719,Customer Support,Upwork,Intermediate,Canada,Crypto,85,5569,66.52,99.18,3.05,35,Fixed,48.54,486
+1720,Content Writing,Upwork,Beginner,USA,PayPal,250,2493,43.63,61.96,3.9,83,Fixed,23.47,144
+1721,Digital Marketing,Upwork,Beginner,Asia,Mobile Banking,219,4030,55.41,57.11,3.47,43,Fixed,17.13,11
+1722,Web Development,Freelancer,Expert,UK,Crypto,239,7310,53.19,56.07,3.1,39,Fixed,73.78,243
+1723,Web Development,Freelancer,Expert,Middle East,Bank Transfer,86,1469,72.37,65.16,4.45,10,Fixed,67.44,497
+1724,Customer Support,Toptal,Beginner,USA,PayPal,298,109,43.95,55.05,3.22,74,Hourly,63.2,145
+1725,SEO,Upwork,Expert,Middle East,Bank Transfer,80,2574,14.48,84.61,4.22,20,Hourly,13.41,238
+1726,Graphic Design,Upwork,Expert,Asia,PayPal,19,3847,79.93,53.11,3.56,1,Fixed,69.06,91
+1727,Digital Marketing,Freelancer,Beginner,Asia,Mobile Banking,224,1628,70.06,75.47,3.35,6,Hourly,40.66,315
+1728,Graphic Design,Freelancer,Intermediate,USA,Bank Transfer,234,7251,95.26,99.83,3.76,53,Fixed,33.97,322
+1729,Data Entry,Toptal,Expert,Canada,Bank Transfer,269,757,45.73,90.7,4.6,46,Hourly,48.25,114
+1730,App Development,Toptal,Beginner,Europe,Crypto,268,8215,12.43,80.76,3.78,66,Hourly,16.39,14
+1731,Web Development,Fiverr,Expert,USA,Mobile Banking,114,5327,16.55,65.31,4.5,38,Hourly,62.97,271
+1732,SEO,PeoplePerHour,Expert,Australia,Mobile Banking,204,1830,78.47,81.19,3.25,33,Hourly,50.77,21
+1733,Data Entry,Upwork,Beginner,Asia,PayPal,230,2463,11.44,76.35,4.55,67,Fixed,23.06,117
+1734,Customer Support,Upwork,Expert,Canada,Crypto,189,7800,91.24,71.3,3.47,77,Hourly,23.18,368
+1735,SEO,Toptal,Expert,Asia,Crypto,35,2211,31.76,56.54,4.35,35,Hourly,22.9,94
+1736,App Development,Toptal,Expert,Australia,PayPal,106,8850,90.39,94.33,4.13,79,Hourly,13.99,446
+1737,App Development,Fiverr,Intermediate,Canada,Bank Transfer,263,358,78.48,72.49,4.86,45,Hourly,51.15,414
+1738,Customer Support,PeoplePerHour,Intermediate,Asia,PayPal,103,5489,87.76,59.73,3.77,22,Hourly,68.82,256
+1739,Content Writing,Fiverr,Expert,Australia,PayPal,289,4357,25.33,68.39,3.13,68,Hourly,11.22,330
+1740,Customer Support,PeoplePerHour,Beginner,Australia,PayPal,270,2414,61.59,70.71,3.04,17,Hourly,13.43,261
+1741,Web Development,Upwork,Expert,Asia,Crypto,144,234,13.89,91.38,4.65,5,Hourly,50.09,86
+1742,Data Entry,Fiverr,Expert,Asia,PayPal,290,5374,24.22,86.68,4.05,85,Fixed,67.36,392
+1743,Content Writing,Toptal,Intermediate,Middle East,PayPal,220,5533,34.44,88.47,4.55,57,Fixed,32.87,435
+1744,App Development,Fiverr,Intermediate,USA,PayPal,36,295,75.38,50.55,3.47,88,Fixed,34.47,463
+1745,Data Entry,Fiverr,Intermediate,USA,Mobile Banking,92,8480,7.35,70.81,3.69,40,Hourly,51.74,317
+1746,SEO,Upwork,Expert,Canada,Bank Transfer,67,8233,90.8,74.07,3.06,30,Fixed,29.19,57
+1747,Content Writing,Toptal,Expert,Europe,Bank Transfer,283,5974,11.73,50.96,4.92,42,Fixed,11.86,229
+1748,Content Writing,Toptal,Beginner,Asia,Bank Transfer,78,569,40.77,62.99,4.34,7,Fixed,61.47,107
+1749,Web Development,Freelancer,Expert,Middle East,Bank Transfer,128,3957,12.7,88.01,4.87,71,Hourly,53.8,18
+1750,Customer Support,Freelancer,Expert,USA,Crypto,273,326,78.05,56.86,3.53,88,Fixed,50.65,364
+1751,Graphic Design,Freelancer,Intermediate,USA,Crypto,289,5151,18.42,76.77,4.22,19,Fixed,61.92,140
+1752,SEO,Upwork,Intermediate,Middle East,PayPal,125,8847,89.05,60.76,4.36,41,Fixed,57.27,378
+1753,SEO,Fiverr,Intermediate,UK,Crypto,216,4623,55.37,50.61,3.64,34,Fixed,24.41,159
+1754,Customer Support,Toptal,Intermediate,Middle East,Bank Transfer,152,4653,95.1,62.06,4.7,22,Fixed,34.67,99
+1755,Content Writing,Toptal,Intermediate,USA,Mobile Banking,82,4103,32.58,98.79,4.89,52,Fixed,18.83,264
+1756,Content Writing,Fiverr,Beginner,Europe,PayPal,18,6862,48.16,90.08,4.77,6,Fixed,19.09,237
+1757,Web Development,Toptal,Beginner,UK,PayPal,140,6123,70.95,97.98,4.48,74,Hourly,57.33,237
+1758,Graphic Design,Fiverr,Beginner,Australia,Bank Transfer,284,191,84.03,74.39,3.55,25,Fixed,70.1,48
+1759,SEO,Upwork,Intermediate,Middle East,Bank Transfer,83,1767,45.03,55.49,3.56,66,Fixed,77.39,164
+1760,App Development,Upwork,Intermediate,Australia,Bank Transfer,247,7363,89.78,77.4,4.93,10,Hourly,53.98,286
+1761,Digital Marketing,Upwork,Intermediate,UK,Crypto,197,5764,16.21,72.72,3.02,74,Hourly,22.89,414
+1762,Digital Marketing,Fiverr,Beginner,UK,PayPal,246,449,72.33,92.22,4.43,26,Hourly,17.4,58
+1763,Graphic Design,Fiverr,Intermediate,UK,Bank Transfer,55,4813,38.08,54.9,4.41,5,Hourly,66.9,182
+1764,Data Entry,PeoplePerHour,Beginner,Canada,Mobile Banking,236,9764,14.63,74.41,4.25,86,Hourly,50.51,146
+1765,Web Development,Toptal,Intermediate,Middle East,PayPal,263,9576,41.73,57.5,4.98,68,Fixed,53.28,446
+1766,Graphic Design,Toptal,Expert,Asia,PayPal,222,6305,88.62,66.23,3.62,71,Fixed,64.7,385
+1767,Customer Support,PeoplePerHour,Beginner,Europe,Crypto,210,288,98.15,86.87,3.68,50,Fixed,59.23,300
+1768,Customer Support,PeoplePerHour,Expert,Europe,PayPal,124,3265,42.32,73.8,3.16,17,Hourly,68.41,95
+1769,Digital Marketing,Upwork,Beginner,Australia,Bank Transfer,84,7591,89.21,68.79,3.89,11,Fixed,13.93,42
+1770,Content Writing,PeoplePerHour,Intermediate,Australia,Bank Transfer,46,3697,53.42,69.72,3.52,53,Fixed,62.33,353
+1771,Digital Marketing,Fiverr,Intermediate,Asia,Mobile Banking,25,5458,73.12,72.97,3.69,50,Hourly,69.56,256
+1772,Content Writing,Freelancer,Expert,Australia,PayPal,14,9858,9.31,89.25,4.67,8,Hourly,30.03,212
+1773,Web Development,Fiverr,Intermediate,Middle East,PayPal,157,6390,57.94,94.6,4.87,62,Fixed,54.83,188
+1774,Content Writing,PeoplePerHour,Beginner,USA,Crypto,298,2479,11.67,97.77,3.37,89,Hourly,31.99,130
+1775,Graphic Design,Toptal,Intermediate,Australia,Bank Transfer,90,3702,30.52,89.35,3.75,85,Fixed,77.06,346
+1776,Content Writing,Fiverr,Intermediate,UK,Mobile Banking,117,9963,58.85,65.77,4.86,76,Hourly,12.34,299
+1777,Data Entry,Toptal,Beginner,Australia,Bank Transfer,193,6357,81.68,84.41,3.12,29,Fixed,50.59,390
+1778,Customer Support,Fiverr,Expert,UK,PayPal,116,9514,58.28,71.88,3.18,44,Fixed,21.66,288
+1779,Graphic Design,Toptal,Expert,Canada,PayPal,179,5190,93.94,62.73,3.33,45,Fixed,59.86,136
+1780,Customer Support,Fiverr,Intermediate,USA,Mobile Banking,8,2928,81.98,92.04,4.19,29,Hourly,22.31,29
+1781,Web Development,Toptal,Beginner,USA,PayPal,226,1585,19.84,51.92,3.3,88,Hourly,26.48,145
+1782,Graphic Design,Freelancer,Expert,Asia,Mobile Banking,225,8777,41.95,95.09,4.94,59,Hourly,44.61,311
+1783,Data Entry,Upwork,Expert,Middle East,Mobile Banking,175,6304,68.51,73.07,3.89,15,Hourly,74.04,473
+1784,Web Development,Fiverr,Intermediate,Middle East,Bank Transfer,217,998,94.15,81.86,4.0,70,Fixed,24.82,467
+1785,Digital Marketing,Freelancer,Beginner,Europe,Mobile Banking,257,3991,98.83,82.97,3.49,44,Fixed,20.1,485
+1786,Data Entry,Upwork,Expert,Canada,PayPal,128,9263,77.5,94.76,3.94,36,Fixed,63.13,104
+1787,Web Development,Fiverr,Intermediate,Asia,Crypto,132,6653,59.51,81.83,4.32,84,Fixed,45.04,286
+1788,App Development,Freelancer,Intermediate,Middle East,Crypto,217,8675,76.88,80.7,4.5,57,Hourly,73.82,455
+1789,Content Writing,Freelancer,Intermediate,UK,PayPal,116,1453,30.96,53.33,4.51,64,Hourly,20.26,190
+1790,Graphic Design,Freelancer,Intermediate,Canada,Crypto,89,7869,31.94,75.92,4.16,76,Hourly,55.21,470
+1791,Web Development,PeoplePerHour,Expert,USA,Crypto,8,3561,67.16,57.51,4.81,38,Hourly,26.3,177
+1792,Graphic Design,Toptal,Beginner,UK,Mobile Banking,69,2985,87.82,86.87,4.63,17,Fixed,20.97,344
+1793,Content Writing,Upwork,Intermediate,Asia,Crypto,124,4928,97.13,75.61,4.51,27,Hourly,57.84,238
+1794,Web Development,Toptal,Intermediate,Asia,Crypto,247,7556,37.43,84.01,3.11,17,Hourly,51.56,0
+1795,Digital Marketing,Toptal,Expert,Canada,Crypto,141,7641,80.67,52.08,3.01,63,Hourly,62.84,109
+1796,App Development,Toptal,Intermediate,USA,Bank Transfer,251,5110,85.9,54.24,3.42,11,Fixed,31.66,337
+1797,App Development,Freelancer,Intermediate,Middle East,PayPal,49,3383,64.2,85.82,4.33,64,Fixed,41.36,274
+1798,Data Entry,Toptal,Beginner,UK,Mobile Banking,150,1652,38.02,53.6,3.82,39,Fixed,38.38,370
+1799,Web Development,PeoplePerHour,Intermediate,UK,Crypto,180,8470,63.81,53.56,3.8,2,Hourly,78.89,381
+1800,Content Writing,Fiverr,Expert,USA,PayPal,46,2246,60.52,50.61,4.77,66,Fixed,30.46,233
+1801,Web Development,Freelancer,Beginner,UK,Crypto,93,160,62.62,97.83,4.79,54,Fixed,30.64,63
+1802,Graphic Design,Upwork,Expert,Middle East,Bank Transfer,222,9486,63.83,86.88,4.82,29,Fixed,34.82,243
+1803,SEO,Fiverr,Beginner,Middle East,Bank Transfer,232,6073,85.47,67.66,3.63,45,Fixed,49.52,52
+1804,Customer Support,Fiverr,Beginner,Middle East,Crypto,295,4209,21.16,64.83,4.38,88,Fixed,27.66,261
+1805,Web Development,Fiverr,Intermediate,USA,Crypto,71,3917,39.89,67.49,3.54,88,Fixed,74.07,16
+1806,App Development,Toptal,Intermediate,Australia,Crypto,255,9619,60.67,88.73,3.38,80,Hourly,28.6,301
+1807,App Development,Toptal,Intermediate,Australia,Bank Transfer,45,7691,31.92,83.07,3.37,31,Hourly,72.71,492
+1808,Customer Support,Freelancer,Expert,Asia,Bank Transfer,103,5054,97.92,59.26,3.68,49,Fixed,17.24,455
+1809,App Development,Toptal,Intermediate,Asia,PayPal,83,8254,30.0,58.71,3.86,9,Hourly,55.96,373
+1810,Digital Marketing,Toptal,Intermediate,UK,Mobile Banking,203,7127,49.61,54.92,4.66,27,Fixed,73.49,233
+1811,Web Development,Toptal,Beginner,Middle East,Mobile Banking,151,3311,88.35,83.02,3.24,56,Hourly,21.81,72
+1812,Data Entry,Freelancer,Intermediate,UK,Bank Transfer,110,712,12.61,88.22,4.47,78,Fixed,77.78,356
+1813,Web Development,Freelancer,Intermediate,USA,Mobile Banking,197,8935,82.97,63.25,4.06,45,Hourly,41.7,438
+1814,SEO,PeoplePerHour,Intermediate,UK,Crypto,126,3440,59.25,51.05,3.58,89,Fixed,76.2,90
+1815,App Development,PeoplePerHour,Intermediate,Europe,PayPal,81,9423,8.02,54.11,3.99,43,Fixed,57.38,483
+1816,Graphic Design,PeoplePerHour,Beginner,Australia,Bank Transfer,116,3068,90.78,98.39,3.6,22,Hourly,31.11,5
+1817,App Development,PeoplePerHour,Intermediate,UK,Bank Transfer,174,9746,8.72,64.77,4.19,33,Fixed,23.18,197
+1818,Web Development,Fiverr,Beginner,UK,Mobile Banking,10,1952,53.95,88.46,3.87,27,Hourly,31.26,364
+1819,Digital Marketing,Fiverr,Expert,Canada,Crypto,201,4221,9.66,81.23,3.33,40,Fixed,16.51,195
+1820,Content Writing,PeoplePerHour,Intermediate,UK,PayPal,102,378,11.76,69.1,3.23,26,Fixed,20.07,469
+1821,Web Development,PeoplePerHour,Intermediate,Europe,Mobile Banking,234,9681,89.28,60.28,4.09,83,Fixed,17.33,295
+1822,Web Development,Upwork,Intermediate,Australia,Bank Transfer,172,6345,77.75,56.07,4.8,45,Fixed,39.61,346
+1823,Data Entry,Fiverr,Beginner,Canada,Bank Transfer,269,3896,23.71,80.75,3.69,45,Hourly,65.69,484
+1824,Digital Marketing,Upwork,Intermediate,USA,Mobile Banking,12,274,63.94,88.73,4.47,26,Hourly,19.9,321
+1825,SEO,Upwork,Intermediate,Asia,Crypto,176,2570,80.49,82.2,4.32,70,Hourly,19.12,136
+1826,Content Writing,Toptal,Expert,USA,PayPal,199,8114,89.51,76.52,4.86,67,Hourly,55.04,266
+1827,App Development,Freelancer,Beginner,Australia,PayPal,273,3764,49.49,52.1,4.64,6,Hourly,23.8,403
+1828,Graphic Design,Fiverr,Beginner,Asia,PayPal,23,2457,90.26,98.42,4.13,28,Fixed,16.83,115
+1829,Web Development,PeoplePerHour,Expert,USA,PayPal,53,6733,53.25,89.94,4.31,67,Fixed,21.68,42
+1830,SEO,PeoplePerHour,Beginner,Europe,Crypto,162,860,70.38,64.64,4.8,13,Hourly,74.66,230
+1831,Content Writing,Freelancer,Intermediate,UK,Bank Transfer,70,6802,98.01,99.0,3.8,63,Fixed,67.5,57
+1832,Graphic Design,Fiverr,Intermediate,Australia,Bank Transfer,63,3167,27.42,80.09,3.65,13,Hourly,34.78,205
+1833,SEO,PeoplePerHour,Expert,Asia,PayPal,163,4823,21.01,79.12,3.02,77,Fixed,55.91,409
+1834,Digital Marketing,PeoplePerHour,Beginner,Canada,PayPal,275,3340,37.49,87.4,4.65,1,Hourly,47.61,293
+1835,Digital Marketing,Toptal,Beginner,UK,PayPal,125,2301,20.62,90.59,4.6,40,Fixed,57.4,93
+1836,Content Writing,Upwork,Beginner,USA,Mobile Banking,258,4711,32.0,82.82,3.21,37,Fixed,57.79,35
+1837,App Development,PeoplePerHour,Expert,USA,Mobile Banking,265,4656,75.58,56.4,4.15,31,Hourly,54.01,229
+1838,Customer Support,Fiverr,Intermediate,Canada,Bank Transfer,139,9165,50.36,66.91,3.93,17,Fixed,28.63,226
+1839,Graphic Design,Freelancer,Expert,Europe,Bank Transfer,278,6471,40.63,96.4,3.24,9,Hourly,12.73,182
+1840,Digital Marketing,Toptal,Intermediate,Canada,PayPal,60,3102,40.03,61.23,4.96,64,Fixed,41.89,261
+1841,Customer Support,Fiverr,Expert,Australia,Mobile Banking,100,8257,23.48,68.61,3.43,57,Hourly,72.37,130
+1842,Content Writing,Toptal,Intermediate,Canada,Crypto,118,4501,47.5,71.6,3.13,13,Fixed,49.86,64
+1843,Digital Marketing,Upwork,Beginner,USA,Mobile Banking,32,4975,64.34,71.97,4.19,37,Hourly,68.27,379
+1844,Digital Marketing,PeoplePerHour,Beginner,Europe,Bank Transfer,6,2696,18.22,80.65,4.48,14,Fixed,79.41,447
+1845,SEO,Fiverr,Beginner,Europe,Mobile Banking,216,9343,97.42,97.15,3.06,75,Fixed,21.45,185
+1846,Customer Support,Freelancer,Expert,Middle East,Bank Transfer,72,9332,47.11,62.03,4.32,25,Hourly,58.42,116
+1847,SEO,Upwork,Expert,Canada,PayPal,132,2956,95.06,56.08,4.06,78,Hourly,57.2,185
+1848,Digital Marketing,Upwork,Expert,Australia,Crypto,28,1796,17.79,59.87,3.21,57,Hourly,78.6,273
+1849,Customer Support,Toptal,Beginner,USA,PayPal,257,4359,77.89,94.35,3.35,71,Hourly,78.99,150
+1850,Data Entry,Upwork,Intermediate,UK,PayPal,234,9962,63.68,82.29,4.14,88,Fixed,58.07,351
+1851,Customer Support,Fiverr,Beginner,Europe,Crypto,180,498,82.91,64.3,3.59,42,Fixed,27.05,412
+1852,SEO,Toptal,Beginner,Canada,Crypto,225,3062,62.06,90.8,4.88,42,Fixed,65.9,150
+1853,Graphic Design,Upwork,Intermediate,Middle East,Crypto,40,1618,96.47,93.07,4.64,47,Fixed,17.49,383
+1854,Content Writing,Freelancer,Intermediate,Australia,Bank Transfer,6,3541,64.56,92.33,4.97,44,Fixed,64.65,35
+1855,Content Writing,Fiverr,Intermediate,Australia,PayPal,278,7360,79.54,95.95,3.52,41,Hourly,73.71,325
+1856,App Development,Freelancer,Intermediate,Asia,Bank Transfer,181,6933,88.37,62.61,4.94,3,Hourly,36.8,464
+1857,Graphic Design,Freelancer,Beginner,USA,Crypto,268,6034,72.89,87.75,3.86,1,Hourly,54.14,465
+1858,Graphic Design,Toptal,Expert,Europe,Bank Transfer,190,9289,54.8,73.03,3.7,79,Hourly,40.11,94
+1859,Graphic Design,PeoplePerHour,Beginner,USA,Crypto,19,7138,30.92,92.1,3.1,11,Hourly,40.64,133
+1860,App Development,Toptal,Intermediate,Middle East,Mobile Banking,283,4818,86.18,86.42,3.11,7,Fixed,31.73,161
+1861,Graphic Design,Fiverr,Expert,UK,Crypto,198,1114,50.65,88.82,4.38,12,Fixed,63.35,43
+1862,Web Development,Fiverr,Expert,UK,PayPal,202,3871,63.97,82.81,3.92,38,Hourly,75.53,299
+1863,App Development,Toptal,Beginner,UK,PayPal,68,8809,12.53,58.87,3.45,54,Hourly,75.85,282
+1864,Content Writing,PeoplePerHour,Beginner,Australia,PayPal,294,1486,52.25,77.25,4.23,67,Hourly,22.23,355
+1865,Web Development,Toptal,Beginner,Europe,Bank Transfer,22,6147,71.32,99.23,3.51,53,Fixed,71.23,239
+1866,App Development,Fiverr,Expert,USA,PayPal,68,2533,60.49,96.87,4.16,32,Hourly,61.62,51
+1867,Digital Marketing,PeoplePerHour,Expert,USA,Crypto,255,7769,47.61,52.16,3.72,45,Hourly,27.7,425
+1868,Digital Marketing,Fiverr,Expert,Middle East,Mobile Banking,21,4850,26.23,58.24,4.65,51,Hourly,14.71,280
+1869,Content Writing,PeoplePerHour,Intermediate,UK,PayPal,145,6432,34.42,56.59,4.64,37,Fixed,28.76,73
+1870,Digital Marketing,PeoplePerHour,Intermediate,Europe,Bank Transfer,249,4879,71.56,86.3,3.95,59,Hourly,73.85,294
+1871,Graphic Design,Toptal,Beginner,Europe,Mobile Banking,294,6203,26.3,90.89,3.7,54,Fixed,54.32,237
+1872,App Development,Toptal,Expert,Middle East,PayPal,91,2844,64.06,60.68,3.73,18,Hourly,60.47,166
+1873,Web Development,Toptal,Beginner,Canada,PayPal,203,7662,61.03,75.29,4.61,1,Hourly,28.0,139
+1874,Graphic Design,PeoplePerHour,Expert,Europe,Mobile Banking,165,1147,97.19,92.04,3.66,21,Fixed,60.36,138
+1875,Digital Marketing,PeoplePerHour,Beginner,Europe,PayPal,144,1688,10.77,86.64,3.42,28,Fixed,11.97,368
+1876,SEO,Fiverr,Intermediate,USA,Bank Transfer,80,9900,15.27,77.11,3.17,16,Hourly,36.27,234
+1877,Customer Support,Freelancer,Expert,Middle East,Crypto,23,9367,53.08,79.52,3.93,48,Hourly,53.87,2
+1878,Web Development,Toptal,Intermediate,Europe,Crypto,54,8505,55.08,75.42,3.96,28,Fixed,20.23,255
+1879,Graphic Design,Fiverr,Expert,Europe,Mobile Banking,236,210,8.79,64.88,4.68,22,Fixed,67.61,370
+1880,App Development,Fiverr,Beginner,USA,Crypto,299,9498,83.46,78.25,3.44,83,Hourly,26.45,277
+1881,Content Writing,Upwork,Expert,Europe,PayPal,16,5956,52.0,84.44,3.76,1,Fixed,55.66,3
+1882,Graphic Design,Toptal,Intermediate,USA,PayPal,19,8552,37.93,93.67,4.62,42,Fixed,38.36,391
+1883,SEO,Fiverr,Expert,Canada,Bank Transfer,32,8468,35.29,81.81,4.65,70,Hourly,51.72,269
+1884,Digital Marketing,Upwork,Beginner,Australia,Crypto,296,8514,86.83,88.06,3.77,3,Hourly,17.52,211
+1885,Web Development,Toptal,Expert,Asia,Mobile Banking,254,7131,23.69,58.0,3.92,80,Hourly,11.18,215
+1886,Content Writing,PeoplePerHour,Intermediate,USA,PayPal,102,4462,20.24,73.08,3.61,81,Fixed,73.67,269
+1887,Web Development,Upwork,Beginner,USA,Mobile Banking,43,3207,25.25,50.47,4.87,44,Hourly,28.87,475
+1888,Content Writing,PeoplePerHour,Intermediate,Europe,PayPal,42,2388,64.38,62.33,3.24,27,Hourly,67.38,15
+1889,Customer Support,Freelancer,Expert,USA,PayPal,183,5638,82.04,86.32,4.87,51,Fixed,79.95,415
+1890,App Development,Freelancer,Intermediate,Middle East,Bank Transfer,101,1651,36.44,99.59,4.37,24,Hourly,24.8,63
+1891,Web Development,Freelancer,Expert,UK,Crypto,286,5938,21.48,54.96,4.06,20,Fixed,28.56,238
+1892,Digital Marketing,Freelancer,Beginner,UK,Bank Transfer,242,3768,24.87,70.07,3.07,32,Fixed,56.4,459
+1893,App Development,Fiverr,Intermediate,Canada,Crypto,168,5596,63.82,90.0,3.95,13,Hourly,77.58,15
+1894,App Development,Freelancer,Intermediate,USA,Mobile Banking,101,1975,28.37,60.2,3.82,43,Hourly,74.11,51
+1895,Customer Support,Fiverr,Expert,Middle East,Crypto,261,8808,88.34,77.75,3.32,20,Fixed,45.2,18
+1896,Content Writing,Fiverr,Intermediate,Europe,Mobile Banking,266,2965,14.87,86.65,4.31,2,Hourly,65.66,324
+1897,Data Entry,Toptal,Intermediate,Europe,PayPal,297,6948,8.08,80.8,4.94,68,Fixed,19.5,395
+1898,Web Development,Fiverr,Beginner,Asia,Mobile Banking,262,8493,13.4,59.4,4.12,60,Fixed,78.42,92
+1899,Web Development,Fiverr,Expert,Australia,Mobile Banking,253,5702,85.34,67.77,4.43,89,Hourly,77.5,260
+1900,Graphic Design,Freelancer,Expert,Canada,PayPal,249,3551,66.87,89.19,3.14,4,Hourly,21.46,297
+1901,Content Writing,Fiverr,Beginner,Middle East,Mobile Banking,255,7324,95.99,77.71,3.84,17,Fixed,30.96,16
+1902,SEO,PeoplePerHour,Beginner,Middle East,Mobile Banking,127,1652,36.95,50.26,3.23,1,Fixed,17.01,110
+1903,Data Entry,Freelancer,Expert,Asia,PayPal,173,7409,25.2,88.05,4.23,33,Hourly,29.02,327
+1904,Digital Marketing,Upwork,Beginner,Asia,PayPal,179,563,58.39,51.77,4.88,30,Fixed,67.12,359
+1905,Graphic Design,Freelancer,Beginner,Europe,PayPal,273,8683,56.09,87.29,4.32,5,Fixed,36.48,487
+1906,Customer Support,Fiverr,Beginner,Australia,Crypto,208,8242,61.15,60.12,3.15,12,Fixed,16.19,93
+1907,Data Entry,PeoplePerHour,Expert,Europe,PayPal,70,6551,38.02,97.9,3.71,32,Hourly,33.96,9
+1908,Content Writing,Freelancer,Beginner,Australia,PayPal,63,952,5.56,68.4,4.1,38,Fixed,78.7,211
+1909,Data Entry,PeoplePerHour,Intermediate,UK,Mobile Banking,223,5769,8.33,66.35,3.81,17,Fixed,54.08,236
+1910,Customer Support,Upwork,Intermediate,Middle East,Bank Transfer,270,9462,68.06,57.44,4.67,58,Hourly,39.13,253
+1911,App Development,Upwork,Expert,Asia,Bank Transfer,145,8198,54.71,65.28,4.63,40,Fixed,21.66,15
+1912,Web Development,Toptal,Beginner,UK,Crypto,240,2371,83.0,93.83,4.22,24,Fixed,79.03,488
+1913,App Development,Toptal,Intermediate,Europe,Crypto,222,905,33.54,99.82,3.75,12,Hourly,67.46,143
+1914,Web Development,Freelancer,Expert,Canada,Bank Transfer,19,1067,82.47,68.42,3.51,19,Hourly,29.7,41
+1915,Graphic Design,Toptal,Intermediate,USA,Bank Transfer,142,5329,45.42,72.43,3.21,29,Hourly,14.9,2
+1916,Customer Support,PeoplePerHour,Beginner,Canada,PayPal,236,7762,14.19,86.1,3.71,85,Hourly,13.96,406
+1917,Content Writing,Toptal,Expert,Canada,Mobile Banking,93,4730,97.9,94.31,3.83,52,Hourly,18.43,469
+1918,Content Writing,PeoplePerHour,Intermediate,USA,PayPal,81,7122,53.63,79.65,4.35,17,Fixed,50.65,376
+1919,Data Entry,Toptal,Expert,Middle East,Crypto,140,6674,64.8,69.58,4.32,73,Fixed,75.01,155
+1920,Graphic Design,Toptal,Intermediate,UK,Bank Transfer,114,245,68.73,70.63,3.14,21,Hourly,44.77,493
+1921,Content Writing,Toptal,Intermediate,UK,Crypto,95,4744,39.43,84.78,3.79,60,Fixed,69.01,172
+1922,SEO,Fiverr,Beginner,Middle East,PayPal,194,9574,76.02,50.16,3.36,75,Hourly,41.21,483
+1923,SEO,Fiverr,Beginner,USA,Crypto,77,4701,87.68,80.98,3.31,20,Fixed,59.6,451
+1924,App Development,Toptal,Intermediate,Australia,Crypto,177,7041,41.78,67.77,4.65,53,Fixed,61.23,485
+1925,Web Development,PeoplePerHour,Expert,Canada,Mobile Banking,39,9759,67.42,89.71,3.08,80,Fixed,22.18,23
+1926,Data Entry,Freelancer,Expert,Europe,Crypto,214,2747,76.93,54.65,3.84,63,Hourly,35.29,274
+1927,Digital Marketing,Upwork,Beginner,UK,PayPal,137,1107,23.06,79.41,3.34,57,Hourly,54.61,74
+1928,Customer Support,Fiverr,Intermediate,Middle East,Mobile Banking,287,5257,36.6,74.05,4.76,29,Hourly,14.95,39
+1929,Web Development,Toptal,Beginner,Europe,Crypto,202,2842,15.34,82.12,4.11,1,Fixed,35.31,301
+1930,Graphic Design,Upwork,Intermediate,Asia,PayPal,36,470,62.21,53.24,3.46,82,Hourly,47.44,39
+1931,Content Writing,Fiverr,Intermediate,USA,Bank Transfer,140,2864,81.09,79.0,4.0,59,Fixed,79.74,61
+1932,Web Development,Freelancer,Beginner,Europe,Mobile Banking,252,2890,63.03,78.07,4.46,64,Fixed,43.22,237
+1933,Digital Marketing,PeoplePerHour,Expert,Europe,Crypto,150,1081,22.08,78.03,4.92,86,Hourly,67.12,486
+1934,Digital Marketing,Toptal,Beginner,Canada,Crypto,147,7689,56.91,80.17,3.44,72,Fixed,40.24,244
+1935,SEO,Freelancer,Intermediate,USA,Mobile Banking,238,1541,84.32,83.82,4.77,71,Fixed,65.75,17
+1936,Graphic Design,Fiverr,Beginner,Europe,PayPal,48,5025,33.76,90.25,4.87,89,Fixed,51.68,139
+1937,Web Development,Toptal,Expert,UK,Crypto,36,4997,84.1,63.49,4.83,44,Hourly,72.06,397
+1938,Data Entry,Upwork,Expert,USA,PayPal,235,559,79.54,91.25,4.27,48,Hourly,38.77,494
+1939,Web Development,PeoplePerHour,Intermediate,UK,Mobile Banking,32,1909,7.07,74.91,4.26,75,Hourly,52.3,81
+1940,SEO,Fiverr,Beginner,Middle East,Crypto,164,5111,27.75,53.85,3.81,15,Fixed,54.1,188
+1941,App Development,PeoplePerHour,Expert,Middle East,Bank Transfer,211,1908,56.58,52.93,4.5,35,Fixed,39.22,107
+1942,Digital Marketing,Toptal,Beginner,Asia,Bank Transfer,22,9155,73.17,66.71,4.06,23,Hourly,20.1,233
+1943,Graphic Design,Freelancer,Expert,Australia,Bank Transfer,107,5657,88.65,89.24,4.35,53,Fixed,16.55,267
+1944,Graphic Design,PeoplePerHour,Intermediate,Middle East,Mobile Banking,74,2115,65.9,85.38,3.86,45,Hourly,11.17,103
+1945,Data Entry,Upwork,Intermediate,Europe,Crypto,123,3016,41.13,89.43,4.46,85,Hourly,71.15,410
+1946,Graphic Design,Fiverr,Beginner,USA,Mobile Banking,143,6823,22.54,75.86,4.65,13,Hourly,26.55,133
+1947,SEO,Upwork,Intermediate,Middle East,Crypto,164,7942,77.2,72.01,3.29,34,Hourly,24.81,343
+1948,SEO,PeoplePerHour,Expert,UK,Bank Transfer,236,9838,24.64,57.37,4.67,38,Fixed,61.52,370
+1949,SEO,Freelancer,Intermediate,Europe,Bank Transfer,152,4492,71.07,66.41,4.08,70,Fixed,32.4,32
+1950,Graphic Design,Freelancer,Expert,Middle East,PayPal,247,9297,22.22,71.7,4.69,68,Fixed,45.42,236
