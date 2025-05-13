@@ -43,7 +43,7 @@ The goal is to demonstrate the practical application of data processing and visu
 * Conclusion – Discussion of results and possible improvements
 
 ### 👥 Authors:
-Team 1: [Adnan Muradbegović](https://github.com/amuradbegovic), [Tarik Redžić](https://github.com/TarikRedzic), [Zlatan Ljutika](https://github.com/Ljut)
+Team 1: [Adnan Muradbegović](https://github.com/amuradbegovic), [Tarik Redžić](https://github.com/TarikRedzic), [Zlatan Ljutika](https://github.com/Ljut), [Aid Mustafić](https://github.com/astaffz)
 ## Esperanto
 
 ### 📘 Enkonduko
